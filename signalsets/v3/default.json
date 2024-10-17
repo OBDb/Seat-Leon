@@ -1,2 +1,11 @@
-{ "commands": []
+{ "commands": [
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "202F"}, "freq": 1,
+  "signals": [
+    {"id": "LEON_EOT", "path": "Engine", "fmt": { "len": 8, "max": 197, "min": -58, "unit": "celsius" }, "name": "Engine oil temperature"}
+  ]},
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "2203"}, "freq": 10,
+  "signals": [
+    {"id": "LEON_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+  ]}
+]
 }
