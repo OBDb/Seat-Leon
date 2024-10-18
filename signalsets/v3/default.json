@@ -6,6 +6,38 @@
 { "hdr": "714", "rax": "77E", "cmd": {"22": "2203"}, "freq": 10,
   "signals": [
     {"id": "LEON_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+  ]},
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "2294"}, "freq": 10,
+  "signals": [
+    {"id": "LEON_RANGE", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Range remaining", "suggestedMetric": "fuelRange"}
+  ]},
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "229A"}, "freq": 0.5,
+  "signals": [
+    {"id": "LEON_FUEL_LVL", "path": "Fuel", "fmt": { "len": 16, "max": 8191, "div": 8, "unit": "liters" }, "name": "Fuel level"}
+  ]},
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "2613"}, "freq": 0.5,
+  "signals": [
+    {"id": "LEON_CABIN_T", "path": "Climate", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "celsius" }, "name": "Cabin temperature"}
+  ]},
+{ "hdr": "715", "rax": "77F", "cmd": {"22": "2353"}, "freq": 3600,
+  "signals": [
+    {"id": "LEON_CRSH_FRONT", "path": "Stats", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of crashes (front)"}
+  ]},
+{ "hdr": "715", "rax": "77F", "cmd": {"22": "2354"}, "freq": 3600,
+  "signals": [
+    {"id": "LEON_CRSH_SIDE_DRVR", "path": "Stats", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of crashes (driver side)"}
+  ]},
+{ "hdr": "715", "rax": "77F", "cmd": {"22": "2355"}, "freq": 3600,
+  "signals": [
+    {"id": "LEON_CRSH_SIDE_PSGR", "path": "Stats", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of crashes (passenger side)"}
+  ]},
+{ "hdr": "715", "rax": "77F", "cmd": {"22": "2356"}, "freq": 3600,
+  "signals": [
+    {"id": "LEON_CRSH_REAR", "path": "Stats", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of crashes (rear)"}
+  ]},
+{ "hdr": "715", "rax": "77F", "cmd": {"22": "2357"}, "freq": 3600,
+  "signals": [
+    {"id": "LEON_CRSH_ROLL", "path": "Stats", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of crashes (roll-over)"}
   ]}
 ]
 }
