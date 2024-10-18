@@ -10,18 +10,6 @@
 { "hdr": "714", "rax": "77E", "cmd": {"22": "2203"}, "freq": 10,
   "signals": [
     {"id": "LEON_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
-  ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "2294"}, "freq": 10,
-  "signals": [
-    {"id": "LEON_RANGE", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Range remaining", "suggestedMetric": "fuelRange"}
-  ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "229A"}, "freq": 0.5,
-  "signals": [
-    {"id": "LEON_FUEL_LVL", "path": "Fuel", "fmt": { "len": 16, "max": 8191, "div": 8, "unit": "liters" }, "name": "Fuel level"}
-  ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "2613"}, "freq": 5,
-  "signals": [
-    {"id": "LEON_CAT", "path": "Climate", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "celsius" }, "name": "Cabin temperature"}
   ]}
 ]
 }
