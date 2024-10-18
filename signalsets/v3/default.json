@@ -1,7 +1,7 @@
 { "commands": [
 { "hdr": "714", "rax": "77E", "cmd": {"22": "1014"}, "freq": 5,
   "signals": [
-    {"id": "LEON_AAT", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "celsius" }, "name": "Ambient air temperature"}
+    {"id": "LEON_AAT", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Ambient air temperature", "description": "More testing of this parameter is needed"}
   ]},
 { "hdr": "714", "rax": "77E", "cmd": {"22": "202F"}, "freq": 1,
   "signals": [
