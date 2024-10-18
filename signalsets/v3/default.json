@@ -5,7 +5,7 @@
   ]},
 { "hdr": "714", "rax": "77E", "cmd": {"22": "2203"}, "freq": 10,
   "signals": [
-    {"id": "LEON_ODO", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "LEON_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]}
 ]
 }
