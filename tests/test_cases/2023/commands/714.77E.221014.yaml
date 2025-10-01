@@ -1,5 +1,32 @@
 command_id: 714.77E.221014
 test_cases:
 - expected_values:
+    LEON_AAT: 114
+  response: '77E0462101472'
+- expected_values:
+    LEON_AAT: 115
+  response: '77E0462101473'
+- expected_values:
+    LEON_AAT: 116
+  response: '77E0462101474'
+- expected_values:
+    LEON_AAT: 117
+  response: '77E0462101475'
+- expected_values:
+    LEON_AAT: 118
+  response: '77E0462101476'
+- expected_values:
+    LEON_AAT: 119
+  response: '77E0462101477'
+- expected_values:
+    LEON_AAT: 120
+  response: '77E0462101478'
+- expected_values:
+    LEON_AAT: 121
+  response: '77E0462101479'
+- expected_values:
+    LEON_AAT: 122
+  response: 77E046210147A
+- expected_values:
     LEON_AAT: 124
   response: 77E046210147C
