@@ -1,13 +1,13 @@
 { "commands": [
-{ "hdr": "714", "rax": "77E", "dbg": true, "cmd": {"22": "1014"}, "freq": 5,
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "1014"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "LEON_AAT", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Ambient air temperature", "description": "More testing of this parameter is needed"}
   ]},
-{ "hdr": "714", "rax": "77E", "dbg": true, "cmd": {"22": "202F"}, "freq": 1,
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "202F"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "LEON_EOT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "fahrenheit" }, "name": "Engine oil temperature"}
   ]},
-{ "hdr": "714", "rax": "77E", "dbg": true, "cmd": {"22": "2203"}, "freq": 10,
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "2203"}, "freq": 10, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "LEON_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]}

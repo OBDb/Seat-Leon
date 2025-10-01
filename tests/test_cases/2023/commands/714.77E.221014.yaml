@@ -1,0 +1,5 @@
+command_id: 714.77E.221014
+test_cases:
+- expected_values:
+    LEON_AAT: 124
+  response: 77E046210147C

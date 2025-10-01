@@ -1,0 +1,11 @@
+command_id: 714.77E.222203
+test_cases:
+- expected_values:
+    LEON_ODO: 85146
+  response: 77E06622203014C9A
+- expected_values:
+    LEON_ODO: 85147
+  response: 77E06622203014C9B
+- expected_values:
+    LEON_ODO: 85148
+  response: 77E06622203014C9C
