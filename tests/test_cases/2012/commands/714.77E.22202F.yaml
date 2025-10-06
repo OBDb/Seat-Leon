@@ -4,23 +4,5 @@ test_cases:
     LEON_EOT: 65
   response: 77E0462202F41
 - expected_values:
-    LEON_EOT: 66
-  response: 77E0462202F42
-- expected_values:
-    LEON_EOT: 67
-  response: 77E0462202F43
-- expected_values:
-    LEON_EOT: 73
-  response: 77E0462202F49
-- expected_values:
-    LEON_EOT: 77
-  response: 77E0462202F4D
-- expected_values:
-    LEON_EOT: 78
-  response: 77E0462202F4E
-- expected_values:
-    LEON_EOT: 80
-  response: 77E0462202F50
-- expected_values:
-    LEON_EOT: 81
-  response: 77E0462202F51
+    LEON_EOT: 92
+  response: 77E0462202F5C
