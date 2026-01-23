@@ -1,8 +1,8 @@
 command_id: 714.77E.221014
 test_cases:
 - expected_values:
-    LEON_AAT: 101
+    LEON_AAT: 0.5
   response: '77E0462101465'
 - expected_values:
-    LEON_AAT: 113
+    LEON_AAT: 6.5
   response: '77E0462101471'
