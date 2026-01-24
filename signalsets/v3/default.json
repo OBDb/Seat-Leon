@@ -19,7 +19,7 @@
   "signals": [
     {"id": "LEON_CHARGE_AIR_P", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Charge air pressure"}
   ]},
-{ "hdr": "714", "rax": "77E", "dbg": true, "cmd": {"22": "224B"}, "freq": 1,
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "224B"}, "freq": 1, "dbgfilter": { "to": 2011, "from": 2013 },
   "signals": [
     {"id": "LEON_OIL_WEAR", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Oil thermal wear"}
   ]},
