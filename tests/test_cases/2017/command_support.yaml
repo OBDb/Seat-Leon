@@ -53,6 +53,7 @@ supported_commands_by_ecu:
   - 7E0.0105:ECT
   - 7E0.0106:SHRTFT1
   - 7E0.010D:VSS
+  - 7E0.010F:IAT
   - 7E0.0111:TP
   - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
