@@ -1,7 +1,10 @@
+references:
+  - "https://en.wikipedia.org/wiki/Seat_Leon"
+
 generations:
   - name: "First Generation"
     start_year: 1999
-    end_year: 2005
+    end_year: 2006
     description: "The first-generation SEAT Leon was introduced as the Spanish brand's entry into the compact hatchback segment, effectively replacing the SEAT Toledo as the brand's C-segment contender. Built on the Volkswagen Group's PQ34 platform shared with contemporaries like the Volkswagen Golf Mk4, Audi A3 Mk1, and Škoda Octavia, the original Leon featured distinctive styling by Giorgetto Giugiaro with a sleeker, more dynamic appearance than its Volkswagen Group siblings. Available exclusively as a five-door hatchback, the Leon measured approximately 4.18 meters in length. Engine options included a wide range of Volkswagen Group powertrains, from 1.4-liter to 2.8-liter gasoline units (including the 1.8T in various states of tune) and 1.9-liter diesel engines in both naturally aspirated SDI and turbocharged TDI forms, with power outputs ranging from 68 to 180 horsepower in standard models. The range-topping Leon Cupra R featured a 210-horsepower (later 225-horsepower) version of the 1.8T engine, making it the most powerful production SEAT at the time. The interior shared components with other Volkswagen Group products but featured unique styling elements and sportier appointments, particularly in FR and Cupra models. A mild facelift in 2004 brought subtle exterior updates and equipment improvements. The first-generation Leon established the nameplate as a sportier, more distinctively styled alternative to the Golf, particularly appealing to younger buyers looking for a more expressive design without sacrificing the solid engineering and reliability associated with Volkswagen Group products."
 
   - name: "Second Generation"
