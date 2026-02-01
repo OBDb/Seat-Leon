@@ -1,8 +1,8 @@
 command_id: 714.77E.22202F
 test_cases:
 - expected_values:
-    LEON_EOT: -11
-  response: 77E0462202F2F
+    LEON_EOT: -40
+  response: 77E0462202F12
 - expected_values:
     LEON_EOT: 197
   response: 77E0462202FFF
