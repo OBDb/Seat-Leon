@@ -79,3 +79,7 @@ unsupported_commands_by_ecu:
   - 714.77E.222294:LEON_DTE
   - 714.77E.222299:LEON_FUEL_AVG
   - 714.77E.22229A:LEON_FLI_IN
+  "7E4":
+  - 7E4.7EC.0104
+  - 7E4.7EC.0105
+  - 7E4.7EC.010D
