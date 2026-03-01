@@ -1,13 +1,13 @@
 { "commands": [
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "1014"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2018, 2020, 2022], "from": 2024 },
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "1014"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2018, 2020, 2022], "from": 2024 },
   "signals": [
     {"id": "LEON_AAT", "path": "Climate", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Ambient air temperature"}
   ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "202F"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2018, 2020, 2022], "from": 2024 },
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "202F"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2018, 2020, 2022], "from": 2024 },
   "signals": [
     {"id": "LEON_EOT", "path": "Engine", "fmt": { "len": 8, "max": 197, "min": -58, "add": -58, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "2203"}, "freq": 10, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2018, 2020, 2022], "from": 2024 },
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "2203"}, "freq": 10, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2018, 2020, 2022], "from": 2024 },
   "signals": [
     {"id": "LEON_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
@@ -19,7 +19,7 @@
   "signals": [
     {"id": "LEON_CHARGE_AIR_P", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Charge air pressure"}
   ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "224B"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2018, 2020, 2022], "from": 2024 },
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "224B"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2018, 2020, 2022], "from": 2024 },
   "signals": [
     {"id": "LEON_OIL_WEAR", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Oil thermal wear"}
   ]},
@@ -35,7 +35,7 @@
   "signals": [
     {"id": "LEON_FLI_IN", "path": "Fuel", "fmt": { "len": 16, "max": 8191.875, "div": 8, "unit": "liters" }, "name": "Fuel level input", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2104"}, "freq": 1, "dbgfilter": { "to": 2020, "years": [2022], "from": 2024 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2104"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2020, 2022], "from": 2024 },
   "signals": [
     {"id": "LEON_ATF_T", "path": "Transmission", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Automatic transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]}

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222104
+test_cases:
+- expected_values:
+    LEON_ATF_T: -22
+  response: '7E9056221041200'
