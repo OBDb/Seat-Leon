@@ -4,5 +4,5 @@ test_cases:
     LEON_ATF_T: -30
   response: 7E9056221040A00
 - expected_values:
-    LEON_ATF_T: 46
-  response: '7E9056221045600'
+    LEON_ATF_T: 50
+  response: 7E9056221045A00
