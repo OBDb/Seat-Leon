@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEON_AAT: 9
   response: '77E0462101476'
+- expected_values:
+    LEON_AAT: 17
+  response: '77E0462101486'

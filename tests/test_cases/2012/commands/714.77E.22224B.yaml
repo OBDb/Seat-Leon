@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEON_OIL_WEAR: 424
   response: 77E0562224B01A8
+- expected_values:
+    LEON_OIL_WEAR: 434
+  response: 77E0562224B01B2
