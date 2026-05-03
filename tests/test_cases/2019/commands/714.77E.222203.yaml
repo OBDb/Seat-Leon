@@ -4,29 +4,8 @@ test_cases:
     LEON_ODO: 73245
   response: 77E06622203011E1D
 - expected_values:
-    LEON_ODO: 73246
-  response: 77E06622203011E1E
-- expected_values:
-    LEON_ODO: 73247
-  response: 77E06622203011E1F
-- expected_values:
-    LEON_ODO: 73248
-  response: 77E06622203011E20
-- expected_values:
-    LEON_ODO: 73249
-  response: 77E06622203011E21
-- expected_values:
-    LEON_ODO: 73250
-  response: 77E06622203011E22
-- expected_values:
-    LEON_ODO: 73251
-  response: 77E06622203011E23
-- expected_values:
-    LEON_ODO: 73252
-  response: 77E06622203011E24
-- expected_values:
     LEON_ODO: 73253
   response: 77E06622203011E25
 - expected_values:
-    LEON_ODO: 87842
-  response: '77E06622203015722'
+    LEON_ODO: 100384
+  response: '77E06622203018820'

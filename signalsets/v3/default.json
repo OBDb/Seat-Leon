@@ -15,7 +15,7 @@
   "signals": [
     {"id": "LEON_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "2211"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2022], "from": 2024 },
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "2211"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2020, 2022], "from": 2024 },
   "signals": [
     {"id": "LEON_CHARGE_AIR_P", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Charge air pressure"}
   ]},
