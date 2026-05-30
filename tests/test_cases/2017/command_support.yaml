@@ -53,6 +53,10 @@ supported_commands_by_ecu:
   - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
   - 7E0.0144:EQ_RAT
+  "7E1":
+  - 7E1.7E9.0104
+  - 7E1.7E9.0105
+  - 7E1.7E9.010D
 unsupported_commands_by_ecu:
   "714":
   - 714.77E.222206:LEON_FLI
@@ -60,7 +64,4 @@ unsupported_commands_by_ecu:
   - 714.77E.222299:LEON_FUEL_AVG
   - 714.77E.22229A:LEON_FLI_IN
   "7E1":
-  - 7E1.7E9.0104
-  - 7E1.7E9.0105
-  - 7E1.7E9.010D
   - 7E1.7E9.222104:LEON_ATF_T
