@@ -46,6 +46,8 @@ supported_commands_by_ecu:
   - 7E0.0104:LOAD_PCT
   - 7E0.0105:ECT
   - 7E0.0106:SHRTFT1
+  - 7E0.010B:MAP
+  - 7E0.010C:RPM
   - 7E0.010D:VSS
   - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
