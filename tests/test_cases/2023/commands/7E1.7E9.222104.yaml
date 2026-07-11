@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
-    LEON_ATF_T: 13
-  response: '7E9056221043500'
+    LEON_ATF_T: -40
+  response: '7E9056221040000'
 - expected_values:
     LEON_ATF_T: 60
   response: '7E9056221046400'
