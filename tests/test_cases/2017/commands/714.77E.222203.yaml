@@ -10,5 +10,5 @@ test_cases:
     LEON_ODO: 155903
   response: 77E066222030260FF
 - expected_values:
-    LEON_ODO: 166144
-  response: '77E06622203028900'
+    LEON_ODO: 166400
+  response: 77E06622203028A00
