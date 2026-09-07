@@ -7,6 +7,7 @@ supported_commands_by_ecu:
   - 714.77E.222211:LEON_CHARGE_AIR_P
   - 714.77E.22224B:LEON_OIL_WEAR
   "7DF":
+  - 7DF.0105
   - 7DF.0106
   - 7DF.010D
   - 7DF.0131
