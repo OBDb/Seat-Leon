@@ -7,8 +7,8 @@ test_cases:
     VPWR: 12.038
   response: 7E80441422F06
 - expected_values:
-    VPWR: 14.324
-  response: 7E804414237F4
+    VPWR: 13.311
+  response: 7E804414233FF
 - expected_values:
-    VPWR: 14.63
-  response: '7E80441423926'
+    VPWR: 14.889
+  response: 7E80441423A29
