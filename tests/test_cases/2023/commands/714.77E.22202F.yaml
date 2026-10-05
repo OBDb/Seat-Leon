@@ -4,5 +4,5 @@ test_cases:
     LEON_EOT: 14
   response: 77E0462202F48
 - expected_values:
-    LEON_EOT: 125
-  response: 77E0462202FB7
+    LEON_EOT: 197
+  response: 77E0462202FFF
