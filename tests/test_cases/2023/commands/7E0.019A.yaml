@@ -1,7 +1,7 @@
 command_id: 7E0.019A
 test_cases:
 - expected_values:
-    EHEV_MODE: CSM
+    EHEV_MODE: CDM
     EHEV_MODE_SUP: 1
     HEV_BATT_A: 0
     HEV_BATT_A_SUP: 0
@@ -13,7 +13,7 @@ test_cases:
     7E81008419A08020000
     7E8210000AAAAAAAAAA
 - expected_values:
-    EHEV_MODE: CSM
+    EHEV_MODE: CIM
     EHEV_MODE_SUP: 1
     HEV_BATT_A: 0
     HEV_BATT_A_SUP: 0
@@ -25,7 +25,7 @@ test_cases:
     7E81008419A08040000
     7E8210000AAAAAAAAAA
 - expected_values:
-    EHEV_MODE: CSM
+    EHEV_MODE: Not PSA
     EHEV_MODE_SUP: 1
     HEV_BATT_A: 0
     HEV_BATT_A_SUP: 0
