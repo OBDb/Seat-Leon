@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22426E
+test_cases:
+- expected_values:
+    LEON_MIS_PER_1000_4: 0
+  response: 7E80562426E0000

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    LEON_RUNTM: 82
+  response: 7E80562F41F0052
+- expected_values:
+    LEON_RUNTM: 502
+  response: 7E80562F41F01F6
+- expected_values:
+    LEON_RUNTM: 772
+  response: 7E80562F41F0304

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222927
+test_cases:
+- expected_values:
+    LEON_TEST_CATALYTIC_CONV_STAT: 5
+  response: '7E80462292705'

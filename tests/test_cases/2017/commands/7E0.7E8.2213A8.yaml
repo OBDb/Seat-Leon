@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2213A8
+test_cases:
+- expected_values:
+    LEON_TI_MES4_PLS_3_0: 0
+  response: 7E8056213A80000
+- expected_values:
+    LEON_TI_MES4_PLS_3_0: 0.584
+  response: 7E8056213A80092
+- expected_values:
+    LEON_TI_MES4_PLS_3_0: 1.024
+  response: 7E8056213A80100

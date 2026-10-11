@@ -1,0 +1,32 @@
+command_id: 713.77D.221802|fc=1
+test_cases:
+- expected_values:
+    LEON_RL_VSS_V2: 0
+  response: |-
+    77D100E621802000000
+    77D21FFFFFFFEFFFEFF
+    77D22FEAAAAAAAAAAAA
+- expected_values:
+    LEON_RL_VSS_V2: 0
+  response: |-
+    77D100E621802000030
+    77D210007FFFEFFFEFF
+    77D22FEAAAAAAAAAAAA
+- expected_values:
+    LEON_RL_VSS_V2: 34
+  response: |-
+    77D100E621802015430
+    77D210007FFFFFFFFFF
+    77D22FFAAAAAAAAAAAA
+- expected_values:
+    LEON_RL_VSS_V2: 48.2
+  response: |-
+    77D100E62180201E230
+    77D210007FFFFFFFFFF
+    77D22FFAAAAAAAAAAAA
+- expected_values:
+    LEON_RL_VSS_V2: 57.2
+  response: |-
+    77D100E621802023C30
+    77D210007FFFFFFFFFF
+    77D22FFAAAAAAAAAAAA

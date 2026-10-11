@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22209A
+test_cases:
+- expected_values:
+    LEON_FUEL_METERING_VLV: 0
+  response: 7E80562209A0000
+- expected_values:
+    LEON_FUEL_METERING_VLV: 20.21
+  response: 7E80562209A07E5
+- expected_values:
+    LEON_FUEL_METERING_VLV: 35.48
+  response: 7E80562209A0DDC

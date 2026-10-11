@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.223996
+test_cases:
+- expected_values:
+    LEON_MIXTURE_ADPT_FACTOR: 1.64
+  response: 7E80562399600A4
+- expected_values:
+    LEON_MIXTURE_ADPT_FACTOR: 2.2
+  response: 7E80562399600DC
+- expected_values:
+    LEON_MIXTURE_ADPT_FACTOR: 3.61
+  response: '7E8056239960169'

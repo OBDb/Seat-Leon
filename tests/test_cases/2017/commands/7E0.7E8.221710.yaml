@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221710
+test_cases:
+- expected_values:
+    LEON_FUEL_MIX_CORR: -273.1
+  response: '7E8056217100000'

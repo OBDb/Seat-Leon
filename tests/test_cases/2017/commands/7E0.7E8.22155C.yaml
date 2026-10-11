@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22155C
+test_cases:
+- expected_values:
+    LEON_SPARK_EFFICIENCY_DEV_PART_MAX: 0
+  response: 7E80462155C00

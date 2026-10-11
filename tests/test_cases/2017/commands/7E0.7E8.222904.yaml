@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222904
+test_cases:
+- expected_values:
+    LEON_MIS_TOT: 0
+  response: '7E8056229040000'
+- expected_values:
+    LEON_MIS_TOT: 1
+  response: '7E8056229040001'

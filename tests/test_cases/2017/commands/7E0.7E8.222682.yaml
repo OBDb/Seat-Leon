@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222682
+test_cases:
+- expected_values:
+    LEON_CLT_SHUT_OFF_VLV: 0
+  response: '7E80462268200'

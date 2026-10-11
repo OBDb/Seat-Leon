@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2229D4
+test_cases:
+- expected_values:
+    LEON_ENG_TRQ_REQ_1: 0.1
+  response: 7E8056229D40001
+- expected_values:
+    LEON_ENG_TRQ_REQ_1: 23.7
+  response: 7E8056229D400ED
+- expected_values:
+    LEON_ENG_TRQ_REQ_1: 85
+  response: 7E8056229D40352

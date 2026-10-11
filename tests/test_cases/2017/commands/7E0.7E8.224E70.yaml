@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.224E70
+test_cases:
+- expected_values:
+    LEON_KNOCK_SENSORS_AVG_V_1_2: 0
+  response: 7E805624E700000
+- expected_values:
+    LEON_KNOCK_SENSORS_AVG_V_1_2: 0.508
+  response: 7E805624E7001FC
+- expected_values:
+    LEON_KNOCK_SENSORS_AVG_V_1_2: 0.547
+  response: 7E805624E700223

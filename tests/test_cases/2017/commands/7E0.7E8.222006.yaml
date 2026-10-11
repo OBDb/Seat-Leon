@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222006
+test_cases:
+- expected_values:
+    LEON_PQ35_OIL_FILL_LEVEL: 0.36
+  response: '7E8056220060006'
+- expected_values:
+    LEON_PQ35_OIL_FILL_LEVEL: 4.68
+  response: 7E805622006004E

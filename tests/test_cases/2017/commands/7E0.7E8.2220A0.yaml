@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2220A0
+test_cases:
+- expected_values:
+    LEON_TQ_LIM_CLU: 1024
+  response: 7E8056220A02800

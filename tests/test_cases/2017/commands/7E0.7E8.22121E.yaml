@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22121E
+test_cases:
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 454700
+  response: 7E80562121E11C3
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 454800
+  response: 7E80562121E11C4

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2213AE
+test_cases:
+- expected_values:
+    LEON_TI_1_MPI_2: 0
+  response: 7E8056213AE0000
+- expected_values:
+    LEON_TI_1_MPI_2: 5.332
+  response: 7E8056213AE0535

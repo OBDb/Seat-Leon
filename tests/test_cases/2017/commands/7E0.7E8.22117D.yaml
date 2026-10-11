@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22117D
+test_cases:
+- expected_values:
+    LEON_N_32: 768
+  response: 7E80462117D18
+- expected_values:
+    LEON_N_32: 2336
+  response: 7E80462117D49

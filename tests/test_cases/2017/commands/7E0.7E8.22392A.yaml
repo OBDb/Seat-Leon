@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22392A
+test_cases:
+- expected_values:
+    LEON_T_SENS_ENG_T: 26.2
+  response: 7E80562392A0106
+- expected_values:
+    LEON_T_SENS_ENG_T: 77.2
+  response: 7E80562392A0304
+- expected_values:
+    LEON_T_SENS_ENG_T: 101.2
+  response: 7E80562392A03F4
+- expected_values:
+    LEON_T_SENS_ENG_T: 103.5
+  response: 7E80562392A040B

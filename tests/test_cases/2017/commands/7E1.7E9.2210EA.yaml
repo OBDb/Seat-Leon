@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2210EA
+test_cases:
+- expected_values:
+    LEON_PQ35_CLUTCH_2_SUCCESSFUL_ADAPTS_COUNTER: 45016
+  response: 7E9056210EAD8AF
+- expected_values:
+    LEON_PQ35_CLUTCH_2_SUCCESSFUL_ADAPTS_COUNTER: 45019
+  response: 7E9056210EADBAF

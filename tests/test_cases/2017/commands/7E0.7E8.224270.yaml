@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.224270
+test_cases:
+- expected_values:
+    LEON_OIL_P_SWITCH_PISTON: 0
+  response: '7E80462427000'
+- expected_values:
+    LEON_OIL_P_SWITCH_PISTON: 1
+  response: '7E80462427001'

@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.223803
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_BRAKE_P: 0
+  response: '7E9056238030000'
+- expected_values:
+    LEON_MQB_TCM_BRAKE_P: 27
+  response: 7E9056238038C0A
+- expected_values:
+    LEON_MQB_TCM_BRAKE_P: 4.8
+  response: 7E905623803E001

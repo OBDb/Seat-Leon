@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22138D
+test_cases:
+- expected_values:
+    LEON_IGA_IGC_3: -11.641
+  response: 7E80462138D40
+- expected_values:
+    LEON_IGA_IGC_3: 27.70775
+  response: 7E80462138DA9

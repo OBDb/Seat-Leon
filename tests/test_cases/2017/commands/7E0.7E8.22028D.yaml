@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22028D
+test_cases:
+- expected_values:
+    LEON_ENG_CTRL_MODULE_T: 19
+  response: 7E80562028D00BE
+- expected_values:
+    LEON_ENG_CTRL_MODULE_T: 23
+  response: 7E80562028D00E6
+- expected_values:
+    LEON_ENG_CTRL_MODULE_T: 24
+  response: 7E80562028D00F0
+- expected_values:
+    LEON_ENG_CTRL_MODULE_T: 25
+  response: 7E80562028D00FA
+- expected_values:
+    LEON_ENG_CTRL_MODULE_T: 26
+  response: 7E80562028D0104
+- expected_values:
+    LEON_ENG_CTRL_MODULE_T: 27
+  response: 7E80562028D010E
+- expected_values:
+    LEON_ENG_CTRL_MODULE_T: 28
+  response: 7E80562028D0118
+- expected_values:
+    LEON_ENG_CTRL_MODULE_T: 29
+  response: 7E80562028D0122
+- expected_values:
+    LEON_ENG_CTRL_MODULE_T: 30
+  response: 7E80562028D012C

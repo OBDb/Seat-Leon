@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222949
+test_cases:
+- expected_values:
+    LEON_AVG_IGN_TIM_ANG: 10.12
+  response: 7E80562294903F4
+- expected_values:
+    LEON_AVG_IGN_TIM_ANG: 15.37
+  response: '7E8056229490601'
+- expected_values:
+    LEON_AVG_IGN_TIM_ANG: 29.25
+  response: 7E8056229490B6D

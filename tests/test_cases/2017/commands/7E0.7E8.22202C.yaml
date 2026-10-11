@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22202C
+test_cases:
+- expected_values:
+    LEON_ECT_RADIATOR_OUTLET_SPEC: 21.7
+  response: 7E80562202C00D9
+- expected_values:
+    LEON_ECT_RADIATOR_OUTLET_SPEC: 101.2
+  response: 7E80562202C03F4
+- expected_values:
+    LEON_ECT_RADIATOR_OUTLET_SPEC: 102.7
+  response: 7E80562202C0403

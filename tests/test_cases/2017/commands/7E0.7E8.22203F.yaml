@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22203F
+test_cases:
+- expected_values:
+    LEON_TQ_LIM_7E0: 224.2
+  response: 7E80562203F08C2
+- expected_values:
+    LEON_TQ_LIM_7E0: 253.8
+  response: 7E80562203F09EA
+- expected_values:
+    LEON_TQ_LIM_7E0: 257.4
+  response: 7E80562203F0A0E

@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.223839
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: -68.15
+  response: 7E905623839ADFA
+- expected_values:
+    LEON_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: -66.1
+  response: 7E905623839D6FA
+- expected_values:
+    LEON_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: 24.8
+  response: 7E905623839F001

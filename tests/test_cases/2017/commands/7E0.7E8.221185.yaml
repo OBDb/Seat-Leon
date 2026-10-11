@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221185
+test_cases:
+- expected_values:
+    LEON_PSN_EDGE_REL_AD_CAM_2: -2.75
+  response: 7E805621185FFD4
+- expected_values:
+    LEON_PSN_EDGE_REL_AD_CAM_2: -2.625
+  response: 7E805621185FFD6
+- expected_values:
+    LEON_PSN_EDGE_REL_AD_CAM_2: -2.5
+  response: 7E805621185FFD8
+- expected_values:
+    LEON_PSN_EDGE_REL_AD_CAM_2: -1.75
+  response: 7E805621185FFE4

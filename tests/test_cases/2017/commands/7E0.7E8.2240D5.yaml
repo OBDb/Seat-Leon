@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2240D5
+test_cases:
+- expected_values:
+    LEON_EOT_SENS_2: 12
+  response: 7E8056240D50078
+- expected_values:
+    LEON_EOT_SENS_2: 27
+  response: 7E8056240D5010E
+- expected_values:
+    LEON_EOT_SENS_2: 76
+  response: 7E8056240D502F8
+- expected_values:
+    LEON_EOT_SENS_2: 79
+  response: 7E8056240D50316

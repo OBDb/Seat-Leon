@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22201E
+test_cases:
+- expected_values:
+    LEON_CAM_ADJ_INT_ACT: 8.9
+  response: 7E80562201E0059
+- expected_values:
+    LEON_CAM_ADJ_INT_ACT: 51.1
+  response: 7E80562201E01FF
+- expected_values:
+    LEON_CAM_ADJ_INT_ACT: 51.9
+  response: 7E80562201E0207

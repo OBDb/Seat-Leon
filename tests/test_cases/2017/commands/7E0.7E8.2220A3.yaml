@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2220A3
+test_cases:
+- expected_values:
+    LEON_OIL_P_SWITCH_HIGH_P: 1
+    LEON_OIL_P_SWITCH_LOW_P: 1
+  response: 7E8046220A303
+- expected_values:
+    LEON_OIL_P_SWITCH_HIGH_P: 0
+    LEON_OIL_P_SWITCH_LOW_P: 0
+  response: 7E8046220A30C
+- expected_values:
+    LEON_OIL_P_SWITCH_HIGH_P: 0
+    LEON_OIL_P_SWITCH_LOW_P: 1
+  response: 7E8046220A329

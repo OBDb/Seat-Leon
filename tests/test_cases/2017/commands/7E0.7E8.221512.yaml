@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221512
+test_cases:
+- expected_values:
+    LEON_ECT_MIN: -48
+  response: '7E80462151200'
