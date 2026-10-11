@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.223999
+test_cases:
+- expected_values:
+    LEON_RELAY_RESERVE_CLT: 0
+  response: '7E80462399900'

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    LEON_CLR_DIST: 15655
+  response: 7E80562F4313D27
+- expected_values:
+    LEON_CLR_DIST: 15656
+  response: 7E80562F4313D28
+- expected_values:
+    LEON_CLR_DIST: 15657
+  response: 7E80562F4313D29
+- expected_values:
+    LEON_CLR_DIST: 15658
+  response: 7E80562F4313D2A
+- expected_values:
+    LEON_CLR_DIST: 15659
+  response: 7E80562F4313D2B
+- expected_values:
+    LEON_CLR_DIST: 15660
+  response: 7E80562F4313D2C
+- expected_values:
+    LEON_CLR_DIST: 15661
+  response: 7E80562F4313D2D

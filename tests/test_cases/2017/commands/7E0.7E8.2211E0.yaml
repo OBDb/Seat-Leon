@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2211E0
+test_cases:
+- expected_values:
+    LEON_CMD_CRANK_TQ: 2004.7
+  response: |-
+    7E8100C6211E04E4F5F
+    7E8214552524F5200AA

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.223823
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_P_CMD: 15.4
+  response: '7E9056238230406'
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_P_CMD: 25.08
+  response: 7E905623823CC09

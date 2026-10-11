@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222025
+test_cases:
+- expected_values:
+    LEON_FUEL_LOW_P_ACT: 4.527
+  response: 7E80562202511AF
+- expected_values:
+    LEON_FUEL_LOW_P_ACT: 4.591
+  response: 7E80562202511EF
+- expected_values:
+    LEON_FUEL_LOW_P_ACT: 4.636
+  response: 7E805622025121C
+- expected_values:
+    LEON_FUEL_LOW_P_ACT: 4.896
+  response: '7E8056220251320'

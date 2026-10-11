@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.223961
+test_cases:
+- expected_values:
+    LEON_KNOCK_SENS_CYL_2: 0.229
+  response: 7E80562396100E5
+- expected_values:
+    LEON_KNOCK_SENS_CYL_2: 0.246
+  response: 7E80562396100F6
+- expected_values:
+    LEON_KNOCK_SENS_CYL_2: 0.521
+  response: '7E8056239610209'

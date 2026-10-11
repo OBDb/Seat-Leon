@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.223852
+test_cases:
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 8.95
+  response: 7E9056238527F03
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: 7E905623852D1FF
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: 7E905623852D2FF

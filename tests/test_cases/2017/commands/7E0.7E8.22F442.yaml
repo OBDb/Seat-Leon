@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    LEON_VPWR: 14.609
+  response: 7E80562F4423911
+- expected_values:
+    LEON_VPWR: 14.648
+  response: 7E80562F4423938
+- expected_values:
+    LEON_VPWR: 14.667
+  response: 7E80562F442394B
+- expected_values:
+    LEON_VPWR: 14.687
+  response: 7E80562F442395F
+- expected_values:
+    LEON_VPWR: 14.707
+  response: 7E80562F4423973
+- expected_values:
+    LEON_VPWR: 14.726
+  response: 7E80562F4423986
+- expected_values:
+    LEON_VPWR: 14.746
+  response: 7E80562F442399A
+- expected_values:
+    LEON_VPWR: 14.765
+  response: 7E80562F44239AD
+- expected_values:
+    LEON_VPWR: 14.785
+  response: 7E80562F44239C1
+- expected_values:
+    LEON_VPWR: 14.804
+  response: 7E80562F44239D4

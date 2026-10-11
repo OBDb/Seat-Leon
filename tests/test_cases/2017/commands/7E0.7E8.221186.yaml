@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221186
+test_cases:
+- expected_values:
+    LEON_PSN_EDGE_REL_AD_CAM_SAVE_1: 1.875
+  response: 7E805621186001E

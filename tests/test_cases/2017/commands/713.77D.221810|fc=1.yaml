@@ -1,0 +1,32 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001001E
+    77D21FC3F000001F8AA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001001E
+    77D21FC46000001D4AA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001051E
+    77D21FC48000002D0AA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C6218100105E6
+    77D21FC53000002ACAA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C6218100106A4
+    77D21FC43000002ACAA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001099C
+    77D21FC57000001C2AA

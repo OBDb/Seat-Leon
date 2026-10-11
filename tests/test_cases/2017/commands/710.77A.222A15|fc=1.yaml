@@ -1,0 +1,17 @@
+command_id: 710.77A.222A15|fc=1
+test_cases:
+- expected_values:
+    LEON_ENERGY_BALANCE_LAST: 12.01
+  response: 77A05622A1504B1
+- expected_values:
+    LEON_ENERGY_BALANCE_LAST: 12.05
+  response: 77A05622A1504B5
+- expected_values:
+    LEON_ENERGY_BALANCE_LAST: 12.08
+  response: 77A05622A1504B8
+- expected_values:
+    LEON_ENERGY_BALANCE_LAST: 12.09
+  response: 77A05622A1504B9
+- expected_values:
+    LEON_ENERGY_BALANCE_LAST: 12.12
+  response: 77A05622A1504BC

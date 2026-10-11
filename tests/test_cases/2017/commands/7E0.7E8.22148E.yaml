@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22148E
+test_cases:
+- expected_values:
+    LEON_CTR_MIS_DC_MMV_CYL_1: 2
+  response: 7E80562148E0002

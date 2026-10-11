@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.222003
+test_cases:
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 0.4
+  response: '7E80462200304'
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 0.5
+  response: '7E80462200305'
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 0.7
+  response: '7E80462200307'
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 0.8
+  response: '7E80462200308'
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 1.1
+  response: 7E8046220030B
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 1.4
+  response: 7E8046220030E
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 1.9
+  response: '7E80462200313'
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 2.1
+  response: '7E80462200315'
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 2.3
+  response: '7E80462200317'
+- expected_values:
+    LEON_AVG_INJ_TIME_7E0: 5.3
+  response: '7E80462200335'

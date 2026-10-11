@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22296F
+test_cases:
+- expected_values:
+    LEON_EXH_GAS_T_BEFORE: 357.3
+  response: 7E80562296F0DF5
+- expected_values:
+    LEON_EXH_GAS_T_BEFORE: 460.8
+  response: 7E80562296F1200
+- expected_values:
+    LEON_EXH_GAS_T_BEFORE: 485.8
+  response: 7E80562296F12FA
+- expected_values:
+    LEON_EXH_GAS_T_BEFORE: 657.5
+  response: 7E80562296F19AF

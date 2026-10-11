@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221009
+test_cases:
+- expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 0
+  response: '7E9056210090000'
+- expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 306
+  response: '7E9056210093201'
+- expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 323
+  response: '7E9056210094301'

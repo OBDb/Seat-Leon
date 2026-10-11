@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22209C
+test_cases:
+- expected_values:
+    LEON_ENG_DRAG_TQ: 8.1
+  response: 7E80562209C0051
+- expected_values:
+    LEON_ENG_DRAG_TQ: 19.2
+  response: 7E80562209C00C0

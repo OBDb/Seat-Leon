@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.224419
+test_cases:
+- expected_values:
+    LEON_ENG_T_MANAGEMENT: 1182
+  response: 7E805624419049E
+- expected_values:
+    LEON_ENG_T_MANAGEMENT: 2038
+  response: 7E80562441907F6
+- expected_values:
+    LEON_ENG_T_MANAGEMENT: 2049
+  response: '7E8056244190801'
+- expected_values:
+    LEON_ENG_T_MANAGEMENT: 2590
+  response: 7E8056244190A1E

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22139C|fc=1,c=17
+test_cases:
+- expected_values:
+    LEON_EXHAUST_GAS_T_AT_PROBE_BEFOR_PRECAT_MODEL_VALUE: -273.1
+  response: 7E80562139C0000

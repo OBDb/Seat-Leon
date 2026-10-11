@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.223EAC
+test_cases:
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_V_POS_OPENED: 0.87007
+  response: 7E805623EAC1646

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22206E
+test_cases:
+- expected_values:
+    LEON_CRANK_SPD_RPM: 910
+  response: 7E80562206E038E
+- expected_values:
+    LEON_CRANK_SPD_RPM: 1014
+  response: 7E80562206E03F6
+- expected_values:
+    LEON_CRANK_SPD_RPM: 1300
+  response: 7E80562206E0514
+- expected_values:
+    LEON_CRANK_SPD_RPM: 1835
+  response: 7E80562206E072B

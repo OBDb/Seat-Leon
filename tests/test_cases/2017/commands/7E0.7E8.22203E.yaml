@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22203E
+test_cases:
+- expected_values:
+    LEON_FUEL_T_7E0: 10.5
+  response: 7E80562203E0069
+- expected_values:
+    LEON_FUEL_T_7E0: 23.2
+  response: 7E80562203E00E8
+- expected_values:
+    LEON_FUEL_T_7E0: 30.7
+  response: 7E80562203E0133

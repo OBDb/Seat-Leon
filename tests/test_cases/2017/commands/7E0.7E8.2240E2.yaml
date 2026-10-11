@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2240E2
+test_cases:
+- expected_values:
+    LEON_T_SENS_ENG_T_TGT: 99
+  response: 7E8056240E203DE
+- expected_values:
+    LEON_T_SENS_ENG_T_TGT: 101.3
+  response: 7E8056240E203F5
+- expected_values:
+    LEON_T_SENS_ENG_T_TGT: 102
+  response: 7E8056240E203FC
+- expected_values:
+    LEON_T_SENS_ENG_T_TGT: 103.5
+  response: 7E8056240E2040B
+- expected_values:
+    LEON_T_SENS_ENG_T_TGT: 104.3
+  response: 7E8056240E20413
+- expected_values:
+    LEON_T_SENS_ENG_T_TGT: 105
+  response: 7E8056240E2041A
+- expected_values:
+    LEON_T_SENS_ENG_T_TGT: 105.8
+  response: 7E8056240E20422

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22209B
+test_cases:
+- expected_values:
+    LEON_TQ_REQ_SUM_AUXILIARY: 0
+  response: 7E80562209B0000
+- expected_values:
+    LEON_TQ_REQ_SUM_AUXILIARY: 14.9
+  response: 7E80562209B0095

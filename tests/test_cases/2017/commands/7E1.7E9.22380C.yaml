@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22380C
+test_cases:
+- expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 0
+  response: 7E90562380C0000
+- expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 937
+  response: 7E90562380CA903
+- expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 970
+  response: 7E90562380CCA03

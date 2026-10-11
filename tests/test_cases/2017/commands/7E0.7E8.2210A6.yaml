@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2210A6
+test_cases:
+- expected_values:
+    LEON_INJ_SPD_INJ_2: 82.75
+  response: 7E8056210A6014B
+- expected_values:
+    LEON_INJ_SPD_INJ_2: 151.25
+  response: 7E8056210A6025D
+- expected_values:
+    LEON_INJ_SPD_INJ_2: 166.75
+  response: 7E8056210A6029B

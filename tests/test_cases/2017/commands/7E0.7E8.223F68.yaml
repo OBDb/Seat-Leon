@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.223F68
+test_cases:
+- expected_values:
+    LEON_SECONDARY_AIR_INJ_1: 0.375
+  response: 7E805623F680177

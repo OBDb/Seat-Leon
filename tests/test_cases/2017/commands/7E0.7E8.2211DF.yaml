@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2211DF
+test_cases:
+- expected_values:
+    LEON_POWERTRAIN_OVERALL: 200.47
+  response: |-
+    7E8100C6211DF4E4F5F
+    7E8214552524F5200AA

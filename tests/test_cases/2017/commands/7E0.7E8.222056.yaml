@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222056
+test_cases:
+- expected_values:
+    LEON_CLT_FAN_2_ACTIVATION: 0
+  response: '7E8056220560000'

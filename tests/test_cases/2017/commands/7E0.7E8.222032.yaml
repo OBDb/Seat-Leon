@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222032
+test_cases:
+- expected_values:
+    LEON_MEAN_ENG_AIR_MASS: 8
+  response: '7E8056220320008'
+- expected_values:
+    LEON_MEAN_ENG_AIR_MASS: 110
+  response: 7E805622032006E

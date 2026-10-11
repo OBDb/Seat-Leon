@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.222050
+test_cases:
+- expected_values:
+    LEON_GEN_LOAD_SIG: 0.03
+  response: '7E8056220500003'
+- expected_values:
+    LEON_GEN_LOAD_SIG: 25.83
+  response: 7E8056220500A17
+- expected_values:
+    LEON_GEN_LOAD_SIG: 29.05
+  response: 7E8056220500B59
+- expected_values:
+    LEON_GEN_LOAD_SIG: 32.28
+  response: 7E8056220500C9C
+- expected_values:
+    LEON_GEN_LOAD_SIG: 35.5
+  response: 7E8056220500DDE
+- expected_values:
+    LEON_GEN_LOAD_SIG: 41.95
+  response: '7E8056220501063'
+- expected_values:
+    LEON_GEN_LOAD_SIG: 45.18
+  response: 7E80562205011A6

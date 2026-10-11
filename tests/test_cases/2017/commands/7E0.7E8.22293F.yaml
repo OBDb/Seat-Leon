@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22293F
+test_cases:
+- expected_values:
+    LEON_CHG_P_CTRL_ADPT_LO_MIN: 0.78
+  response: 7E80562293F004E

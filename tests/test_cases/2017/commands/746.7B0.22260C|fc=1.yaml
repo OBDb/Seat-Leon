@@ -1,0 +1,14 @@
+command_id: 746.7B0.22260C|fc=1
+test_cases:
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 15.33333
+  response: 7B00462260C2E
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 27
+  response: 7B00462260C51
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 29
+  response: 7B00462260C57
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 29.66667
+  response: 7B00462260C59

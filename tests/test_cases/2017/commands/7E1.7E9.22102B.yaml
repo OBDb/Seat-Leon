@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22102B
+test_cases:
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 14
+  response: 7E90562102B0E00
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 29
+  response: 7E90562102B1D00
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 39
+  response: 7E90562102B2700

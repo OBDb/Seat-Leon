@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221196
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_HYBRID_T: 54075
+  response: 7E907621196D33B673A

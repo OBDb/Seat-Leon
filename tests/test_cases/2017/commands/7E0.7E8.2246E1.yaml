@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2246E1
+test_cases:
+- expected_values:
+    LEON_COMP_SPD: 0
+  response: 7E8056246E10000

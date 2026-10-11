@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221200
+test_cases:
+- expected_values:
+    LEON_EA888B_BOOST_P_CTRL_1: 14.05
+  response: 7E805621200057D
+- expected_values:
+    LEON_EA888B_BOOST_P_CTRL_1: 36.53
+  response: 7E8056212000DF7
+- expected_values:
+    LEON_EA888B_BOOST_P_CTRL_1: 64.63
+  response: '7E8056212001700'
+- expected_values:
+    LEON_EA888B_BOOST_P_CTRL_1: 75.87
+  response: 7E8056212001B00

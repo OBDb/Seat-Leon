@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.223EA6
+test_cases:
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_POS_TGT: 0
+  response: 7E805623EA60000
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_POS_TGT: 24.04
+  response: 7E805623EA60964
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_POS_TGT: 47.69
+  response: 7E805623EA612A1

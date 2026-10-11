@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22295B
+test_cases:
+- expected_values:
+    LEON_ODO_ECU_INSTALLED: 173642
+  response: 7E80662295B02A64A
+- expected_values:
+    LEON_ODO_ECU_INSTALLED: 173643
+  response: 7E80662295B02A64B
+- expected_values:
+    LEON_ODO_ECU_INSTALLED: 173644
+  response: 7E80662295B02A64C
+- expected_values:
+    LEON_ODO_ECU_INSTALLED: 173645
+  response: 7E80662295B02A64D
+- expected_values:
+    LEON_ODO_ECU_INSTALLED: 173646
+  response: 7E80662295B02A64E
+- expected_values:
+    LEON_ODO_ECU_INSTALLED: 173647
+  response: 7E80662295B02A64F
+- expected_values:
+    LEON_ODO_ECU_INSTALLED: 173648
+  response: 7E80662295B02A650

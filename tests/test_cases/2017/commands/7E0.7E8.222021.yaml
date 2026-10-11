@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222021
+test_cases:
+- expected_values:
+    LEON_CAM_ADPT_INT_BANK_1_PHASE: 0.3
+  response: '7E8056220210003'

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2239BC
+test_cases:
+- expected_values:
+    LEON_MIXTURE_VARIATION_1: 1.64
+  response: 7E8056239BC00A4
+- expected_values:
+    LEON_MIXTURE_VARIATION_1: 2.2
+  response: 7E8056239BC00DC

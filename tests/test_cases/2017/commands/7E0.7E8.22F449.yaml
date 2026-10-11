@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F449
+test_cases:
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 15.29412
+  response: 7E80462F44927
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 18.03922
+  response: 7E80462F4492E
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 22.35294
+  response: 7E80462F44939
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 23.52941
+  response: 7E80462F4493C
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 26.66667
+  response: 7E80462F44944
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 27.05882
+  response: 7E80462F44945
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 31.37255
+  response: 7E80462F44950
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 37.2549
+  response: 7E80462F4495F
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 41.17647
+  response: 7E80462F44969
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_1: 47.45098
+  response: 7E80462F44979

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222005
+test_cases:
+- expected_values:
+    LEON_PQ35_BRAKE_BOOSTER_P: 95.35516
+  response: 7E805622005047E

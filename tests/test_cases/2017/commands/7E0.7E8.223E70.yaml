@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.223E70
+test_cases:
+- expected_values:
+    LEON_INT_MANIFOLD_P_RAW: 0.219
+  response: 7E805623E7000DB
+- expected_values:
+    LEON_INT_MANIFOLD_P_RAW: 0.505
+  response: 7E805623E7001F9
+- expected_values:
+    LEON_INT_MANIFOLD_P_RAW: 0.513
+  response: 7E805623E700201
+- expected_values:
+    LEON_INT_MANIFOLD_P_RAW: 1.123
+  response: 7E805623E700463

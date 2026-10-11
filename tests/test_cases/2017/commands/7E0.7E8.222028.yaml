@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222028
+test_cases:
+- expected_values:
+    LEON_ACTIVATION_FUEL_PMP: 45.79
+  response: 7E80562202811E3
+- expected_values:
+    LEON_ACTIVATION_FUEL_PMP: 51.39
+  response: '7E8056220281413'

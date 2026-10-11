@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.222065
+test_cases:
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.569
+  response: 7E8056220650DF1
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.594
+  response: 7E8056220650E0A
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.599
+  response: 7E8056220650E0F
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.604
+  response: 7E8056220650E14
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.608
+  response: 7E8056220650E18
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.613
+  response: 7E8056220650E1D
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.657
+  response: 7E8056220650E49
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.672
+  response: 7E8056220650E58
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.677
+  response: 7E8056220650E5D
+- expected_values:
+    LEON_CHG_AIR_P_ACTUATOR: 3.682
+  response: 7E8056220650E62

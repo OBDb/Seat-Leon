@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22201D
+test_cases:
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 15
+  response: 7E80562201D0096
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 16
+  response: 7E80562201D00A0
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 20.5
+  response: 7E80562201D00CD
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 27.5
+  response: 7E80562201D0113
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 32
+  response: 7E80562201D0140
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 34
+  response: 7E80562201D0154
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 47.5
+  response: 7E80562201D01DB
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 52.5
+  response: 7E80562201D020D
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 55
+  response: 7E80562201D0226
+- expected_values:
+    LEON_CAM_ADJ_INT_SPEC: 56.5
+  response: 7E80562201D0235

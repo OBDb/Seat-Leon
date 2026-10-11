@@ -1,0 +1,11 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    LEON_AAT_746: -39.5
+  response: 7B00462260915
+- expected_values:
+    LEON_AAT_746: -39
+  response: 7B00462260916
+- expected_values:
+    LEON_AAT_746: -38.5
+  response: 7B00462260917

@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2239A2
+test_cases:
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ACT: 0
+  response: 7E8056239A20000
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ACT: 0.65918
+  response: 7E8056239A20036
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ACT: 1.07422
+  response: 7E8056239A20058
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ACT: 1.3916
+  response: 7E8056239A20072
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ACT: 1.55029
+  response: 7E8056239A2007F
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ACT: 1.70898
+  response: 7E8056239A2008C
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ACT: 2.07519
+  response: 7E8056239A200AA
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ACT: 2.64892
+  response: 7E8056239A200D9
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ACT: 85.46121
+  response: 7E8056239A21B59

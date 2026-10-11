@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22292B
+test_cases:
+- expected_values:
+    LEON_ADPT_THROTTLE_VLV: 3
+  response: 7E80462292B03
+- expected_values:
+    LEON_ADPT_THROTTLE_VLV: 6
+  response: 7E80462292B06

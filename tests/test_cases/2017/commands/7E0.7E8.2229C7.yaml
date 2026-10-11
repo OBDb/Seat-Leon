@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2229C7
+test_cases:
+- expected_values:
+    LEON_CHG_P_SENS_V: 1.611
+  response: 7E8056229C7064B
+- expected_values:
+    LEON_CHG_P_SENS_V: 1.616
+  response: 7E8056229C70650
+- expected_values:
+    LEON_CHG_P_SENS_V: 1.626
+  response: 7E8056229C7065A
+- expected_values:
+    LEON_CHG_P_SENS_V: 1.631
+  response: 7E8056229C7065F
+- expected_values:
+    LEON_CHG_P_SENS_V: 1.641
+  response: 7E8056229C70669

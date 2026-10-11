@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22293B
+test_cases:
+- expected_values:
+    LEON_FUEL_HIGH_P_SPEC: 150.1
+  response: 7E80562293B05DD
+- expected_values:
+    LEON_FUEL_HIGH_P_SPEC: 153.5
+  response: 7E80562293B05FF
+- expected_values:
+    LEON_FUEL_HIGH_P_SPEC: 153.8
+  response: 7E80562293B0602
+- expected_values:
+    LEON_FUEL_HIGH_P_SPEC: 157.7
+  response: 7E80562293B0629
+- expected_values:
+    LEON_FUEL_HIGH_P_SPEC: 164.4
+  response: 7E80562293B066C
+- expected_values:
+    LEON_FUEL_HIGH_P_SPEC: 171.5
+  response: 7E80562293B06B3
+- expected_values:
+    LEON_FUEL_HIGH_P_SPEC: 185.9
+  response: 7E80562293B0743
+- expected_values:
+    LEON_FUEL_HIGH_P_SPEC: 191.2
+  response: 7E80562293B0778
+- expected_values:
+    LEON_FUEL_HIGH_P_SPEC: 200.1
+  response: 7E80562293B07D1

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2213F7
+test_cases:
+- expected_values:
+    LEON_NL_PRE_1: 0.2655
+  response: 7E8056213F70D98
+- expected_values:
+    LEON_NL_PRE_1: 0.2697
+  response: 7E8056213F70DCF
+- expected_values:
+    LEON_NL_PRE_1: 0.29427
+  response: 7E8056213F70F11
+- expected_values:
+    LEON_NL_PRE_1: 0.71762
+  response: 7E8056213F724BE

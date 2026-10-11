@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221065
+test_cases:
+- expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 47.88
+  response: 7E9076210655A097C23
+- expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 1124.06
+  response: 7E9076210658BDB7B23
+- expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 854.8
+  response: 7E907621065F4A67B23

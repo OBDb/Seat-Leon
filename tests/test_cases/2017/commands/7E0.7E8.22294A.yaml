@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22294A
+test_cases:
+- expected_values:
+    LEON_DYNAMIC_AVG_IGN_ANG: 0
+  response: 7E80562294A0000
+- expected_values:
+    LEON_DYNAMIC_AVG_IGN_ANG: 20.25
+  response: 7E80562294A07E9
+- expected_values:
+    LEON_DYNAMIC_AVG_IGN_ANG: -2.25
+  response: 7E80562294AFF1F

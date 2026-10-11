@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2213A0|fc=1,c=17
+test_cases:
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE: -253
+  response: 7E8056213A000C9
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE: -247.5
+  response: 7E8056213A00100
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE: -246.6
+  response: 7E8056213A00109
