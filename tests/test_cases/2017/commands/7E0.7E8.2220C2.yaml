@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2220C2
 test_cases:
 - expected_values:
-    LEON_WEAR_INDEX_0_NEW_ENG: 0.01221
-  response: 7E8056220C20008
+    LEON_WEAR_INDEX_0_NEW_ENG: 0
+  response: 7E8056220C20000
 - expected_values:
     LEON_WEAR_INDEX_0_NEW_ENG: 0.34333
   response: 7E8056220C200E1

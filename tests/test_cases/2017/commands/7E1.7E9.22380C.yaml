@@ -4,8 +4,29 @@ test_cases:
     LEON_MQB_INPUT_SHAFT_1: 0
   response: 7E90562380C0000
 - expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 1560
+  response: 7E90562380C1806
+- expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 1114
+  response: 7E90562380C5A04
+- expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 368
+  response: 7E90562380C7001
+- expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 1411
+  response: 7E90562380C8305
+- expected_values:
     LEON_MQB_INPUT_SHAFT_1: 937
   response: 7E90562380CA903
 - expected_values:
     LEON_MQB_INPUT_SHAFT_1: 970
   response: 7E90562380CCA03
+- expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 1780
+  response: 7E90562380CF406
+- expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 1269
+  response: 7E90562380CF504
+- expected_values:
+    LEON_MQB_INPUT_SHAFT_1: 1274
+  response: 7E90562380CFA04

@@ -7,8 +7,17 @@ test_cases:
     LEON_PSN_EDGE_REL_AD_CAM_1: -1.25
   response: 7E805621184FFEC
 - expected_values:
+    LEON_PSN_EDGE_REL_AD_CAM_1: -1.1875
+  response: 7E805621184FFED
+- expected_values:
+    LEON_PSN_EDGE_REL_AD_CAM_1: -1.125
+  response: 7E805621184FFEE
+- expected_values:
     LEON_PSN_EDGE_REL_AD_CAM_1: -1.0625
   response: 7E805621184FFEF
+- expected_values:
+    LEON_PSN_EDGE_REL_AD_CAM_1: -0.9375
+  response: 7E805621184FFF1
 - expected_values:
     LEON_PSN_EDGE_REL_AD_CAM_1: -0.5625
   response: 7E805621184FFF7

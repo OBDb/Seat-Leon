@@ -1,11 +1,32 @@
 command_id: 7E1.7E9.221017
 test_cases:
 - expected_values:
+    LEON_PQ35_ROAD_RESISTANCE: -3.961
+  response: 7E9046210176F
+- expected_values:
+    LEON_PQ35_ROAD_RESISTANCE: -2.218
+  response: '7E90462101776'
+- expected_values:
+    LEON_PQ35_ROAD_RESISTANCE: -0.226
+  response: 7E9046210177E
+- expected_values:
     LEON_PQ35_ROAD_RESISTANCE: 0.77
   response: '7E90462101782'
+- expected_values:
+    LEON_PQ35_ROAD_RESISTANCE: 1.766
+  response: '7E90462101786'
+- expected_values:
+    LEON_PQ35_ROAD_RESISTANCE: 2.015
+  response: '7E90462101787'
 - expected_values:
     LEON_PQ35_ROAD_RESISTANCE: 2.513
   response: '7E90462101789'
 - expected_values:
     LEON_PQ35_ROAD_RESISTANCE: 3.26
   response: 7E9046210178C
+- expected_values:
+    LEON_PQ35_ROAD_RESISTANCE: 3.509
+  response: 7E9046210178D
+- expected_values:
+    LEON_PQ35_ROAD_RESISTANCE: 3.758
+  response: 7E9046210178E

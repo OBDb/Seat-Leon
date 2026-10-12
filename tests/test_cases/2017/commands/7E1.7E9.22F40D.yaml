@@ -4,8 +4,29 @@ test_cases:
     LEON_VSS_7E1: 0
   response: 7E90562F40D0000
 - expected_values:
+    LEON_VSS_7E1: 2
+  response: 7E90562F40D0217
+- expected_values:
     LEON_VSS_7E1: 22
   response: 7E90562F40D160D
 - expected_values:
+    LEON_VSS_7E1: 36
+  response: 7E90562F40D240E
+- expected_values:
     LEON_VSS_7E1: 82
   response: 7E90562F40D5208
+- expected_values:
+    LEON_VSS_7E1: 98
+  response: 7E90562F40D620C
+- expected_values:
+    LEON_VSS_7E1: 104
+  response: 7E90562F40D6810
+- expected_values:
+    LEON_VSS_7E1: 112
+  response: 7E90562F40D7003
+- expected_values:
+    LEON_VSS_7E1: 132
+  response: 7E90562F40D841C
+- expected_values:
+    LEON_VSS_7E1: 144
+  response: 7E90562F40D901F

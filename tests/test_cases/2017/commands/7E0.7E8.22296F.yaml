@@ -10,5 +10,5 @@ test_cases:
     LEON_EXH_GAS_T_BEFORE: 485.8
   response: 7E80562296F12FA
 - expected_values:
-    LEON_EXH_GAS_T_BEFORE: 657.5
-  response: 7E80562296F19AF
+    LEON_EXH_GAS_T_BEFORE: 680.7
+  response: 7E80562296F1A97

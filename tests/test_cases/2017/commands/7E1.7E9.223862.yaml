@@ -2,10 +2,28 @@ command_id: 7E1.7E9.223862
 test_cases:
 - expected_values:
     LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0
+  response: 7E905623862D5FC
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0
+  response: 7E905623862D6FC
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 9.99
+  response: 7E905623862E703
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0
+  response: 7E905623862EDFF
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 10.06
+  response: 7E905623862EE03
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0
   response: 7E905623862F2FF
 - expected_values:
     LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0
   response: 7E905623862F3FF
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0
+  response: 7E905623862F5FF
 - expected_values:
     LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0
   response: 7E905623862F8FF

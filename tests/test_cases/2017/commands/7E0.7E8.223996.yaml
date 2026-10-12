@@ -4,8 +4,23 @@ test_cases:
     LEON_MIXTURE_ADPT_FACTOR: 1.64
   response: 7E80562399600A4
 - expected_values:
+    LEON_MIXTURE_ADPT_FACTOR: 2.08
+  response: 7E80562399600D0
+- expected_values:
+    LEON_MIXTURE_ADPT_FACTOR: 2.09
+  response: 7E80562399600D1
+- expected_values:
     LEON_MIXTURE_ADPT_FACTOR: 2.2
   response: 7E80562399600DC
 - expected_values:
+    LEON_MIXTURE_ADPT_FACTOR: 2.62
+  response: '7E8056239960106'
+- expected_values:
     LEON_MIXTURE_ADPT_FACTOR: 3.61
   response: '7E8056239960169'
+- expected_values:
+    LEON_MIXTURE_ADPT_FACTOR: 3.63
+  response: 7E805623996016B
+- expected_values:
+    LEON_MIXTURE_ADPT_FACTOR: 3.71
+  response: '7E8056239960173'

@@ -4,8 +4,8 @@ test_cases:
     LEON_FUEL_RATE: 0
   response: 7E80562204C0000
 - expected_values:
-    LEON_FUEL_RATE: 2.92
-  response: 7E80562204C0124
-- expected_values:
     LEON_FUEL_RATE: 5.07
   response: 7E80562204C01FB
+- expected_values:
+    LEON_FUEL_RATE: 5.21
+  response: 7E80562204C0209

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_TIMING_ANGLE_RETARDATION_CYL_4: -48
   response: 7E80562200D0000
+- expected_values:
+    LEON_PQ35_TIMING_ANGLE_RETARDATION_CYL_4: 47.625
+  response: 7E80562200DFFB5

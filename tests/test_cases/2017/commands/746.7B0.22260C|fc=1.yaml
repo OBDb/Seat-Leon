@@ -4,11 +4,20 @@ test_cases:
     LEON_CLIMATE_FR_L_DEFL_T: 15.33333
   response: 7B00462260C2E
 - expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 26.33333
+  response: 7B00462260C4F
+- expected_values:
     LEON_CLIMATE_FR_L_DEFL_T: 27
   response: 7B00462260C51
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 28.33333
+  response: 7B00462260C55
 - expected_values:
     LEON_CLIMATE_FR_L_DEFL_T: 29
   response: 7B00462260C57
 - expected_values:
     LEON_CLIMATE_FR_L_DEFL_T: 29.66667
   response: 7B00462260C59
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 30
+  response: 7B00462260C5A

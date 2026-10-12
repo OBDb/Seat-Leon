@@ -7,8 +7,8 @@ test_cases:
     LEON_CAM_ADJ_INT_BANK_1: 17.94
   response: '7E8056229300702'
 - expected_values:
-    LEON_CAM_ADJ_INT_BANK_1: 22.96
-  response: 7E80562293008F8
+    LEON_CAM_ADJ_INT_BANK_1: 28.29
+  response: 7E8056229300B0D
 - expected_values:
-    LEON_CAM_ADJ_INT_BANK_1: 28.36
-  response: 7E8056229300B14
+    LEON_CAM_ADJ_INT_BANK_1: 30.65
+  response: 7E8056229300BF9

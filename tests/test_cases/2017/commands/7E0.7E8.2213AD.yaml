@@ -4,11 +4,8 @@ test_cases:
     LEON_TI_1_MPI_1: 0
   response: 7E8056213AD0000
 - expected_values:
-    LEON_TI_1_MPI_1: 5.644
-  response: 7E8056213AD0583
+    LEON_TI_1_MPI_1: 10.188
+  response: 7E8056213AD09F3
 - expected_values:
-    LEON_TI_1_MPI_1: 7.08
-  response: 7E8056213AD06EA
-- expected_values:
-    LEON_TI_1_MPI_1: 11.6
-  response: 7E8056213AD0B54
+    LEON_TI_1_MPI_1: 20.32
+  response: 7E8056213AD13D8

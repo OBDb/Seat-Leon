@@ -4,5 +4,8 @@ test_cases:
     LEON_BAT_INTERNAL_RES_RAW: 5.6
   response: 77A04622A251C
 - expected_values:
+    LEON_BAT_INTERNAL_RES_RAW: 5.8
+  response: 77A04622A251D
+- expected_values:
     LEON_BAT_INTERNAL_RES_RAW: 6
   response: 77A04622A251E

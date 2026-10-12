@@ -7,5 +7,5 @@ test_cases:
     LEON_TI_MES4_PLS_1_3: 0.86
   response: 7E8056213A300D7
 - expected_values:
-    LEON_TI_MES4_PLS_1_3: 2.276
-  response: 7E8056213A30239
+    LEON_TI_MES4_PLS_1_3: 3.644
+  response: 7E8056213A3038F

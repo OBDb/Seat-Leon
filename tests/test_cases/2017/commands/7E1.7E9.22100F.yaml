@@ -1,8 +1,20 @@
 command_id: 7E1.7E9.22100F
 test_cases:
 - expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE_LOSS: 15
+  response: 7E90562100F2C01
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE_LOSS: 16
+  response: 7E90562100F4001
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE_LOSS: 18
+  response: 7E90562100F6801
+- expected_values:
     LEON_MQB_TCM_ENGINE_TORQUE_LOSS: 32
   response: 7E90562100F8002
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE_LOSS: 20
+  response: 7E90562100F9001
 - expected_values:
     LEON_MQB_TCM_ENGINE_TORQUE_LOSS: 22
   response: 7E90562100FB801

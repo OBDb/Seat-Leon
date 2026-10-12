@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_MQB_RECIRC_FLAP_ACT: 91
   response: 7B00662261E005B40
+- expected_values:
+    LEON_MQB_RECIRC_FLAP_ACT: 94
+  response: 7B00662261E005E44

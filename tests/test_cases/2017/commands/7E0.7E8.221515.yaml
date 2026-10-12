@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221515
 test_cases:
 - expected_values:
+    LEON_CAT_T_CALC: 480
+  response: 7E8056215156AE0
+- expected_values:
     LEON_CAT_T_CALC: 485
   response: 7E8056215156B00

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 0
   response: '7E90462101900'
+- expected_values:
+    LEON_PQ35_DRIVING_STRATEGY_SPORT_FACTOR: 13.33333
+  response: '7E90462101902'

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.222969|fc=1,c=17
 test_cases:
 - expected_values:
+    LEON_MISFIRES_C2: 0
+  response: '7E8056229690000'
+- expected_values:
     LEON_MISFIRES_C2: 1
   response: '7E8056229690001'
 - expected_values:

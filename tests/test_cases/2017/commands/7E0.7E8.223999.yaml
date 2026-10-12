@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_RELAY_RESERVE_CLT: 0
   response: '7E80462399900'
+- expected_values:
+    LEON_RELAY_RESERVE_CLT: 1
+  response: '7E80462399901'

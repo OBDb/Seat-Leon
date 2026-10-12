@@ -9,3 +9,18 @@ test_cases:
 - expected_values:
     LEON_MQB_TCM_ECU_T: 25
   response: 7E90562028D1900
+- expected_values:
+    LEON_MQB_TCM_ECU_T: 36
+  response: 7E90562028D2400
+- expected_values:
+    LEON_MQB_TCM_ECU_T: 39
+  response: 7E90562028D2700
+- expected_values:
+    LEON_MQB_TCM_ECU_T: 40
+  response: 7E90562028D2800
+- expected_values:
+    LEON_MQB_TCM_ECU_T: 41
+  response: 7E90562028D2900
+- expected_values:
+    LEON_MQB_TCM_ECU_T: 42
+  response: 7E90562028D2A00

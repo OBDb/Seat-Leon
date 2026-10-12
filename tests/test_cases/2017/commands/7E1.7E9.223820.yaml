@@ -1,8 +1,23 @@
 command_id: 7E1.7E9.223820
 test_cases:
 - expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_1_P_CMD: 25.61
+  response: 7E905623820010A
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_1_P_CMD: 26.08
+  response: 7E905623820300A
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_1_P_CMD: 16
+  response: '7E9056238204006'
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_1_P_CMD: 26.92
+  response: 7E905623820840A
+- expected_values:
     LEON_MQB_TCM_TRANSMISSION_PART_1_P_CMD: 27.17
   response: 7E9056238209D0A
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_1_P_CMD: 24.86
+  response: 7E905623820B609
 - expected_values:
     LEON_MQB_TCM_TRANSMISSION_PART_1_P_CMD: 25.21
   response: 7E905623820D909

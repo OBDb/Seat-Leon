@@ -4,8 +4,8 @@ test_cases:
     LEON_HIGH_FUEL_P: 2.216
   response: 7E8056211D51150
 - expected_values:
-    LEON_HIGH_FUEL_P: 3.968
-  response: 7E8056211D51F00
+    LEON_HIGH_FUEL_P: 2.432
+  response: 7E8056211D51300
 - expected_values:
     LEON_HIGH_FUEL_P: 4.088
   response: 7E8056211D51FF0

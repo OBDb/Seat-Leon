@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_ENG_DRAG_TQ: 19.2
   response: 7E80562209C00C0
+- expected_values:
+    LEON_ENG_DRAG_TQ: 26
+  response: 7E80562209C0104

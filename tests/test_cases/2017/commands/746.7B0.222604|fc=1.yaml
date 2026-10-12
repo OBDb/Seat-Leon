@@ -4,11 +4,26 @@ test_cases:
     LEON_CLIMATE_A_C_COMP_LOAD: 2.6
   response: 7B0046226041A
 - expected_values:
+    LEON_CLIMATE_A_C_COMP_LOAD: 3
+  response: 7B0046226041E
+- expected_values:
+    LEON_CLIMATE_A_C_COMP_LOAD: 3.1
+  response: 7B0046226041F
+- expected_values:
+    LEON_CLIMATE_A_C_COMP_LOAD: 3.3
+  response: 7B00462260421
+- expected_values:
     LEON_CLIMATE_A_C_COMP_LOAD: 3.6
   response: 7B00462260424
+- expected_values:
+    LEON_CLIMATE_A_C_COMP_LOAD: 3.7
+  response: 7B00462260425
 - expected_values:
     LEON_CLIMATE_A_C_COMP_LOAD: 3.8
   response: 7B00462260426
 - expected_values:
     LEON_CLIMATE_A_C_COMP_LOAD: 4.3
   response: 7B0046226042B
+- expected_values:
+    LEON_CLIMATE_A_C_COMP_LOAD: 4.6
+  response: 7B0046226042E

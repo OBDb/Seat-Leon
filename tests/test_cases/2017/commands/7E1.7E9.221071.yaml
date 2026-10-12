@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.221071
 test_cases:
 - expected_values:
+    LEON_PQ35_CLUTCH_2_ADAPT_BASIC_CHARAC_POINT_2_MOMENT: 146.2
+  response: 7E9056210716C0B
+- expected_values:
     LEON_PQ35_CLUTCH_2_ADAPT_BASIC_CHARAC_POINT_2_MOMENT: 135.8
   response: 7E9056210719C0A
 - expected_values:

@@ -9,3 +9,24 @@ test_cases:
 - expected_values:
     LEON_PQ35_CLUTCH_1_T: 39
   response: 7E90562102B2700
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 60
+  response: 7E90562102B3C00
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 70
+  response: 7E90562102B4600
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 77
+  response: 7E90562102B4D00
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 79
+  response: 7E90562102B4F00
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 80
+  response: 7E90562102B5000
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 82
+  response: 7E90562102B5200
+- expected_values:
+    LEON_PQ35_CLUTCH_1_T: 85
+  response: 7E90562102B5500

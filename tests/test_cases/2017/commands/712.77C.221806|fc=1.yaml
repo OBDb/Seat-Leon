@@ -4,17 +4,8 @@ test_cases:
     LEON_STEER_WHL_TQ_SENS_2: 0.26217
   response: 77C06621806002E00
 - expected_values:
-    LEON_STEER_WHL_TQ_SENS_2: 0.46873
-  response: 77C06621806005D00
+    LEON_STEER_WHL_TQ_SENS_2: 1.15875
+  response: 77C0662180600FA00
 - expected_values:
-    LEON_STEER_WHL_TQ_SENS_2: 0.8511
-  response: 77C0662180600B400
-- expected_values:
-    LEON_STEER_WHL_TQ_SENS_2: 1.05327
-  response: 77C0662180600E200
-- expected_values:
-    LEON_STEER_WHL_TQ_SENS_2: 2.98268
-  response: 77C06621806029900
-- expected_values:
-    LEON_STEER_WHL_TQ_SENS_2: 7.07442
-  response: 77C06621806063C00
+    LEON_STEER_WHL_TQ_SENS_2: -0.87174
+  response: 77C06621806FF2C00

@@ -4,5 +4,8 @@ test_cases:
     LEON_CLT_FAN_1_ACTIVATION: 10.16
   response: 7E80562205503F8
 - expected_values:
+    LEON_CLT_FAN_1_ACTIVATION: 13.67
+  response: '7E8056220550557'
+- expected_values:
     LEON_CLT_FAN_1_ACTIVATION: 27.73
   response: 7E8056220550AD5

@@ -10,5 +10,5 @@ test_cases:
     LEON_EXH_GAS_T: 573.7
   response: 7E80562F43C17F9
 - expected_values:
-    LEON_EXH_GAS_T: 663.6
-  response: 7E80562F43C1B7C
+    LEON_EXH_GAS_T: 750.5
+  response: 7E80562F43C1EE1

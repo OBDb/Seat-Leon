@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.224418
 test_cases:
 - expected_values:
-    LEON_THERMOSTAT_ACT: 92.32154
-  response: 7E8056244181D8B
+    LEON_THERMOSTAT_ACT: 88.52516
+  response: 7E8056244181C54
 - expected_values:
-    LEON_THERMOSTAT_ACT: 95.06812
-  response: 7E8056244181E6C
+    LEON_THERMOSTAT_ACT: 97.04565
+  response: 7E8056244181F0E
 - expected_values:
     LEON_THERMOSTAT_ACT: 100
   response: 7E80562441821EC
-- expected_values:
-    LEON_THERMOSTAT_ACT: 100
-  response: 7E8056244182D18
-- expected_values:
-    LEON_THERMOSTAT_ACT: 100
-  response: 7E8056244182F71
-- expected_values:
-    LEON_THERMOSTAT_ACT: 100
-  response: 7E805624418312C
-- expected_values:
-    LEON_THERMOSTAT_ACT: 100
-  response: '7E8056244183180'
-- expected_values:
-    LEON_THERMOSTAT_ACT: 100
-  response: 7E80562441831C9
-- expected_values:
-    LEON_THERMOSTAT_ACT: 100
-  response: '7E8056244183264'
 - expected_values:
     LEON_THERMOSTAT_ACT: 100
   response: '7E8056244184010'

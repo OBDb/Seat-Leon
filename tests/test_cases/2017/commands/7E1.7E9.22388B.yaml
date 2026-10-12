@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_TCM_DRIVE_CYCLES_COUNTER: 4549
   response: 7E90562388BC511
+- expected_values:
+    LEON_MQB_TCM_DRIVE_CYCLES_COUNTER: 4550
+  response: 7E90562388BC611

@@ -7,8 +7,8 @@ test_cases:
     LEON_PQ35_CALCULATED_OIL_T: -39
   response: 7E8056220A10104
 - expected_values:
-    LEON_PQ35_CALCULATED_OIL_T: -39
-  response: 7E8056220A101EA
+    LEON_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A102EE
 - expected_values:
     LEON_PQ35_CALCULATED_OIL_T: -37
   response: 7E8056220A10316

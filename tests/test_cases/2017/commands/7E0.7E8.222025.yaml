@@ -10,5 +10,5 @@ test_cases:
     LEON_FUEL_LOW_P_ACT: 4.636
   response: 7E805622025121C
 - expected_values:
-    LEON_FUEL_LOW_P_ACT: 4.896
-  response: '7E8056220251320'
+    LEON_FUEL_LOW_P_ACT: 5.27
+  response: '7E8056220251496'

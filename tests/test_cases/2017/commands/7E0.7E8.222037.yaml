@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222037
 test_cases:
 - expected_values:
-    LEON_ENG_AIR_MASS_SPEC: 11
-  response: 7E805622037000B
+    LEON_ENG_AIR_MASS_SPEC: 0
+  response: '7E8056220370000'
 - expected_values:
-    LEON_ENG_AIR_MASS_SPEC: 60
-  response: 7E805622037003C
+    LEON_ENG_AIR_MASS_SPEC: 141
+  response: 7E805622037008D

@@ -4,8 +4,29 @@ test_cases:
     LEON_MQB_DQ250_SPD_OUTPUT: 0
   response: '7E9056210090000'
 - expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 268
+  response: 7E9056210090C01
+- expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 543
+  response: 7E9056210091F02
+- expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 295
+  response: '7E9056210092701'
+- expected_values:
     LEON_MQB_DQ250_SPD_OUTPUT: 306
   response: '7E9056210093201'
 - expected_values:
     LEON_MQB_DQ250_SPD_OUTPUT: 323
   response: '7E9056210094301'
+- expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 82
+  response: '7E9056210095200'
+- expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 341
+  response: '7E9056210095501'
+- expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 626
+  response: '7E9056210097202'
+- expected_values:
+    LEON_MQB_DQ250_SPD_OUTPUT: 686
+  response: 7E905621009AE02

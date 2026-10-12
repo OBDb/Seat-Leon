@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22437C
 test_cases:
 - expected_values:
-    LEON_ENG_TQ_7E0: 17.8
-  response: 7E80562437C00B2
+    LEON_ENG_TQ_7E0: 2.7
+  response: 7E80562437C001B
 - expected_values:
     LEON_ENG_TQ_7E0: 49.3
   response: 7E80562437C01ED
 - expected_values:
-    LEON_ENG_TQ_7E0: 129.3
-  response: 7E80562437C050D
+    LEON_ENG_TQ_7E0: 51.4
+  response: 7E80562437C0202
 - expected_values:
-    LEON_ENG_TQ_7E0: -5.6
-  response: 7E80562437CFFC8
+    LEON_ENG_TQ_7E0: -18.3
+  response: 7E80562437CFF49

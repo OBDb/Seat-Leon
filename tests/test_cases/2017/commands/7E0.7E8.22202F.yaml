@@ -4,8 +4,11 @@ test_cases:
     LEON_EOT_7E0: 10
   response: 7E80562202F0B0F
 - expected_values:
-    LEON_EOT_7E0: 32
-  response: 7E80562202F0BEB
-- expected_values:
     LEON_EOT_7E0: 61
   response: 7E80562202F0D0D
+- expected_values:
+    LEON_EOT_7E0: 85
+  response: 7E80562202F0DFD
+- expected_values:
+    LEON_EOT_7E0: 89
+  response: 7E80562202F0E25

@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221140
 test_cases:
 - expected_values:
+    LEON_SEG_AD_MMV_ER_L_2: -0.02599
+  response: 7E805621140FF93
+- expected_values:
     LEON_SEG_AD_MMV_ER_L_2: -0.02432
   response: 7E805621140FF9A

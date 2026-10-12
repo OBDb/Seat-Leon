@@ -1,5 +1,26 @@
 command_id: 7E0.7E8.223EAB
 test_cases:
 - expected_values:
+    LEON_CHG_P_CTRL_VLV_V_POS: 3.63286
+  response: 7E805623EAB5D00
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_V_POS: 3.63775
+  response: 7E805623EAB5D20
+- expected_values:
     LEON_CHG_P_CTRL_VLV_V_POS: 3.64736
   response: 7E805623EAB5D5F
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_V_POS: 3.64751
+  response: 7E805623EAB5D60
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_V_POS: 3.65209
+  response: 7E805623EAB5D7E
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_V_POS: 3.65224
+  response: 7E805623EAB5D7F
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_V_POS: 3.65239
+  response: 7E805623EAB5D80
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_V_POS: 3.65728
+  response: 7E805623EAB5DA0

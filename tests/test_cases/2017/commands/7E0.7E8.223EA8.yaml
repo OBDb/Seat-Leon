@@ -4,29 +4,11 @@ test_cases:
     LEON_CHG_P_CTRL_VLV_SENS_V: 0.87404
   response: 7E805623EA81660
 - expected_values:
-    LEON_CHG_P_CTRL_VLV_SENS_V: 3.56939
-  response: 7E805623EA85B60
+    LEON_CHG_P_CTRL_VLV_SENS_V: 3.55474
+  response: 7E805623EA85B00
 - expected_values:
-    LEON_CHG_P_CTRL_VLV_SENS_V: 3.5938
-  response: 7E805623EA85C00
-- expected_values:
-    LEON_CHG_P_CTRL_VLV_SENS_V: 3.59868
-  response: 7E805623EA85C20
-- expected_values:
-    LEON_CHG_P_CTRL_VLV_SENS_V: 3.60357
-  response: 7E805623EA85C40
-- expected_values:
-    LEON_CHG_P_CTRL_VLV_SENS_V: 3.60845
-  response: 7E805623EA85C60
-- expected_values:
-    LEON_CHG_P_CTRL_VLV_SENS_V: 3.65728
-  response: 7E805623EA85DA0
+    LEON_CHG_P_CTRL_VLV_SENS_V: 3.58892
+  response: 7E805623EA85BE0
 - expected_values:
     LEON_CHG_P_CTRL_VLV_SENS_V: 3.67193
   response: 7E805623EA85E00
-- expected_values:
-    LEON_CHG_P_CTRL_VLV_SENS_V: 3.67681
-  response: 7E805623EA85E20
-- expected_values:
-    LEON_CHG_P_CTRL_VLV_SENS_V: 3.68169
-  response: 7E805623EA85E40

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22394F
 test_cases:
 - expected_values:
-    LEON_MAF_OVER_THROTTLE: 6
-  response: 7E80562394F0006
+    LEON_MAF_OVER_THROTTLE: 0
+  response: 7E80562394F0000
 - expected_values:
-    LEON_MAF_OVER_THROTTLE: 82
-  response: 7E80562394F0052
+    LEON_MAF_OVER_THROTTLE: 202
+  response: 7E80562394F00CA

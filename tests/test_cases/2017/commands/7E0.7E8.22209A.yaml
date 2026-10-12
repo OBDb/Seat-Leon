@@ -7,5 +7,5 @@ test_cases:
     LEON_FUEL_METERING_VLV: 20.21
   response: 7E80562209A07E5
 - expected_values:
-    LEON_FUEL_METERING_VLV: 35.48
-  response: 7E80562209A0DDC
+    LEON_FUEL_METERING_VLV: 51.25
+  response: 7E80562209A1405

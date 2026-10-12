@@ -1,11 +1,32 @@
 command_id: 7E1.7E9.221065
 test_cases:
 - expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 891.72
+  response: 7E9076210652AAE7C23
+- expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 851.22
+  response: 7E90762106541A67C23
+- expected_values:
     LEON_CLU_1_T_TIME_RANGE_0: 47.88
   response: 7E9076210655A097C23
 - expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 483.08
+  response: 7E9076210655A5E7C23
+- expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 754.62
+  response: 7E90762106563937C23
+- expected_values:
     LEON_CLU_1_T_TIME_RANGE_0: 1124.06
   response: 7E9076210658BDB7B23
+- expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 689.18
+  response: 7E9076210659B867C23
+- expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 945.8
+  response: 7E907621065BAB87C23
+- expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 981.64
+  response: 7E907621065BABF7C23
 - expected_values:
     LEON_CLU_1_T_TIME_RANGE_0: 854.8
   response: 7E907621065F4A67B23

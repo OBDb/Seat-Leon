@@ -4,14 +4,5 @@ test_cases:
     LEON_CABIN_T: 17.1
   response: 7B00562261300AB
 - expected_values:
-    LEON_CABIN_T: 20.7
-  response: 7B00562261300CF
-- expected_values:
-    LEON_CABIN_T: 22.9
-  response: 7B00562261300E5
-- expected_values:
-    LEON_CABIN_T: 23
-  response: 7B00562261300E6
-- expected_values:
-    LEON_CABIN_T: 23.1
-  response: 7B00562261300E7
+    LEON_CABIN_T: 23.7
+  response: 7B00562261300ED

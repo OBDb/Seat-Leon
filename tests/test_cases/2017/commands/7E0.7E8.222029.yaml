@@ -4,26 +4,8 @@ test_cases:
     LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 63.68
   response: 7E805622029031C
 - expected_values:
-    LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 63.76
-  response: 7E805622029031D
-- expected_values:
-    LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 63.84
-  response: 7E805622029031E
-- expected_values:
-    LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 70.72
-  response: '7E8056220290374'
-- expected_values:
-    LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 75.76
-  response: 7E80562202903B3
-- expected_values:
-    LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 79.92
-  response: 7E80562202903E7
-- expected_values:
-    LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 80.08
-  response: 7E80562202903E9
-- expected_values:
-    LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 93.04
-  response: 7E805622029048B
+    LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 81.84
+  response: 7E80562202903FF
 - expected_values:
     LEON_PQ35_CHARGE_AIR_P_SPECIFIED: 116.96
   response: 7E80562202905B6

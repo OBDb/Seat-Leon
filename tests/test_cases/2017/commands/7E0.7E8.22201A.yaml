@@ -4,5 +4,5 @@ test_cases:
     LEON_CAM_ADJ_EXH_ACT: 0
   response: 7E80562201A0000
 - expected_values:
-    LEON_CAM_ADJ_EXH_ACT: 16.8
-  response: 7E80562201A00A8
+    LEON_CAM_ADJ_EXH_ACT: 17.5
+  response: 7E80562201A00AF

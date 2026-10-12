@@ -1425,7 +1425,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "139C"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "LEON_EXHAUST_GAS_T_AT_PROBE_BEFOR_PRECAT_MODEL_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -3549.9, "div": 10, "add": -273.1, "sign": true, "unit": "celsius" }, "name": "Exhaust gas temperature before the front catalytic converter, model value"}
+    {"id": "LEON_EXHAUST_GAS_T_AT_PROBE_BEFOR_PRECAT_MODEL_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -3549.9, "div": 10, "add": -273.1, "sign": true, "nullmin": -273.1, "unit": "celsius" }, "name": "Exhaust gas temperature before the front catalytic converter, model value"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "13A0"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -2911,7 +2911,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "100B"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "LEON_MQB_TCM_DRIVER_DEMAND_TORQUE", "path": "Engine", "fmt": { "len": 16, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "newtonMeters" }, "name": "Driver demand torque"}
+    {"id": "LEON_MQB_TCM_DRIVER_DEMAND_TORQUE", "path": "Engine", "fmt": { "len": 16, "blsb": true, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "newtonMeters" }, "name": "Driver demand torque"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "100C"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -2955,7 +2955,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "101A"}, "freq": 30, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "LEON_PQ35_ODO_3", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer #3", "suggestedMetric": "odometer"}
+    {"id": "LEON_PQ35_ODO_3", "path": "Trips", "fmt": { "len": 24, "blsb": true, "max": 16777215, "unit": "kilometers" }, "name": "Odometer #3", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1021"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -3756,7 +3756,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "380F"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "LEON_MQB_OUTPUT_SHAFT_2", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "rpm" }, "name": "Output shaft 2"}
+    {"id": "LEON_MQB_OUTPUT_SHAFT_2", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 32767, "min": -32768, "sign": true, "unit": "rpm" }, "name": "Output shaft 2"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3816"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -3816,7 +3816,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3833"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_1_DUTY_CYCLE_FACTOR_2", "path": "Transmission", "fmt": { "len": 16, "max": 100, "div": 100, "unit": "percent" }, "name": "Actual position clutch 1 duty cycle factor 2"}
+    {"id": "LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_1_DUTY_CYCLE_FACTOR_2", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 100, "div": 100, "unit": "percent" }, "name": "Actual position clutch 1 duty cycle factor 2"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3834"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -3836,11 +3836,11 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "383B"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_2_DUTY_CYCLE_FACTOR_1", "path": "Transmission", "fmt": { "len": 16, "max": 100, "div": 100, "unit": "percent" }, "name": "Actual position clutch 2 duty cycle factor 1"}
+    {"id": "LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_2_DUTY_CYCLE_FACTOR_1", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 100, "div": 100, "unit": "percent" }, "name": "Actual position clutch 2 duty cycle factor 1"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "383C"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_2_DUTY_CYCLE_FACTOR_2", "path": "Transmission", "fmt": { "len": 16, "max": 100, "div": 100, "unit": "percent" }, "name": "Actual position clutch 2 duty cycle factor 2"}
+    {"id": "LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_2_DUTY_CYCLE_FACTOR_2", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 100, "div": 100, "unit": "percent" }, "name": "Actual position clutch 2 duty cycle factor 2"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "383D"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -3852,7 +3852,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3841"}, "freq": 30, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "LEON_MQB_TCM_ODO", "path": "Trips", "fmt": { "len": 32, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "LEON_MQB_TCM_ODO", "path": "Trips", "fmt": { "len": 32, "blsb": true, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3852"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [

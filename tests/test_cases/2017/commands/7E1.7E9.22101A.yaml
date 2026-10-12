@@ -1,11 +1,23 @@
 command_id: 7E1.7E9.22101A
 test_cases:
 - expected_values:
-    LEON_PQ35_ODO_3: 3057410
+    LEON_PQ35_ODO_3: 173870
   response: 7E90762101A2EA70200
 - expected_values:
-    LEON_PQ35_ODO_3: 3122946
+    LEON_PQ35_ODO_3: 173871
   response: 7E90762101A2FA70200
 - expected_values:
-    LEON_PQ35_ODO_3: 3254018
+    LEON_PQ35_ODO_3: 173873
   response: 7E90762101A31A70200
+- expected_values:
+    LEON_PQ35_ODO_3: 173877
+  response: 7E90762101A35A70200
+- expected_values:
+    LEON_PQ35_ODO_3: 173880
+  response: 7E90762101A38A70200
+- expected_values:
+    LEON_PQ35_ODO_3: 173882
+  response: 7E90762101A3AA70200
+- expected_values:
+    LEON_PQ35_ODO_3: 173883
+  response: 7E90762101A3BA70200

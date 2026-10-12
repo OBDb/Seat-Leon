@@ -4,5 +4,14 @@ test_cases:
     LEON_MQB_TCM_TRANSMISSION_PART_2_P_CMD: 15.4
   response: '7E9056238230406'
 - expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_P_CMD: 26.7
+  response: 7E9056238236E0A
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_P_CMD: 29.42
+  response: 7E9056238237E0B
+- expected_values:
     LEON_MQB_TCM_TRANSMISSION_PART_2_P_CMD: 25.08
   response: 7E905623823CC09
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_P_CMD: 35.68
+  response: 7E905623823F00D

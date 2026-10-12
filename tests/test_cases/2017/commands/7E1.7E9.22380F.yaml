@@ -4,8 +4,17 @@ test_cases:
     LEON_MQB_OUTPUT_SHAFT_2: 0
   response: 7E90562380F0000
 - expected_values:
-    LEON_MQB_OUTPUT_SHAFT_2: 11777
+    LEON_MQB_OUTPUT_SHAFT_2: 551
+  response: 7E90562380F2702
+- expected_values:
+    LEON_MQB_OUTPUT_SHAFT_2: 301
+  response: 7E90562380F2D01
+- expected_values:
+    LEON_MQB_OUTPUT_SHAFT_2: 302
   response: 7E90562380F2E01
 - expected_values:
-    LEON_MQB_OUTPUT_SHAFT_2: 22528
+    LEON_MQB_OUTPUT_SHAFT_2: 77
+  response: 7E90562380F4D00
+- expected_values:
+    LEON_MQB_OUTPUT_SHAFT_2: 88
   response: 7E90562380F5800
