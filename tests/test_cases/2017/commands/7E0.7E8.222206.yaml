@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     LEON_PQ35_FUEL_LEVEL_7E0_2206: 8
   response: '7E80462220608'
+- expected_values:
+    LEON_PQ35_FUEL_LEVEL_7E0_2206: 21
+  response: '7E80462220615'
+- expected_values:
+    LEON_PQ35_FUEL_LEVEL_7E0_2206: 48
+  response: '7E80462220630'
