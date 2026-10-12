@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.224336
 test_cases:
 - expected_values:
+    LEON_HEATER_SUPPORT_PMP_SPEC: 38.4
+  response: 7E8056243360F00
+- expected_values:
+    LEON_HEATER_SUPPORT_PMP_SPEC: 48
+  response: 7E80562433612C0
+- expected_values:
     LEON_HEATER_SUPPORT_PMP_SPEC: 49.79
   response: '7E8056243361373'
 - expected_values:
@@ -9,3 +15,6 @@ test_cases:
 - expected_values:
     LEON_HEATER_SUPPORT_PMP_SPEC: 94.79
   response: '7E8056243362507'
+- expected_values:
+    LEON_HEATER_SUPPORT_PMP_SPEC: 95
+  response: 7E805624336251C

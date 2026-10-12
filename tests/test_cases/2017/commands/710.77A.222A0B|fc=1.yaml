@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     LEON_BAT_T: 13
   response: 77A04622A0B35
+- expected_values:
+    LEON_BAT_T: 17
+  response: 77A04622A0B39
+- expected_values:
+    LEON_BAT_T: 18
+  response: 77A04622A0B3A

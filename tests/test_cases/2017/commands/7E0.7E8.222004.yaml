@@ -4,8 +4,8 @@ test_cases:
     LEON_IGN_ANG_CURRENT_CYL_ACT: 0
   response: '7E8056220040000'
 - expected_values:
-    LEON_IGN_ANG_CURRENT_CYL_ACT: 22.87
-  response: 7E80562200408EF
+    LEON_IGN_ANG_CURRENT_CYL_ACT: -2.62
+  response: 7E805622004FEFA
 - expected_values:
-    LEON_IGN_ANG_CURRENT_CYL_ACT: -0.37
-  response: 7E805622004FFDB
+    LEON_IGN_ANG_CURRENT_CYL_ACT: -2.25
+  response: 7E805622004FF1F

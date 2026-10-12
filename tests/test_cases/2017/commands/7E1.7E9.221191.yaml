@@ -1,11 +1,32 @@
 command_id: 7E1.7E9.221191
 test_cases:
 - expected_values:
+    LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 48.89
+  response: '7E9056211911913'
+- expected_values:
+    LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 48.95
+  response: 7E9056211911F13
+- expected_values:
     LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 55.08
   response: '7E9056211918415'
+- expected_values:
+    LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 44.89
+  response: '7E9056211918911'
+- expected_values:
+    LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 50.1
+  response: '7E9056211919213'
+- expected_values:
+    LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 52.75
+  response: 7E9056211919B14
 - expected_values:
     LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 45.53
   response: 7E905621191C911
 - expected_values:
+    LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 55.91
+  response: 7E905621191D715
+- expected_values:
     LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 53.36
   response: 7E905621191D814
+- expected_values:
+    LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 48.59
+  response: 7E905621191FB12

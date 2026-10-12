@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     LEON_TI_MES4_PLS_3_2: 0
   response: 7E8056213AA0000
+- expected_values:
+    LEON_TI_MES4_PLS_3_2: 0.788
+  response: 7E8056213AA00C5
+- expected_values:
+    LEON_TI_MES4_PLS_3_2: 0.792
+  response: 7E8056213AA00C6

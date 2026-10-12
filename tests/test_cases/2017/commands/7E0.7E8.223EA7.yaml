@@ -4,17 +4,8 @@ test_cases:
     LEON_CHG_P_CTRL_VLV_POS_ACT: 0
   response: 7E805623EA70000
 - expected_values:
-    LEON_CHG_P_CTRL_VLV_POS_ACT: 0.54
-  response: 7E805623EA70036
-- expected_values:
-    LEON_CHG_P_CTRL_VLV_POS_ACT: 1.14
-  response: 7E805623EA70072
-- expected_values:
-    LEON_CHG_P_CTRL_VLV_POS_ACT: 1.27
-  response: 7E805623EA7007F
-- expected_values:
-    LEON_CHG_P_CTRL_VLV_POS_ACT: 1.4
-  response: 7E805623EA7008C
-- expected_values:
     LEON_CHG_P_CTRL_VLV_POS_ACT: 2.17
   response: 7E805623EA700D9
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_POS_ACT: 71.99
+  response: 7E805623EA71C1F

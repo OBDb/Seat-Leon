@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_ADPT_THROTTLE_VLV: 6
   response: 7E80462292B06
+- expected_values:
+    LEON_ADPT_THROTTLE_VLV: 14
+  response: 7E80462292B0E

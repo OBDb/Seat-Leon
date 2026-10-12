@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.223EA9
 test_cases:
 - expected_values:
+    LEON_CHG_P_CTRL_VLV: 0
+  response: 7E805623EA90000
+- expected_values:
     LEON_CHG_P_CTRL_VLV: 10.2
   response: 7E805623EA903FC
 - expected_values:
     LEON_CHG_P_CTRL_VLV: -9.91
   response: 7E805623EA9FC21
-- expected_values:
-    LEON_CHG_P_CTRL_VLV: -9.86
-  response: 7E805623EA9FC26
-- expected_values:
-    LEON_CHG_P_CTRL_VLV: -9.75
-  response: 7E805623EA9FC31
-- expected_values:
-    LEON_CHG_P_CTRL_VLV: -9.73
-  response: 7E805623EA9FC33
-- expected_values:
-    LEON_CHG_P_CTRL_VLV: -9.71
-  response: 7E805623EA9FC35
-- expected_values:
-    LEON_CHG_P_CTRL_VLV: -9.66
-  response: 7E805623EA9FC3A
-- expected_values:
-    LEON_CHG_P_CTRL_VLV: -9.39
-  response: 7E805623EA9FC55
-- expected_values:
-    LEON_CHG_P_CTRL_VLV: -9.37
-  response: 7E805623EA9FC57
-- expected_values:
-    LEON_CHG_P_CTRL_VLV: -9.34
-  response: 7E805623EA9FC5A

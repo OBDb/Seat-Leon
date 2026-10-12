@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.2210A0
 test_cases:
 - expected_values:
+    LEON_PQ35_GANGSTELLER_C_ADAPT_NEUTRALPOS: -0.18
+  response: 7E9056210A0EEFF
+- expected_values:
     LEON_PQ35_GANGSTELLER_C_ADAPT_NEUTRALPOS: -0.13
   response: 7E9056210A0F3FF

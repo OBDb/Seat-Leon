@@ -7,5 +7,26 @@ test_cases:
     LEON_MQB_TCM_ODO_2: 171190.2
   response: 7E9076238871E1F1A00
 - expected_values:
+    LEON_MQB_TCM_ODO_2: 171193.5
+  response: 7E9076238873F1F1A00
+- expected_values:
+    LEON_MQB_TCM_ODO_2: 171196.5
+  response: 7E9076238875D1F1A00
+- expected_values:
+    LEON_MQB_TCM_ODO_2: 171197.2
+  response: 7E907623887641F1A00
+- expected_values:
+    LEON_MQB_TCM_ODO_2: 171198.6
+  response: 7E907623887721F1A00
+- expected_values:
+    LEON_MQB_TCM_ODO_2: 171198.9
+  response: 7E907623887751F1A00
+- expected_values:
+    LEON_MQB_TCM_ODO_2: 171199.2
+  response: 7E907623887781F1A00
+- expected_values:
+    LEON_MQB_TCM_ODO_2: 171199.4
+  response: 7E9076238877A1F1A00
+- expected_values:
     LEON_MQB_TCM_ODO_2: 171186.5
   response: 7E907623887F91E1A00

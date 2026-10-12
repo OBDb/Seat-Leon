@@ -4,17 +4,5 @@ test_cases:
     LEON_ODO_7E0_7E0: 173870
   response: 7E80662295A02A72E
 - expected_values:
-    LEON_ODO_7E0_7E0: 173871
-  response: 7E80662295A02A72F
-- expected_values:
-    LEON_ODO_7E0_7E0: 173872
-  response: 7E80662295A02A730
-- expected_values:
-    LEON_ODO_7E0_7E0: 173873
-  response: 7E80662295A02A731
-- expected_values:
-    LEON_ODO_7E0_7E0: 173874
-  response: 7E80662295A02A732
-- expected_values:
-    LEON_ODO_7E0_7E0: 173875
-  response: 7E80662295A02A733
+    LEON_ODO_7E0_7E0: 173883
+  response: 7E80662295A02A73B

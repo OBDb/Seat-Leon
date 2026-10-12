@@ -4,8 +4,8 @@ test_cases:
     LEON_MAP_RAW: 4.0625
   response: 7E8056211DC0034
 - expected_values:
-    LEON_MAP_RAW: 41.25
-  response: 7E8056211DC0210
+    LEON_MAP_RAW: 40.3125
+  response: 7E8056211DC0204
 - expected_values:
     LEON_MAP_RAW: 59.84375
   response: 7E8056211DC02FE

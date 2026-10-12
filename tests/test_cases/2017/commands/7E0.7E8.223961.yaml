@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEON_KNOCK_SENS_CYL_2: 0.521
   response: '7E8056239610209'
+- expected_values:
+    LEON_KNOCK_SENS_CYL_2: 0.845
+  response: 7E805623961034D

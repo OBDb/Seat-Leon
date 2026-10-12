@@ -4,11 +4,8 @@ test_cases:
     LEON_ECT_DIFF_ENG: 8.2
   response: 7E80562202E0052
 - expected_values:
-    LEON_ECT_DIFF_ENG: 24.7
-  response: 7E80562202E00F7
+    LEON_ECT_DIFF_ENG: 76.5
+  response: 7E80562202E02FD
 - expected_values:
-    LEON_ECT_DIFF_ENG: 51.7
-  response: 7E80562202E0205
-- expected_values:
-    LEON_ECT_DIFF_ENG: 79.5
-  response: 7E80562202E031B
+    LEON_ECT_DIFF_ENG: 77.2
+  response: 7E80562202E0304

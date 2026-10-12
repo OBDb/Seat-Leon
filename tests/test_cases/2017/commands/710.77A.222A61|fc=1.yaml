@@ -12,3 +12,9 @@ test_cases:
   response: |-
     77A100B622A61000111
     77A213700010A16AAAA
+- expected_values:
+    LEON_MQB_BAT_TOT_CHG: 6994.8
+    LEON_MQB_BAT_TOT_DIS: 6812.3
+  response: |-
+    77A100B622A61000111
+    77A213C00010A1BAAAA

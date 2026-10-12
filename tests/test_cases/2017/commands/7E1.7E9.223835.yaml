@@ -4,8 +4,26 @@ test_cases:
     LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 590
   response: 7E9056238350C17
 - expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 337
+  response: 7E9056238352A0D
+- expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 597
+  response: '7E9056238355217'
+- expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 497
+  response: 7E9056238356A13
+- expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 574
+  response: 7E9056238356C16
+- expected_values:
     LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 502
   response: 7E9056238359C13
 - expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 505
+  response: 7E905623835BA13
+- expected_values:
     LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 329
   response: 7E905623835DA0C
+- expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 332
+  response: 7E905623835F80C

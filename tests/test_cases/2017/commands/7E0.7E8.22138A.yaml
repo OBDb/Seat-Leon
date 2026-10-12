@@ -4,5 +4,5 @@ test_cases:
     LEON_IGA_IGC_0: -16.51275
   response: 7E80462138A33
 - expected_values:
-    LEON_IGA_IGC_0: 25.834
-  response: 7E80462138AA4
+    LEON_IGA_IGC_0: 28.832
+  response: 7E80462138AAC

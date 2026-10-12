@@ -4,29 +4,8 @@ test_cases:
     LEON_MIXTURE_ADPT_FACTOR_IDLE: 0
   response: '7E8056239970000'
 - expected_values:
-    LEON_MIXTURE_ADPT_FACTOR_IDLE: 0.23
-  response: '7E8056239970017'
+    LEON_MIXTURE_ADPT_FACTOR_IDLE: -2.66
+  response: 7E805623997FEF6
 - expected_values:
-    LEON_MIXTURE_ADPT_FACTOR_IDLE: 1.28
-  response: '7E8056239970080'
-- expected_values:
-    LEON_MIXTURE_ADPT_FACTOR_IDLE: 3.7
-  response: '7E8056239970172'
-- expected_values:
-    LEON_MIXTURE_ADPT_FACTOR_IDLE: 4.31
-  response: 7E80562399701AF
-- expected_values:
-    LEON_MIXTURE_ADPT_FACTOR_IDLE: 4.5
-  response: 7E80562399701C2
-- expected_values:
-    LEON_MIXTURE_ADPT_FACTOR_IDLE: 4.57
-  response: 7E80562399701C9
-- expected_values:
-    LEON_MIXTURE_ADPT_FACTOR_IDLE: 5.69
-  response: '7E8056239970239'
-- expected_values:
-    LEON_MIXTURE_ADPT_FACTOR_IDLE: 6.78
-  response: 7E80562399702A6
-- expected_values:
-    LEON_MIXTURE_ADPT_FACTOR_IDLE: -0.39
-  response: 7E805623997FFD9
+    LEON_MIXTURE_ADPT_FACTOR_IDLE: -2.17
+  response: 7E805623997FF27

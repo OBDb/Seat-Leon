@@ -7,6 +7,9 @@ test_cases:
     LEON_IDLE_SPD_SPEC_RPM: 807
   response: '7E8056240560327'
 - expected_values:
+    LEON_IDLE_SPD_SPEC_RPM: 813
+  response: 7E805624056032D
+- expected_values:
     LEON_IDLE_SPD_SPEC_RPM: 819
   response: '7E8056240560333'
 - expected_values:
@@ -18,3 +21,6 @@ test_cases:
 - expected_values:
     LEON_IDLE_SPD_SPEC_RPM: 919
   response: '7E8056240560397'
+- expected_values:
+    LEON_IDLE_SPD_SPEC_RPM: 950
+  response: 7E80562405603B6

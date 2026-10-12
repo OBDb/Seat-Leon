@@ -4,8 +4,23 @@ test_cases:
     LEON_MQB_TCM_ENGINE_TORQUE: 0
   response: 7E90562100C0000
 - expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE: 92
+  response: 7E90562100C3007
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE: 67
+  response: 7E90562100C3C05
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE: 82
+  response: 7E90562100C6806
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE: 19
+  response: 7E90562100C7C01
+- expected_values:
     LEON_MQB_TCM_ENGINE_TORQUE: 109
   response: 7E90562100C8408
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE: 87
+  response: 7E90562100CCC06
 - expected_values:
     LEON_MQB_TCM_ENGINE_TORQUE: 38
   response: 7E90562100CF802

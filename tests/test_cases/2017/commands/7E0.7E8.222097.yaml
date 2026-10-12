@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.222097
 test_cases:
 - expected_values:
-    LEON_MEAN_INJ_QTY: 5
-  response: '7E8056220970005'
+    LEON_MEAN_INJ_QTY: 4
+  response: '7E8056220970004'
 - expected_values:
-    LEON_MEAN_INJ_QTY: 34
-  response: '7E8056220970022'
+    LEON_MEAN_INJ_QTY: 57
+  response: '7E8056220970039'

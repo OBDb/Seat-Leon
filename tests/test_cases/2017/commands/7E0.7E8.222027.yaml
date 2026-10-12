@@ -4,11 +4,8 @@ test_cases:
     LEON_FUEL_HIGH_P_ACT: 148.9
   response: 7E80562202705D1
 - expected_values:
-    LEON_FUEL_HIGH_P_ACT: 151.4
-  response: 7E80562202705EA
+    LEON_FUEL_HIGH_P_ACT: 152.3
+  response: 7E80562202705F3
 - expected_values:
-    LEON_FUEL_HIGH_P_ACT: 155.1
-  response: 7E805622027060F
-- expected_values:
-    LEON_FUEL_HIGH_P_ACT: 181.2
-  response: '7E8056220270714'
+    LEON_FUEL_HIGH_P_ACT: 179.2
+  response: '7E8056220270700'

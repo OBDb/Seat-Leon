@@ -7,8 +7,8 @@ test_cases:
     LEON_NL_PRE_1: 0.2697
   response: 7E8056213F70DCF
 - expected_values:
-    LEON_NL_PRE_1: 0.29427
-  response: 7E8056213F70F11
+    LEON_NL_PRE_1: 0.39108
+  response: 7E8056213F71406
 - expected_values:
-    LEON_NL_PRE_1: 0.71762
-  response: 7E8056213F724BE
+    LEON_NL_PRE_1: 0.76401
+  response: 7E8056213F7271E

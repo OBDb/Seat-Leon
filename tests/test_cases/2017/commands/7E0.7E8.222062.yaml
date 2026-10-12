@@ -4,29 +4,11 @@ test_cases:
     LEON_APP_POS2: 0.366
   response: 7E805622062016E
 - expected_values:
-    LEON_APP_POS2: 0.371
-  response: '7E8056220620173'
-- expected_values:
     LEON_APP_POS2: 0.513
   response: '7E8056220620201'
 - expected_values:
-    LEON_APP_POS2: 0.654
-  response: 7E805622062028E
-- expected_values:
-    LEON_APP_POS2: 0.664
-  response: '7E8056220620298'
-- expected_values:
-    LEON_APP_POS2: 0.698
-  response: 7E80562206202BA
-- expected_values:
     LEON_APP_POS2: 0.767
   response: 7E80562206202FF
-- expected_values:
-    LEON_APP_POS2: 0.776
-  response: '7E8056220620308'
-- expected_values:
-    LEON_APP_POS2: 0.859
-  response: 7E805622062035B
 - expected_values:
     LEON_APP_POS2: 1.113
   response: '7E8056220620459'

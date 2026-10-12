@@ -7,11 +7,26 @@ test_cases:
     LEON_CHG_P_SENS_V: 1.616
   response: 7E8056229C70650
 - expected_values:
+    LEON_CHG_P_SENS_V: 1.621
+  response: 7E8056229C70655
+- expected_values:
     LEON_CHG_P_SENS_V: 1.626
   response: 7E8056229C7065A
 - expected_values:
     LEON_CHG_P_SENS_V: 1.631
   response: 7E8056229C7065F
 - expected_values:
+    LEON_CHG_P_SENS_V: 1.636
+  response: 7E8056229C70664
+- expected_values:
     LEON_CHG_P_SENS_V: 1.641
   response: 7E8056229C70669
+- expected_values:
+    LEON_CHG_P_SENS_V: 1.65
+  response: 7E8056229C70672
+- expected_values:
+    LEON_CHG_P_SENS_V: 1.704
+  response: 7E8056229C706A8
+- expected_values:
+    LEON_CHG_P_SENS_V: 1.753
+  response: 7E8056229C706D9

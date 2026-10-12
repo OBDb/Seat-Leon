@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2216BA
 test_cases:
 - expected_values:
-    LEON_VLV_LIFT_SYSTEM_VLV: 10
-  response: 7E8056216BA0A0E
+    LEON_VLV_LIFT_SYSTEM_VLV: 7
+  response: 7E8056216BA079A
 - expected_values:
-    LEON_VLV_LIFT_SYSTEM_VLV: 14
-  response: 7E8056216BA0EE7
+    LEON_VLV_LIFT_SYSTEM_VLV: 15
+  response: 7E8056216BA0FF7
 - expected_values:
-    LEON_VLV_LIFT_SYSTEM_VLV: 17
-  response: 7E8056216BA1175
+    LEON_VLV_LIFT_SYSTEM_VLV: 19
+  response: 7E8056216BA130D

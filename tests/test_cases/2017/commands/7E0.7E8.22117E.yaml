@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22117E
 test_cases:
 - expected_values:
+    LEON_PQ35_TURB_ACT_1_B1: 0.28
+  response: 7E80562117E001C
+- expected_values:
     LEON_PQ35_TURB_ACT_1_B1: 0.3
   response: 7E80562117E001E

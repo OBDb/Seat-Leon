@@ -4,8 +4,5 @@ test_cases:
     LEON_RPM: 0
   response: 7E80562F40C0000
 - expected_values:
-    LEON_RPM: 891.75
-  response: 7E80562F40C0DEF
-- expected_values:
-    LEON_RPM: 1999.25
-  response: 7E80562F40C1F3D
+    LEON_RPM: 4351.75
+  response: 7E80562F40C43FF

@@ -1,20 +1,11 @@
 command_id: 710.77A.222A1C|fc=1
 test_cases:
 - expected_values:
-    LEON_GEN_CURRENT: 32
-  response: 77A05622A1C00E6
+    LEON_GEN_CURRENT: 9
+  response: 77A05622A1C0000
 - expected_values:
-    LEON_GEN_CURRENT: 38.8
-  response: 77A05622A1C012A
+    LEON_GEN_CURRENT: 34
+  response: 77A05622A1C00FA
 - expected_values:
-    LEON_GEN_CURRENT: 42.8
-  response: 77A05622A1C0152
-- expected_values:
-    LEON_GEN_CURRENT: 43.7
-  response: 77A05622A1C015B
-- expected_values:
-    LEON_GEN_CURRENT: 44.8
-  response: 77A05622A1C0166
-- expected_values:
-    LEON_GEN_CURRENT: 46.8
-  response: 77A05622A1C017A
+    LEON_GEN_CURRENT: 36.3
+  response: 77A05622A1C0111

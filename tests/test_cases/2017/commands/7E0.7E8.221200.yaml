@@ -10,5 +10,5 @@ test_cases:
     LEON_EA888B_BOOST_P_CTRL_1: 64.63
   response: '7E8056212001700'
 - expected_values:
-    LEON_EA888B_BOOST_P_CTRL_1: 75.87
-  response: 7E8056212001B00
+    LEON_EA888B_BOOST_P_CTRL_1: 78.68
+  response: 7E8056212001C0A

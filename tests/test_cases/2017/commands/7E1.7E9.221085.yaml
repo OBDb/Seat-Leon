@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.221085
 test_cases:
 - expected_values:
+    LEON_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G3: -3.58
+  response: 7E9056210859AFE
+- expected_values:
     LEON_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G3: -3.55
   response: 7E9056210859DFE
 - expected_values:

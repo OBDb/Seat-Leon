@@ -4,8 +4,11 @@ test_cases:
     LEON_RUNTM: 82
   response: 7E80562F41F0052
 - expected_values:
-    LEON_RUNTM: 502
-  response: 7E80562F41F01F6
+    LEON_RUNTM: 249
+  response: 7E80562F41F00F9
+- expected_values:
+    LEON_RUNTM: 515
+  response: 7E80562F41F0203
 - expected_values:
     LEON_RUNTM: 772
   response: 7E80562F41F0304

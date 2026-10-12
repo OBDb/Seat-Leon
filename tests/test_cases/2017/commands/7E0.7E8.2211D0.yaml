@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_TCO_1_ST: 11
   response: 7E8046211D033
+- expected_values:
+    LEON_TCO_1_ST: 57
+  response: 7E8046211D061

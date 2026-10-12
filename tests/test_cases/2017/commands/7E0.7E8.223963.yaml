@@ -4,8 +4,8 @@ test_cases:
     LEON_KNOCK_SENS_CYL_4: 0.262
   response: '7E8056239630106'
 - expected_values:
-    LEON_KNOCK_SENS_CYL_4: 0.495
-  response: 7E80562396301EF
+    LEON_KNOCK_SENS_CYL_4: 0.507
+  response: 7E80562396301FB
 - expected_values:
     LEON_KNOCK_SENS_CYL_4: 0.521
   response: '7E8056239630209'

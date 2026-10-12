@@ -4,6 +4,15 @@ test_cases:
     LEON_AAT_V2: 10.5
   response: '7E8056210040540'
 - expected_values:
+    LEON_AAT_V2: 10.58594
+  response: 7E805621004054B
+- expected_values:
+    LEON_AAT_V2: 10.65625
+  response: '7E8056210040554'
+- expected_values:
+    LEON_AAT_V2: 10.89062
+  response: '7E8056210040572'
+- expected_values:
     LEON_AAT_V2: 11
   response: '7E8056210040580'
 - expected_values:

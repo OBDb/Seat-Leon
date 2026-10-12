@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     LEON_CHG_P_CTRL_VLV_POS_TGT: 47.69
   response: 7E805623EA612A1
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_POS_TGT: 52.08
+  response: 7E805623EA61458
+- expected_values:
+    LEON_CHG_P_CTRL_VLV_POS_TGT: 73.73
+  response: 7E805623EA61CCD

@@ -4,8 +4,20 @@ test_cases:
     LEON_ENG_SPEC_TQ_DURING: 1105
   response: '7E9056221100451'
 - expected_values:
+    LEON_ENG_SPEC_TQ_DURING: 6225
+  response: '7E9056221101851'
+- expected_values:
+    LEON_ENG_SPEC_TQ_DURING: 11345
+  response: 7E9056221102C51
+- expected_values:
+    LEON_ENG_SPEC_TQ_DURING: 16465
+  response: '7E9056221104051'
+- expected_values:
     LEON_ENG_SPEC_TQ_DURING: 22610
   response: '7E9056221105852'
 - expected_values:
     LEON_ENG_SPEC_TQ_DURING: 26705
   response: '7E9056221106851'
+- expected_values:
+    LEON_ENG_SPEC_TQ_DURING: 61520
+  response: 7E905622110F050

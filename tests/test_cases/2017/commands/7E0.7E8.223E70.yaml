@@ -10,5 +10,5 @@ test_cases:
     LEON_INT_MANIFOLD_P_RAW: 0.513
   response: 7E805623E700201
 - expected_values:
-    LEON_INT_MANIFOLD_P_RAW: 1.123
-  response: 7E805623E700463
+    LEON_INT_MANIFOLD_P_RAW: 1.078
+  response: 7E805623E700436
