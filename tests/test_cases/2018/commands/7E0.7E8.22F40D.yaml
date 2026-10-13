@@ -2,4 +2,22 @@ command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
     LEON_VSS: 0
+  response: '7E8 04 62 F4 0D 00 '
+- expected_values:
+    LEON_VSS: 0
   response: 7E80462F40D00
+- expected_values:
+    LEON_VSS: 15
+  response: 7E80462F40D0F
+- expected_values:
+    LEON_VSS: 20
+  response: 7E80462F40D14
+- expected_values:
+    LEON_VSS: 37
+  response: 7E80462F40D25
+- expected_values:
+    LEON_VSS: 38
+  response: 7E80462F40D26
+- expected_values:
+    LEON_VSS: 42
+  response: 7E80462F40D2A
