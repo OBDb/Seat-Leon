@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221644
+test_cases:
+- expected_values:
+    LEON_LATERAL_ACCEL: 0
+  response: '7E8056216440000'

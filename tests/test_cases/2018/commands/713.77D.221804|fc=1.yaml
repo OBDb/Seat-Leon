@@ -1,0 +1,14 @@
+command_id: 713.77D.221804|fc=1
+test_cases:
+- expected_values:
+    LEON_MQB_SWA_ALT: 99.75
+  response: |-
+    77D1011621804FFBE00
+    77D2119007F002F0201
+    77D2200E400E4AAAAAA
+- expected_values:
+    LEON_MQB_SWA_ALT: 100.625
+  response: |-
+    77D1011621804FFC800
+    77D2117007F002C0201
+    77D2200E600E6AAAAAA

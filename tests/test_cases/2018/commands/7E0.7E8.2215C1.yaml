@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2215C1
+test_cases:
+- expected_values:
+    LEON_IAT_BEFORE_THROTTLE: 45.75
+  response: 7E8046215C17D
+- expected_values:
+    LEON_IAT_BEFORE_THROTTLE: 51.75
+  response: 7E8046215C185

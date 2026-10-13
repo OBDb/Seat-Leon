@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221740
+test_cases:
+- expected_values:
+    LEON_INT_CAM_ADPT_SENS: -1.80179
+  response: 7E805621740FFAE

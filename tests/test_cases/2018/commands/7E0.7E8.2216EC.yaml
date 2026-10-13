@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2216EC
+test_cases:
+- expected_values:
+    LEON_CHG_P_REGULATOR_LO: 3841.6
+  response: 7E8056216EC4B08

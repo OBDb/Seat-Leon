@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22171B
+test_cases:
+- expected_values:
+    LEON_BASIC_CORR_FACTOR_3: 0.9933
+  response: 7E80562171B1FCA

@@ -1,0 +1,8 @@
+command_id: 710.77A.222A1C|fc=1
+test_cases:
+- expected_values:
+    LEON_GEN_CURRENT: 27.9
+  response: 77A05622A1C00BD
+- expected_values:
+    LEON_GEN_CURRENT: 30.2
+  response: 77A05622A1C00D4

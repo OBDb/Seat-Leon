@@ -1,0 +1,14 @@
+command_id: 710.77A.222A61|fc=1
+test_cases:
+- expected_values:
+    LEON_MQB_BAT_TOT_CHG: 12180.5
+    LEON_MQB_BAT_TOT_DIS: 11758.8
+  response: |-
+    77A100B622A610001DB
+    77A21CD0001CB54AAAA
+- expected_values:
+    LEON_MQB_BAT_TOT_CHG: 12180.5
+    LEON_MQB_BAT_TOT_DIS: 11758.9
+  response: |-
+    77A100B622A610001DB
+    77A21CD0001CB55AAAA

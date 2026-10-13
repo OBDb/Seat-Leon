@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221222
+test_cases:
+- expected_values:
+    LEON_TQ_LOSS_ADPT_AC_COMP: -4.8
+  response: 7E805621222FFD0

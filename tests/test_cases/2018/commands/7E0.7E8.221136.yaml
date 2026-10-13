@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221136
+test_cases:
+- expected_values:
+    LEON_HEIGHT_CORR: 1.00561
+  response: 7E805621136405C
+- expected_values:
+    LEON_HEIGHT_CORR: 1.00585
+  response: '7E8056211364060'

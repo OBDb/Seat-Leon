@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    LEON_RPM: 704
+  response: 7E80562F40C0B00
