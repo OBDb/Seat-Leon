@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211BB
+test_cases:
+- expected_values:
+    LEON_OIL_CRIT: 4.7676
+  response: 7E8056211BB2E8F

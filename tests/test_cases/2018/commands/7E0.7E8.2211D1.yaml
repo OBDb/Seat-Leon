@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211D1
+test_cases:
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7142
+  response: 7E8056211D11BE6

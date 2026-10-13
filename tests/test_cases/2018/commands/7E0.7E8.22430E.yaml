@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22430E
+test_cases:
+- expected_values:
+    LEON_NUM_INJECTIONS: 4471
+  response: 7E80562430E1177

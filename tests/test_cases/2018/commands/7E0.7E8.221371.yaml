@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221371
+test_cases:
+- expected_values:
+    LEON_CAM_ADJ_EXH_BANK_1_SPEC: -25.6
+  response: 7E805621371F380

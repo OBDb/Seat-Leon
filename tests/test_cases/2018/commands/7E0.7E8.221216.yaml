@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221216
+test_cases:
+- expected_values:
+    LEON_REL_LOAD: 16.47854
+  response: 7E80562121602BF
+- expected_values:
+    LEON_REL_LOAD: 16.66606
+  response: 7E80562121602C7

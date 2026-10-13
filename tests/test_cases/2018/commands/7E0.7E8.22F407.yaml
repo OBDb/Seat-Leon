@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F407
+test_cases:
+- expected_values:
+    LEON_LONG_TERM_FUEL_TRIM_1: -2.34375
+  response: 7E80462F4077D

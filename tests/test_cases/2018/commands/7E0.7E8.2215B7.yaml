@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2215B7
+test_cases:
+- expected_values:
+    LEON_ENG_OIL_SUMP_T: 186.74
+  response: 7E8056215B70E09

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210EB
+test_cases:
+- expected_values:
+    LEON_CRANK_ROT_ANG: 34
+  response: 7E8056210EB0154

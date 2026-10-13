@@ -1,0 +1,8 @@
+command_id: 710.77A.222A07|fc=1
+test_cases:
+- expected_values:
+    LEON_BAT_V_2A07: 12.709
+  response: 77A05622A072205
+- expected_values:
+    LEON_BAT_V_2A07: 12.713
+  response: 77A05622A072209
