@@ -504,7 +504,7 @@
     {"id": "LEON_GPS_SATS_VISIBLE", "path": "GPS", "fmt": {          "len": 8, "max": 255, "unit": "scalar" }, "name": "Satellites, visible"},
     {"id": "LEON_GPS_SATS_TRACKED", "path": "GPS", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "scalar" }, "name": "Satellites, tracked"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "028D"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "028D"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2019 },
   "signals": [
     {"id": "LEON_ENG_CTRL_MODULE_T", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Engine control module temperature"}
   ]},
@@ -528,7 +528,7 @@
   "signals": [
     {"id": "LEON_AAT_V2", "path": "Climate", "fmt": { "len": 16, "max": 255, "min": -255, "div": 128, "sign": true, "unit": "celsius" }, "name": "Ambient temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1007"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1007"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_CAMS_START", "path": "Engine", "fmt": { "len": 16, "max": 6553.4, "min": -6553.6, "div": 5, "sign": true, "unit": "degrees" }, "name": "Camshaft start position"}
   ]},
@@ -580,7 +580,7 @@
   "signals": [
     {"id": "LEON_ACCEL_PEDAL_SENS_2_V", "path": "Battery", "fmt": { "len": 16, "max": 13107, "div": 5, "unit": "millivolts" }, "name": "Accelerator pedal, sensor 2 voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "102E"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "102E"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_ACCEL_PED_2", "path": "Movement", "fmt": { "len": 16, "max": 6553.4, "min": -6553.6, "div": 5, "sign": true, "unit": "millivolts" }, "name": "Accelerator pedal sensor 2"}
   ]},
@@ -588,11 +588,11 @@
   "signals": [
     {"id": "LEON_MQB_INT_MAN_P", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Intake manifold pressure calculated"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1047"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1047"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_ENG_TRQ", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Engine torque"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "104B"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "104B"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_AC_COMP_TRQ", "path": "Climate", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Air conditioning compressor torque"}
   ]},
@@ -620,19 +620,19 @@
   "signals": [
     {"id": "LEON_PQ35_BAT_V_2", "path": "Battery", "fmt": { "len": 16, "max": 1310.7, "div": 50, "unit": "volts" }, "name": "Battery voltage variant"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1063"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1063"}, "freq": 5, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_ENG_OUTLET_ECT_CALC", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Engine outlet coolant temperature calculated"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1065"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1065"}, "freq": 5, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_CYL_HEAD_T", "path": "Engine", "fmt": { "len": 16, "max": 11336.3, "min": -460, "mul": 9, "div": 50, "add": -460, "unit": "fahrenheit" }, "name": "Cylinder head temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1069"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1069"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_ENG_START_QTY", "path": "Engine", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "unknown" }, "name": "Engine start quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "106B"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "106B"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_LIM_TRQ", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Torque limit"}
   ]},
@@ -648,7 +648,7 @@
   "signals": [
     {"id": "LEON_INJ_SPD_INJ_0", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Injection speed injector 0"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10A5"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10A5"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_INJ_SPD_INJ_1", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Injection speed injector 1"}
   ]},
@@ -656,7 +656,7 @@
   "signals": [
     {"id": "LEON_INJ_SPD_INJ_2", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Injection speed injector 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10A8"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10A8"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_INJ_SPD_INJ_3", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Injection speed injector 3"}
   ]},
@@ -664,7 +664,7 @@
   "signals": [
     {"id": "LEON_REQ_TQ_AMOUNT", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Requested torque, amount for auxiliary units"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10C2"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10C2"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_EGR_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Exhaust gas recirculation valve duty"}
   ]},
@@ -724,7 +724,7 @@
   "signals": [
     {"id": "LEON_PQ35_WEAR_IDX", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "meters" }, "name": "Wear index"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10E3"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E3"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_TRQ_RED_EXH_T", "path": "Engine", "fmt": { "len": 16, "max": 3.276, "min": -3.2768, "div": 10000, "sign": true, "unit": "scalar" }, "name": "Torque reduction due to exhaust temperature"}
   ]},
@@ -780,11 +780,11 @@
   "signals": [
     {"id": "LEON_PQ35_COOL_FAN_1_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Coolant fan 1 duty cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "111A"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "111A"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_FUEL_FLOW", "path": "Fuel", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "liters" }, "name": "Fuel flow rate", "suggestedMetric": "fuelRate"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "111F"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "111F"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PREHEAT_TIME", "path": "Engine", "fmt": { "len": 16, "max": 3276700, "min": -3276800, "mul": 100, "sign": true, "unit": "milliseconds" }, "name": "Preheat time"}
   ]},
@@ -1008,11 +1008,11 @@
   "signals": [
     {"id": "LEON_ACCELERATION", "path": "Movement", "fmt": { "len": 16, "max": 32.767, "min": -32.768, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Acceleration"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1189"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1189"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_CAMS_EDGE_POS_2", "path": "Engine", "fmt": { "len": 16, "max": 4063.937, "min": -32, "div": 16, "add": -32, "unit": "degrees" }, "name": "Intake camshaft signal edge position adapted edge 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "118A"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "118A"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_CAMS_EDGE_POS_3", "path": "Engine", "fmt": { "len": 16, "max": 4063.937, "min": -32, "div": 16, "add": -32, "unit": "degrees" }, "name": "Intake camshaft signal edge position adapted edge 3"}
   ]},
@@ -1020,7 +1020,7 @@
   "signals": [
     {"id": "LEON_PQ35_CAMS_EDGE_POS_4", "path": "Engine", "fmt": { "len": 16, "max": 4063.937, "min": -32, "div": 16, "add": -32, "unit": "degrees" }, "name": "Intake camshaft signal edge position adapted edge 4"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "118C"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "118C"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_CAMS_EDGE_POS_5", "path": "Engine", "fmt": { "len": 16, "max": 4063.937, "min": -32, "div": 16, "add": -32, "unit": "degrees" }, "name": "Intake camshaft signal edge position adapted edge 5"}
   ]},
