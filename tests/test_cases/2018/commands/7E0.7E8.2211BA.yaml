@@ -1,5 +1,26 @@
 command_id: 7E0.7E8.2211BA
 test_cases:
 - expected_values:
+    LEON_OIL_LVL: 7.464
+  response: 7E8056211BA48E4
+- expected_values:
+    LEON_OIL_LVL: 7.488
+  response: 7E8056211BA4920
+- expected_values:
+    LEON_OIL_LVL: 7.532
+  response: 7E8056211BA498E
+- expected_values:
     LEON_OIL_LVL: 7.576
   response: 7E8056211BA49FC
+- expected_values:
+    LEON_OIL_LVL: 7.608
+  response: 7E8056211BA4A4C
+- expected_values:
+    LEON_OIL_LVL: 7.6388
+  response: 7E8056211BA4A99
+- expected_values:
+    LEON_OIL_LVL: 7.6456
+  response: 7E8056211BA4AAA
+- expected_values:
+    LEON_OIL_LVL: 7.664
+  response: 7E8056211BA4AD8

@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22100C
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE: 44
+  response: '7E9 05 62 10 0C 70 03 '
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE: 15
+  response: 7E90562100C2C01
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE: 18
+  response: 7E90562100C6801

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221012
+test_cases:
+- expected_values:
+    LEON_ID_CURRENT_DRIVING: 1
+  response: '7E90462101201'

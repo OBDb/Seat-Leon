@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22388B
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_DRIVE_CYCLES_COUNTER: 3398
+  response: '7E9 05 62 38 8B 46 0D '
+- expected_values:
+    LEON_MQB_TCM_DRIVE_CYCLES_COUNTER: 3398
+  response: 7E90562388B460D

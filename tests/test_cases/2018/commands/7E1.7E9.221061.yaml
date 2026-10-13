@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221061
+test_cases:
+- expected_values:
+    LEON_DES_TQ_RAW: 16905
+  response: '7E9 05 62 10 61 42 09 '
+- expected_values:
+    LEON_DES_TQ_RAW: 16905
+  response: '7E9056210614209'

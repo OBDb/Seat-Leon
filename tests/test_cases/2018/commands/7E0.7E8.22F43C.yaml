@@ -1,8 +1,26 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
+    LEON_EXH_GAS_T: 226
+  response: 7E80562F43C0A64
+- expected_values:
+    LEON_EXH_GAS_T: 227
+  response: 7E80562F43C0A6E
+- expected_values:
+    LEON_EXH_GAS_T: 227.2
+  response: 7E80562F43C0A70
+- expected_values:
+    LEON_EXH_GAS_T: 227.6
+  response: 7E80562F43C0A74
+- expected_values:
     LEON_EXH_GAS_T: 228.7
   response: 7E80562F43C0A7F
 - expected_values:
     LEON_EXH_GAS_T: 230.6
   response: 7E80562F43C0A92
+- expected_values:
+    LEON_EXH_GAS_T: 240.4
+  response: 7E80562F43C0AF4
+- expected_values:
+    LEON_EXH_GAS_T: 242.8
+  response: 7E80562F43C0B0C

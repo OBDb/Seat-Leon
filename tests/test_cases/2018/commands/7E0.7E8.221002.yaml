@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_AC_COMP_T: 0
   response: '7E8056210020000'
+- expected_values:
+    LEON_AC_COMP_T: 11
+  response: 7E805621002006E

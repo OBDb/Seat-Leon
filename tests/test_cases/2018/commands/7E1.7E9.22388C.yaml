@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22388C
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_IGNITION_CYCLES: 3469
+  response: '7E9 05 62 38 8C 8D 0D '
+- expected_values:
+    LEON_MQB_TCM_IGNITION_CYCLES: 3468
+  response: 7E90562388C8C0D

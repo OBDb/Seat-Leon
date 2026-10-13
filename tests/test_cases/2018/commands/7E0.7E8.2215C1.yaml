@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     LEON_IAT_BEFORE_THROTTLE: 51.75
   response: 7E8046215C185
+- expected_values:
+    LEON_IAT_BEFORE_THROTTLE: 55.5
+  response: 7E8046215C18A
+- expected_values:
+    LEON_IAT_BEFORE_THROTTLE: 57
+  response: 7E8046215C18C
+- expected_values:
+    LEON_IAT_BEFORE_THROTTLE: 57.75
+  response: 7E8046215C18D
+- expected_values:
+    LEON_IAT_BEFORE_THROTTLE: 63.75
+  response: 7E8046215C195
+- expected_values:
+    LEON_IAT_BEFORE_THROTTLE: 64.5
+  response: 7E8046215C196

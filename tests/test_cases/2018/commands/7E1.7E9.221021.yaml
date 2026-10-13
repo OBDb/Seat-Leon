@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221021
+test_cases:
+- expected_values:
+    LEON_TCM_DRAG_TQ: 25088
+  response: '7E9 05 62 10 21 62 00 '
+- expected_values:
+    LEON_TCM_DRAG_TQ: 25088
+  response: '7E9056210216200'

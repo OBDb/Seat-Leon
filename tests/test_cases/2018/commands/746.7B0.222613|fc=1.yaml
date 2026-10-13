@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_CABIN_T: 25
   response: 7B00562261300FA
+- expected_values:
+    LEON_CABIN_T: 25.1
+  response: 7B00562261300FB

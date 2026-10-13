@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.223835
+test_cases:
+- expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 315
+  response: '7E9 05 62 38 35 4E 0C '
+- expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 317
+  response: 7E905623835620C
+- expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 319
+  response: 7E905623835760C

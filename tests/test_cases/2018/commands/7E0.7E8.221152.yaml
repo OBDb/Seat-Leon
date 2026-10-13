@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     LEON_MISFIRES__CYL__2: 14199
   response: '7E8056211523777'
+- expected_values:
+    LEON_MISFIRES__CYL__2: 14201
+  response: '7E8056211523779'
+- expected_values:
+    LEON_MISFIRES__CYL__2: 14203
+  response: 7E805621152377B

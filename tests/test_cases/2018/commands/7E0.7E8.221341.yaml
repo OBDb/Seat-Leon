@@ -4,5 +4,17 @@ test_cases:
     LEON_PQ35_CAMS_END: 207.4
   response: 7E805621341040D
 - expected_values:
+    LEON_PQ35_CAMS_END: 329.6
+  response: '7E8056213410670'
+- expected_values:
     LEON_PQ35_CAMS_END: 341
   response: 7E80562134106A9
+- expected_values:
+    LEON_PQ35_CAMS_END: 341.8
+  response: 7E80562134106AD
+- expected_values:
+    LEON_PQ35_CAMS_END: 351
+  response: 7E80562134106DB
+- expected_values:
+    LEON_PQ35_CAMS_END: 373
+  response: '7E8056213410749'

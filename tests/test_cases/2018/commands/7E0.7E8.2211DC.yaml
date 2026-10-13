@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     LEON_MAP_RAW: 286.64062
   response: 7E8056211DC0E55
+- expected_values:
+    LEON_MAP_RAW: 294.6875
+  response: 7E8056211DC0EBC
+- expected_values:
+    LEON_MAP_RAW: 296.01562
+  response: 7E8056211DC0ECD
+- expected_values:
+    LEON_MAP_RAW: 296.17188
+  response: 7E8056211DC0ECF
+- expected_values:
+    LEON_MAP_RAW: 298.67188
+  response: 7E8056211DC0EEF
+- expected_values:
+    LEON_MAP_RAW: 302.42188
+  response: 7E8056211DC0F1F
+- expected_values:
+    LEON_MAP_RAW: 462.03125
+  response: 7E8056211DC171A

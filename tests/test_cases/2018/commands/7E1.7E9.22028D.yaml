@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22028D
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_ECU_T: 54
+  response: '7E9 05 62 02 8D 36 00 '
+- expected_values:
+    LEON_MQB_TCM_ECU_T: 49
+  response: 7E90562028D3100
+- expected_values:
+    LEON_MQB_TCM_ECU_T: 53
+  response: 7E90562028D3500

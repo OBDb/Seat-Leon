@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     LEON_MEAN_INJ_QUANTITY: 159.52
   response: 7E8056211393E50
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 159.85
+  response: 7E8056211393E71
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 161.14
+  response: 7E8056211393EF2
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 161.56
+  response: 7E8056211393F1C
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 161.67
+  response: 7E8056211393F27
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 163.62
+  response: 7E8056211393FEA
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 164.1
+  response: 7E805621139401A
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 164.2
+  response: '7E8056211394024'

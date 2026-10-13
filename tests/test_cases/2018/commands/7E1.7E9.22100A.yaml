@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22100A
+test_cases:
+- expected_values:
+    LEON_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION: 0
+  response: 7E90562100A0000

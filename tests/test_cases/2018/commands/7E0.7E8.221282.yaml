@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221282
+test_cases:
+- expected_values:
+    LEON_EXHAUST_GAS_T_BEFORE_CATALYST: 249.31
+  response: '7E8056212825692'
+- expected_values:
+    LEON_EXHAUST_GAS_T_BEFORE_CATALYST: 249.61
+  response: 7E80562128256A1
+- expected_values:
+    LEON_EXHAUST_GAS_T_BEFORE_CATALYST: 250.29
+  response: 7E80562128256C3
+- expected_values:
+    LEON_EXHAUST_GAS_T_BEFORE_CATALYST: 250.43
+  response: 7E80562128256CA
+- expected_values:
+    LEON_EXHAUST_GAS_T_BEFORE_CATALYST: 255.97
+  response: 7E80562128257DF
+- expected_values:
+    LEON_EXHAUST_GAS_T_BEFORE_CATALYST: 258.57
+  response: '7E8056212825861'
+- expected_values:
+    LEON_EXHAUST_GAS_T_BEFORE_CATALYST: 272.71
+  response: 7E8056212825B24

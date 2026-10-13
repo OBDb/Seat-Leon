@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.2210A2
+test_cases:
+- expected_values:
+    LEON_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G7: -8.43
+  response: '7E9 05 62 10 A2 B5 FC '
+- expected_values:
+    LEON_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G7: -8.43
+  response: 7E9056210A2B5FC
+- expected_values:
+    LEON_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G7: -8.41
+  response: 7E9056210A2B7FC

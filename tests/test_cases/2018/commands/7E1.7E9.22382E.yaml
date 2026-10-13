@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22382E
+test_cases:
+- expected_values:
+    LEON_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_1: 17.75
+  response: '7E9 05 62 38 2E 63 01 '
+- expected_values:
+    LEON_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_1: 0
+  response: 7E90562382E30F8

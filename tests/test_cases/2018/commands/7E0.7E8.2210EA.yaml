@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210EA
+test_cases:
+- expected_values:
+    LEON_OPEN_CAM_SHFT_ANG: 41.9
+  response: 7E8056210EA01A3
+- expected_values:
+    LEON_OPEN_CAM_SHFT_ANG: 42
+  response: 7E8056210EA01A4

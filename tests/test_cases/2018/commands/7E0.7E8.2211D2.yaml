@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_HIGH_P_CTRL_ADPT: 0.076
   response: 7E8056211D20098
+- expected_values:
+    LEON_HIGH_P_CTRL_ADPT: 0.078
+  response: 7E8056211D2009C

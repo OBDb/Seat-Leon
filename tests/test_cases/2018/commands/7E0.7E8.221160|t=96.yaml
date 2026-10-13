@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221160|t=96
+test_cases:
+- expected_values:
+    LEON_ODO_HD: 114636.863
+  response: 7E80762116006D5383F

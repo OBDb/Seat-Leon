@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_CLIMATE_RAD_FAN_ACT_DUTY: 12
   response: 7B0046226061E
+- expected_values:
+    LEON_CLIMATE_RAD_FAN_ACT_DUTY: 26
+  response: 7B00462260641

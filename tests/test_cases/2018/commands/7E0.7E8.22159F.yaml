@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22159F
+test_cases:
+- expected_values:
+    LEON_HIGH_FUEL_P_ACT: 13.982
+  response: 7E80562159F6D3C
+- expected_values:
+    LEON_HIGH_FUEL_P_ACT: 13.9835
+  response: 7E80562159F6D3F
+- expected_values:
+    LEON_HIGH_FUEL_P_ACT: 13.9885
+  response: 7E80562159F6D49
+- expected_values:
+    LEON_HIGH_FUEL_P_ACT: 13.989
+  response: 7E80562159F6D4A
+- expected_values:
+    LEON_HIGH_FUEL_P_ACT: 13.9895
+  response: 7E80562159F6D4B
+- expected_values:
+    LEON_HIGH_FUEL_P_ACT: 14.027
+  response: 7E80562159F6D96

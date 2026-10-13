@@ -1,5 +1,26 @@
 command_id: 7E0.7E8.22430E
 test_cases:
 - expected_values:
+    LEON_NUM_INJECTIONS: 0
+  response: 7E80562430E0000
+- expected_values:
     LEON_NUM_INJECTIONS: 4471
   response: 7E80562430E1177
+- expected_values:
+    LEON_NUM_INJECTIONS: 22664
+  response: 7E80562430E5888
+- expected_values:
+    LEON_NUM_INJECTIONS: 25564
+  response: 7E80562430E63DC
+- expected_values:
+    LEON_NUM_INJECTIONS: 27917
+  response: 7E80562430E6D0D
+- expected_values:
+    LEON_NUM_INJECTIONS: 28210
+  response: 7E80562430E6E32
+- expected_values:
+    LEON_NUM_INJECTIONS: 37434
+  response: 7E80562430E923A
+- expected_values:
+    LEON_NUM_INJECTIONS: 41641
+  response: 7E80562430EA2A9

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22107E
+test_cases:
+- expected_values:
+    LEON_PQ35_CLUTCH_2_PROT_ENGAGED_QTY: 14
+  response: 7E90762107E0E000000

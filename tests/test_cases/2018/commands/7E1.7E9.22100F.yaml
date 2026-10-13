@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22100F
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE_LOSS: 15
+  response: '7E9 05 62 10 0F 2C 01 '
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE_LOSS: 15
+  response: 7E90562100F2C01
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE_LOSS: 23
+  response: 7E90562100FCC01

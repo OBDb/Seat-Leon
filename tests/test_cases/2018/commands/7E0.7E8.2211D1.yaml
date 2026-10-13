@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     LEON_BRAKE_BOOSTER_RAW_P: 7142
   response: 7E8056211D11BE6
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7452
+  response: 7E8056211D11D1C
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7543
+  response: 7E8056211D11D77
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7545
+  response: 7E8056211D11D79
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7549
+  response: 7E8056211D11D7D
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7553
+  response: 7E8056211D11D81
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7855
+  response: 7E8056211D11EAF

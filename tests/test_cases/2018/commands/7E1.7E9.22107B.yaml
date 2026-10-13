@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22107B
+test_cases:
+- expected_values:
+    LEON_ANALYSIS_CLU_2_T_1: 115
+  response: '7E9 07 62 10 7B 76 16 69 02 '
+- expected_values:
+    LEON_ANALYSIS_CLU_2_T_1: 115
+  response: 7E90762107B76166902

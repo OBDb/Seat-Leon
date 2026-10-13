@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100E
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE_LIMITATION: 129
+  response: 7E90562100E140A
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE_LIMITATION: 122
+  response: 7E90562100E8809

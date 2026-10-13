@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_CLIMATE_RAD_FAN_CMD_DUTY: 0
   response: 7B00462260700
+- expected_values:
+    LEON_CLIMATE_RAD_FAN_CMD_DUTY: 48.8
+  response: 7B0046226077A
