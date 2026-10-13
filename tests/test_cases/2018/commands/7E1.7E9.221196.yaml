@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221196
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_HYBRID_T: 31266
+  response: '7E9 07 62 11 96 7A 22 30 21 '
+- expected_values:
+    LEON_MQB_TCM_HYBRID_T: 31010
+  response: 7E90762119679222F21

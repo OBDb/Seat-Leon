@@ -1,5 +1,23 @@
 command_id: 7E0.7E8.221219
 test_cases:
 - expected_values:
+    LEON_BOOST_REGULATION_CMD: 95.79289
+  response: 7E8056212190FF7
+- expected_values:
+    LEON_BOOST_REGULATION_CMD: 96.26165
+  response: 7E805621219100B
+- expected_values:
+    LEON_BOOST_REGULATION_CMD: 96.33197
+  response: 7E805621219100E
+- expected_values:
     LEON_BOOST_REGULATION_CMD: 96.35541
   response: 7E805621219100F
+- expected_values:
+    LEON_BOOST_REGULATION_CMD: 96.40228
+  response: '7E8056212191011'
+- expected_values:
+    LEON_BOOST_REGULATION_CMD: 96.4726
+  response: '7E8056212191014'
+- expected_values:
+    LEON_BOOST_REGULATION_CMD: 96.49604
+  response: '7E8056212191015'

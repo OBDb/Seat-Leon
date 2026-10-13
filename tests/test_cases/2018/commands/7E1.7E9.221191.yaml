@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221191
+test_cases:
+- expected_values:
+    LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 48.99
+  response: '7E9056211912313'
+- expected_values:
+    LEON_MQB_DQ200_P_SUPPLY_ACTUAL_P: 44
+  response: '7E9056211913011'

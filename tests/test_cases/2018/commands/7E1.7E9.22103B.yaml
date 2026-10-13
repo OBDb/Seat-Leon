@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22103B
+test_cases:
+- expected_values:
+    LEON_TIME_SINCE_RESET: 300
+  response: '7E9 05 62 10 3B 0A 00 '
+- expected_values:
+    LEON_TIME_SINCE_RESET: 300
+  response: 7E90562103B0A00

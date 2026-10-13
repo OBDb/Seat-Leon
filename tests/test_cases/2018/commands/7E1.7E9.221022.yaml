@@ -1,0 +1,12 @@
+command_id: 7E1.7E9.221022
+test_cases:
+- expected_values:
+    LEON_TCM_TQ_LOSSES: 17989
+  response: "7E9 10 11 62 10 22 46 45 4A \n7E9 21 52 4D 52 44 48 54 2E \n7E9 22 30
+    33 38 00 AA AA AA "
+- expected_values:
+    LEON_TCM_TQ_LOSSES: 17989
+  response: |-
+    7E9101162102246454A
+    7E921524D524448542E
+    7E92230333800AAAAAA

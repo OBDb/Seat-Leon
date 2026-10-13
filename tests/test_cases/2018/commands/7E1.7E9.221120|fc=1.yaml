@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221120|fc=1
+test_cases:
+- expected_values:
+    LEON_CLU_1_LO_ADPT_POINT: 0
+  response: '7E9 07 62 11 20 00 00 00 00 '
+- expected_values:
+    LEON_CLU_1_LO_ADPT_POINT: 0
+  response: '7E90762112000000000'

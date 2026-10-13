@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     LEON_AAT_746: -28.5
   response: 7B0046226092B
+- expected_values:
+    LEON_AAT_746: -26
+  response: 7B00462260930
+- expected_values:
+    LEON_AAT_746: -21.5
+  response: 7B00462260939

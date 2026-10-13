@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     LEON_VARIABLE_VLV_TIM_INT_1: 87.1215
   response: 7E80562127B6F84
+- expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1: 87.47855
+  response: 7E80562127B6FF9
+- expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1: 88.58939
+  response: 7E80562127B7165
+- expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1: 88.74198
+  response: 7E80562127B7197
+- expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1: 89.18143
+  response: 7E80562127B7227
+- expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1: 89.4683
+  response: 7E80562127B7285
+- expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1: 89.70328
+  response: 7E80562127B72D2

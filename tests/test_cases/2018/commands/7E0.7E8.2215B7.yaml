@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     LEON_ENG_OIL_SUMP_T: 186.74
   response: 7E8056215B70E09
+- expected_values:
+    LEON_ENG_OIL_SUMP_T: 189.98
+  response: 7E8056215B70E1B
+- expected_values:
+    LEON_ENG_OIL_SUMP_T: 190.52
+  response: 7E8056215B70E1E
+- expected_values:
+    LEON_ENG_OIL_SUMP_T: 191.24
+  response: 7E8056215B70E22
+- expected_values:
+    LEON_ENG_OIL_SUMP_T: 191.78
+  response: 7E8056215B70E25
+- expected_values:
+    LEON_ENG_OIL_SUMP_T: 195.02
+  response: 7E8056215B70E37

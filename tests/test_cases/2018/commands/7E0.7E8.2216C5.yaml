@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     LEON_THROTTLE_REGULATOR: 13.20312
   response: 7E8056216C5069A
+- expected_values:
+    LEON_THROTTLE_REGULATOR: 13.22656
+  response: 7E8056216C5069D
+- expected_values:
+    LEON_THROTTLE_REGULATOR: 13.25
+  response: 7E8056216C506A0
+- expected_values:
+    LEON_THROTTLE_REGULATOR: 13.51562
+  response: 7E8056216C506C2
+- expected_values:
+    LEON_THROTTLE_REGULATOR: 13.52344
+  response: 7E8056216C506C3
+- expected_values:
+    LEON_THROTTLE_REGULATOR: 17.39062
+  response: 7E8056216C508B2

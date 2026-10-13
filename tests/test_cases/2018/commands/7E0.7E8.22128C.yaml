@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     LEON_AVG_INJ_TIME: 0.2456
   response: 7E80762128C00000266
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.2536
+  response: 7E80762128C0000027A
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.2544
+  response: 7E80762128C0000027C
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.26
+  response: 7E80762128C0000028A
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.3224
+  response: 7E80762128C00000326
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.5024
+  response: 7E80762128C000004E8

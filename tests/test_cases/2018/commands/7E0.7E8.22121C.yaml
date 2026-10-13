@@ -1,5 +1,26 @@
 command_id: 7E0.7E8.22121C
 test_cases:
 - expected_values:
+    LEON_AIR_FILLING: 16.94567
+  response: 7E80562121C02D3
+- expected_values:
+    LEON_AIR_FILLING: 17.01599
+  response: 7E80562121C02D6
+- expected_values:
+    LEON_AIR_FILLING: 17.10974
+  response: 7E80562121C02DA
+- expected_values:
+    LEON_AIR_FILLING: 17.29724
+  response: 7E80562121C02E2
+- expected_values:
+    LEON_AIR_FILLING: 17.55506
+  response: 7E80562121C02ED
+- expected_values:
     LEON_AIR_FILLING: 17.5785
   response: 7E80562121C02EE
+- expected_values:
+    LEON_AIR_FILLING: 17.88319
+  response: 7E80562121C02FB
+- expected_values:
+    LEON_AIR_FILLING: 20.32075
+  response: 7E80562121C0363

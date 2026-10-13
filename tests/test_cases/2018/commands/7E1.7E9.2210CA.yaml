@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2210CA
+test_cases:
+- expected_values:
+    LEON_PQ35_CLUTCH_1_ADAPT_KISS_POINT_PART_1_ODO_READING: 114700
+  response: '7E9 05 62 10 CA CE 2C '
+- expected_values:
+    LEON_PQ35_CLUTCH_1_ADAPT_KISS_POINT_PART_1_ODO_READING: 114690
+  response: 7E9056210CACD2C

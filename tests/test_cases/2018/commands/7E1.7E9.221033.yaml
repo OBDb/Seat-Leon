@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221033
+test_cases:
+- expected_values:
+    LEON_TIME_SINCE_SHIFT: 7650
+  response: '7E9 05 62 10 33 FF FF '
+- expected_values:
+    LEON_TIME_SINCE_SHIFT: 7650
+  response: 7E905621033FFFF

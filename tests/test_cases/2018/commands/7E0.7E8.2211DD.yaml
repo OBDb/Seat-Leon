@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     LEON_INT_MANIFOLD_P_CMD: 296.79688
   response: 7E8056211DD0ED7
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 300.78125
+  response: 7E8056211DD0F0A
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 302.57812
+  response: 7E8056211DD0F21
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 303.4375
+  response: 7E8056211DD0F2C
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 305.625
+  response: 7E8056211DD0F48
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 307.8125
+  response: 7E8056211DD0F64
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 308.125
+  response: 7E8056211DD0F68
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 321.5625
+  response: 7E8056211DD1014

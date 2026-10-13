@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     LEON_PQ35_TRANS_IN_SPD: 1961
   response: 7E8056211F10F52
+- expected_values:
+    LEON_PQ35_TRANS_IN_SPD: 1996.5
+  response: 7E8056211F10F99
+- expected_values:
+    LEON_PQ35_TRANS_IN_SPD: 2019
+  response: 7E8056211F10FC6
+- expected_values:
+    LEON_PQ35_TRANS_IN_SPD: 2029
+  response: 7E8056211F10FDA
+- expected_values:
+    LEON_PQ35_TRANS_IN_SPD: 2042
+  response: 7E8056211F10FF4
+- expected_values:
+    LEON_PQ35_TRANS_IN_SPD: 2052.5
+  response: 7E8056211F11009
+- expected_values:
+    LEON_PQ35_TRANS_IN_SPD: 2057
+  response: 7E8056211F11012
+- expected_values:
+    LEON_PQ35_TRANS_IN_SPD: 2078.5
+  response: 7E8056211F1103D

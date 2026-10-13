@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221200
+test_cases:
+- expected_values:
+    LEON_LAUNCH_CTRL_CNT_VAR_1: 0
+  response: '7E9 05 62 12 00 00 00 '
+- expected_values:
+    LEON_LAUNCH_CTRL_CNT_VAR_1: 0
+  response: '7E9056212000000'

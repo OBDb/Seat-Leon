@@ -1,8 +1,23 @@
 command_id: 7E0.7E8.221513
 test_cases:
 - expected_values:
+    LEON_ECT_LINEAR: 89.025
+  response: 7E805621513B6B3
+- expected_values:
+    LEON_ECT_LINEAR: 90.00059
+  response: 7E805621513B800
+- expected_values:
     LEON_ECT_LINEAR: 91.99864
   response: 7E805621513BAAA
 - expected_values:
+    LEON_ECT_LINEAR: 97.50062
+  response: 7E805621513C200
+- expected_values:
     LEON_ECT_LINEAR: 98.25062
   response: 7E805621513C300
+- expected_values:
+    LEON_ECT_LINEAR: 98.74867
+  response: 7E805621513C3AA
+- expected_values:
+    LEON_ECT_LINEAR: 99.24965
+  response: 7E805621513C455

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222110
+test_cases:
+- expected_values:
+    LEON_ENG_SPEC_TQ_DURING: 1105
+  response: '7E9056221100451'
+- expected_values:
+    LEON_ENG_SPEC_TQ_DURING: 36945
+  response: '7E9056221109051'

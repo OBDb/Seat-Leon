@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.223833
+test_cases:
+- expected_values:
+    LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_1_DUTY_CYCLE_FACTOR_2: 85.04
+  response: '7E9 05 62 38 33 38 21 '
+- expected_values:
+    LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_1_DUTY_CYCLE_FACTOR_2: 85.13
+  response: '7E9056238334121'

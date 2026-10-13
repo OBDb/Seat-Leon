@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_CHARGE_AIR_P: 5.4902
   response: 77E046222110E
+- expected_values:
+    LEON_CHARGE_AIR_P: 7.84314
+  response: '77E0462221114'

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.223887
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_ODO_2: 112985.1
+  response: '7E9 07 62 38 87 7B 3D 11 00 '
+- expected_values:
+    LEON_MQB_TCM_ODO_2: 112984.2
+  response: 7E907623887723D1100

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22387F
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_CLUTCH_1_T_PROTECTION_WARNING_1_QTY: 0
+  response: '7E9 05 62 38 7F 00 00 '
+- expected_values:
+    LEON_MQB_TCM_CLUTCH_1_T_PROTECTION_WARNING_1_QTY: 0
+  response: 7E90562387F0000

@@ -4,5 +4,23 @@ test_cases:
     LEON_ECT_RADIATOR_OUTLET_V_1: 52.1
   response: 7E8056215CD0CB4
 - expected_values:
+    LEON_ECT_RADIATOR_OUTLET_V_1: 77.8
+  response: 7E8056215CD0DB5
+- expected_values:
+    LEON_ECT_RADIATOR_OUTLET_V_1: 92.2
+  response: 7E8056215CD0E45
+- expected_values:
+    LEON_ECT_RADIATOR_OUTLET_V_1: 93.5
+  response: 7E8056215CD0E52
+- expected_values:
     LEON_ECT_RADIATOR_OUTLET_V_1: 94
   response: 7E8056215CD0E57
+- expected_values:
+    LEON_ECT_RADIATOR_OUTLET_V_1: 94.7
+  response: 7E8056215CD0E5E
+- expected_values:
+    LEON_ECT_RADIATOR_OUTLET_V_1: 94.8
+  response: 7E8056215CD0E5F
+- expected_values:
+    LEON_ECT_RADIATOR_OUTLET_V_1: 95.7
+  response: 7E8056215CD0E68

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221005
+test_cases:
+- expected_values:
+    LEON_VSS_ESP: 491.96
+  response: '7E9 05 62 10 05 C0 2C '
+- expected_values:
+    LEON_VSS_ESP: 491.96
+  response: 7E905621005C02C

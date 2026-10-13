@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     LEON_ECT_MAX: 94.5
   response: 7E804621511BE
+- expected_values:
+    LEON_ECT_MAX: 99
+  response: 7E804621511C4
+- expected_values:
+    LEON_ECT_MAX: 99.75
+  response: 7E804621511C5

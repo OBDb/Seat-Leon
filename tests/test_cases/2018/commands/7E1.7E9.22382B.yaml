@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22382B
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 586
+  response: '7E9 05 62 38 2B E4 16 '
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 585
+  response: 7E90562382BDA16
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 586
+  response: 7E90562382BE416

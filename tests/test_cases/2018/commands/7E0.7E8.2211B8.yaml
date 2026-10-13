@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2211B8
 test_cases:
 - expected_values:
+    LEON_AIR_LEAKAGE: 2.9
+  response: 7E8056211B8001D
+- expected_values:
+    LEON_AIR_LEAKAGE: 3
+  response: 7E8056211B8001E
+- expected_values:
     LEON_AIR_LEAKAGE: 3.2
   response: 7E8056211B80020

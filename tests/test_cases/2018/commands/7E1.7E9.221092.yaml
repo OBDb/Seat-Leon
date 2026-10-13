@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221092
+test_cases:
+- expected_values:
+    LEON_PQ35_GANGSTELLER_B_ADAPT_NEUTRALPOS: -0.23
+  response: 7E905621092E9FF

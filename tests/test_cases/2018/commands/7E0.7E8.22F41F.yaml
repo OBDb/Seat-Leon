@@ -6,3 +6,21 @@ test_cases:
 - expected_values:
     LEON_RUNTM: 729
   response: 7E80562F41F02D9
+- expected_values:
+    LEON_RUNTM: 988
+  response: 7E80562F41F03DC
+- expected_values:
+    LEON_RUNTM: 1110
+  response: 7E80562F41F0456
+- expected_values:
+    LEON_RUNTM: 1162
+  response: 7E80562F41F048A
+- expected_values:
+    LEON_RUNTM: 1218
+  response: 7E80562F41F04C2
+- expected_values:
+    LEON_RUNTM: 1619
+  response: 7E80562F41F0653
+- expected_values:
+    LEON_RUNTM: 1730
+  response: 7E80562F41F06C2

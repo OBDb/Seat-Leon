@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     LEON_CRANK_ROT_ANG: 34
   response: 7E8056210EB0154
+- expected_values:
+    LEON_CRANK_ROT_ANG: 37.2
+  response: 7E8056210EB0174
+- expected_values:
+    LEON_CRANK_ROT_ANG: 37.4
+  response: 7E8056210EB0176
+- expected_values:
+    LEON_CRANK_ROT_ANG: 37.6
+  response: 7E8056210EB0178
+- expected_values:
+    LEON_CRANK_ROT_ANG: 38
+  response: 7E8056210EB017C
+- expected_values:
+    LEON_CRANK_ROT_ANG: 38.8
+  response: 7E8056210EB0184

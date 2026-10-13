@@ -10,3 +10,13 @@ test_cases:
   response: |-
     77D100C621810010000
     77D21FD26000002D0AA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C621810010000
+    77D21FD2A000002D0AA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C621810011108
+    77D21FD530000029AAA

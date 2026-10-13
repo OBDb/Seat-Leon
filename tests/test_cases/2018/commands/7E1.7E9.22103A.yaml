@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22103A
+test_cases:
+- expected_values:
+    LEON_TIME_AFTERRUN: 12032
+  response: '7E9 05 62 10 3A 2F 00 '
+- expected_values:
+    LEON_TIME_AFTERRUN: 12032
+  response: 7E90562103A2F00

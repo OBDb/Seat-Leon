@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2215B8|din=03
+test_cases:
+- expected_values:
+    LEON_OIL_LEVEL_LAST: 26.828
+  response: 7E8056215B81A33
