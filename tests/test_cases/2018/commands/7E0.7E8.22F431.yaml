@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
+    LEON_CLR_DIST: 13
+  response: 7E80562F431000D
+- expected_values:
     LEON_CLR_DIST: 41729
   response: 7E80562F431A301
