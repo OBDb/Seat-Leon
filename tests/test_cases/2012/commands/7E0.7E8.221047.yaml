@@ -4,20 +4,8 @@ test_cases:
     LEON_PQ35_ENG_TRQ: 0
   response: '7E8056210470000'
 - expected_values:
-    LEON_PQ35_ENG_TRQ: 0.2
-  response: '7E8056210470002'
+    LEON_PQ35_ENG_TRQ: 76.2
+  response: 7E80562104702FA
 - expected_values:
-    LEON_PQ35_ENG_TRQ: 26.7
-  response: 7E805621047010B
-- expected_values:
-    LEON_PQ35_ENG_TRQ: 27.2
-  response: '7E8056210470110'
-- expected_values:
-    LEON_PQ35_ENG_TRQ: 50.4
-  response: 7E80562104701F8
-- expected_values:
-    LEON_PQ35_ENG_TRQ: 154.9
-  response: 7E805621047060D
-- expected_values:
-    LEON_PQ35_ENG_TRQ: 207.1
-  response: '7E8056210470817'
+    LEON_PQ35_ENG_TRQ: 350.8
+  response: 7E8056210470DB4

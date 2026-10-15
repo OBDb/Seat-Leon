@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.2214CF
 test_cases:
 - expected_values:
-    LEON_PQ35_MAIN_INJ_DURATION: 0.3196
-  response: 7E8056214CF031F
+    LEON_PQ35_MAIN_INJ_DURATION: 0
+  response: 7E8056214CF0000
 - expected_values:
-    LEON_PQ35_MAIN_INJ_DURATION: 0.3344
-  response: 7E8056214CF0344
-- expected_values:
-    LEON_PQ35_MAIN_INJ_DURATION: 0.4168
-  response: 7E8056214CF0412
-- expected_values:
-    LEON_PQ35_MAIN_INJ_DURATION: 0.4208
-  response: 7E8056214CF041C
-- expected_values:
-    LEON_PQ35_MAIN_INJ_DURATION: 0.4392
-  response: 7E8056214CF044A
-- expected_values:
-    LEON_PQ35_MAIN_INJ_DURATION: 0.6636
-  response: 7E8056214CF067B
-- expected_values:
-    LEON_PQ35_MAIN_INJ_DURATION: 0.806
-  response: 7E8056214CF07DF
+    LEON_PQ35_MAIN_INJ_DURATION: 0.6136
+  response: 7E8056214CF05FE
 - expected_values:
     LEON_PQ35_MAIN_INJ_DURATION: 0.8496
   response: 7E8056214CF084C

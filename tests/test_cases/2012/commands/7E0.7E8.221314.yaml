@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.221314
 test_cases:
 - expected_values:
-    LEON_PQ35_MEAN_AIR_MASS: 128.4375
-  response: 7E805621314100E
+    LEON_PQ35_MEAN_AIR_MASS: 102.15625
+  response: 7E8056213140CC5
 - expected_values:
-    LEON_PQ35_MEAN_AIR_MASS: 134.34375
-  response: 7E80562131410CB
-- expected_values:
-    LEON_PQ35_MEAN_AIR_MASS: 145.40625
-  response: 7E805621314122D
-- expected_values:
-    LEON_PQ35_MEAN_AIR_MASS: 155.4375
-  response: 7E805621314136E
-- expected_values:
-    LEON_PQ35_MEAN_AIR_MASS: 175.9375
-  response: 7E80562131415FE
-- expected_values:
-    LEON_PQ35_MEAN_AIR_MASS: 189.25
-  response: 7E80562131417A8
-- expected_values:
-    LEON_PQ35_MEAN_AIR_MASS: 232.34375
-  response: 7E8056213141D0B
+    LEON_PQ35_MEAN_AIR_MASS: 255.96875
+  response: 7E8056213141FFF
 - expected_values:
     LEON_PQ35_MEAN_AIR_MASS: 256.0625
   response: '7E8056213142002'

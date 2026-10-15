@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.2211B2
 test_cases:
 - expected_values:
-    LEON_EXH_GAS_T_SENS_3: 190.7
-  response: 7E8056211B2121E
+    LEON_EXH_GAS_T_SENS_3: 134.9
+  response: 7E8056211B20FF0
 - expected_values:
-    LEON_EXH_GAS_T_SENS_3: 208.7
-  response: 7E8056211B212D2
+    LEON_EXH_GAS_T_SENS_3: 215.1
+  response: 7E8056211B21312
 - expected_values:
-    LEON_EXH_GAS_T_SENS_3: 211.9
-  response: 7E8056211B212F2
-- expected_values:
-    LEON_EXH_GAS_T_SENS_3: 221.6
-  response: 7E8056211B21353
-- expected_values:
-    LEON_EXH_GAS_T_SENS_3: 299.8
-  response: 7E8056211B21661
-- expected_values:
-    LEON_EXH_GAS_T_SENS_3: 308
-  response: 7E8056211B216B3
-- expected_values:
-    LEON_EXH_GAS_T_SENS_3: 310.3
-  response: 7E8056211B216CA
+    LEON_EXH_GAS_T_SENS_3: 238.2
+  response: 7E8056211B213F9
 - expected_values:
     LEON_EXH_GAS_T_SENS_3: 337.1
   response: 7E8056211B217D6

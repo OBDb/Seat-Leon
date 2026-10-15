@@ -1,23 +1,11 @@
 command_id: 7E0.7E8.221169
 test_cases:
 - expected_values:
-    LEON_PQ35_FUEL_P_HIGH: 241100
-  response: 7E805621169096B
+    LEON_PQ35_FUEL_P_HIGH: 7100
+  response: '7E8056211690047'
 - expected_values:
-    LEON_PQ35_FUEL_P_HIGH: 278600
-  response: 7E8056211690AE2
-- expected_values:
-    LEON_PQ35_FUEL_P_HIGH: 372700
-  response: 7E8056211690E8F
-- expected_values:
-    LEON_PQ35_FUEL_P_HIGH: 431900
-  response: 7E80562116910DF
-- expected_values:
-    LEON_PQ35_FUEL_P_HIGH: 440000
-  response: '7E8056211691130'
-- expected_values:
-    LEON_PQ35_FUEL_P_HIGH: 1173800
-  response: 7E8056211692DDA
+    LEON_PQ35_FUEL_P_HIGH: 383400
+  response: 7E8056211690EFA
 - expected_values:
     LEON_PQ35_FUEL_P_HIGH: 1179200
   response: 7E8056211692E10

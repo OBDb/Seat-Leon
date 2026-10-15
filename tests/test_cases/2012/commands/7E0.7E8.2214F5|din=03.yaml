@@ -4,5 +4,17 @@ test_cases:
     LEON_PQ35_DIFF_P: 18
   response: 7E8056214F50012
 - expected_values:
+    LEON_PQ35_DIFF_P: 20
+  response: 7E8056214F50014
+- expected_values:
     LEON_PQ35_DIFF_P: 22
   response: 7E8056214F50016
+- expected_values:
+    LEON_PQ35_DIFF_P: 35
+  response: 7E8056214F50023
+- expected_values:
+    LEON_PQ35_DIFF_P: 40
+  response: 7E8056214F50028
+- expected_values:
+    LEON_PQ35_DIFF_P: 66
+  response: 7E8056214F50042

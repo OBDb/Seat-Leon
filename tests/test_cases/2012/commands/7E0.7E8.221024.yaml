@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.221024
 test_cases:
 - expected_values:
-    LEON_MQB_AIR_MASS_1: 32.7
-  response: '7E8056210240147'
-- expected_values:
-    LEON_MQB_AIR_MASS_1: 50.4
-  response: 7E80562102401F8
-- expected_values:
-    LEON_MQB_AIR_MASS_1: 95.9
-  response: 7E80562102403BF
-- expected_values:
-    LEON_MQB_AIR_MASS_1: 99.6
-  response: 7E80562102403E4
-- expected_values:
-    LEON_MQB_AIR_MASS_1: 99.9
-  response: 7E80562102403E7
+    LEON_MQB_AIR_MASS_1: 0
+  response: '7E8056210240000'
 - expected_values:
     LEON_MQB_AIR_MASS_1: 101.7
   response: 7E80562102403F9
-- expected_values:
-    LEON_MQB_AIR_MASS_1: 118.3
-  response: 7E805621024049F
 - expected_values:
     LEON_MQB_AIR_MASS_1: 199
   response: 7E80562102407C6

@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.2211F2
 test_cases:
 - expected_values:
-    LEON_PQ35_MAIN_INJ_START: 0.46
-  response: 7E8056211F20017
-- expected_values:
-    LEON_PQ35_MAIN_INJ_START: 1.76
-  response: 7E8056211F20058
-- expected_values:
-    LEON_PQ35_MAIN_INJ_START: 1.84
-  response: 7E8056211F2005C
-- expected_values:
-    LEON_PQ35_MAIN_INJ_START: 2.7
-  response: 7E8056211F20087
-- expected_values:
-    LEON_PQ35_MAIN_INJ_START: 3.8
-  response: 7E8056211F200BE
-- expected_values:
-    LEON_PQ35_MAIN_INJ_START: 4.84
-  response: 7E8056211F200F2
+    LEON_PQ35_MAIN_INJ_START: 0
+  response: 7E8056211F20000
 - expected_values:
     LEON_PQ35_MAIN_INJ_START: -3.44
   response: 7E8056211F2FF54
 - expected_values:
-    LEON_PQ35_MAIN_INJ_START: -2.66
-  response: 7E8056211F2FF7B
+    LEON_PQ35_MAIN_INJ_START: -0.02
+  response: 7E8056211F2FFFF

@@ -3,6 +3,31 @@ test_cases:
 - expected_values:
     LEON_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
   response: |-
+    7E8100A62F469380000
+    7E82180000080555555
+- expected_values:
+    LEON_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F469380000
+    7E82180323382555555
+- expected_values:
+    LEON_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F46938FF00
+    7E82100000080555555
+- expected_values:
+    LEON_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F46938FF00
+    7E821000003FF555555
+- expected_values:
+    LEON_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F46938FF00
+    7E821004D5288555555
+- expected_values:
+    LEON_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
     7E8100A62F46938FF00
     7E821004F4F80555555
 - expected_values:
@@ -10,3 +35,8 @@ test_cases:
   response: |-
     7E8100A62F46938FF00
     7E8210052517F555555
+- expected_values:
+    LEON_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F46938FF00
+    7E821005E6589555555

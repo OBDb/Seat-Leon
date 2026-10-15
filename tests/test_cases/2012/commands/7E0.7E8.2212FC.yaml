@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2212FC
 test_cases:
 - expected_values:
+    LEON_PQ35_THROT_VALVE_ADAPT: 21
+  response: 7E8056212FC0834
+- expected_values:
+    LEON_PQ35_THROT_VALVE_ADAPT: 61.66
+  response: 7E8056212FC1816
+- expected_values:
     LEON_PQ35_THROT_VALVE_ADAPT: 81.98
   response: 7E8056212FC2006

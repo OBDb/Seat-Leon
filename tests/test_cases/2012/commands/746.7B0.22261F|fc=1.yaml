@@ -4,5 +4,8 @@ test_cases:
     LEON_MQB_RECIRC_FLAP_TRG: 90
   response: 7B00562261F005A
 - expected_values:
+    LEON_MQB_RECIRC_FLAP_TRG: 127
+  response: 7B00562261F007F
+- expected_values:
     LEON_MQB_RECIRC_FLAP_TRG: 138
   response: 7B00562261F008A

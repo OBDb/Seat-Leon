@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     LEON_PQ35_CAMS_START: 1077.4
   response: 7E805621007150B
+- expected_values:
+    LEON_PQ35_CAMS_START: 1084.2
+  response: 7E805621007152D
+- expected_values:
+    LEON_PQ35_CAMS_START: 1085.8
+  response: '7E8056210071535'
+- expected_values:
+    LEON_PQ35_CAMS_START: 1086
+  response: '7E8056210071536'

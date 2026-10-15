@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.22117E
 test_cases:
 - expected_values:
-    LEON_PQ35_TURB_ACT_1_B1: 40.96
-  response: 7E80562117E1000
-- expected_values:
-    LEON_PQ35_TURB_ACT_1_B1: 70.76
-  response: 7E80562117E1BA4
-- expected_values:
-    LEON_PQ35_TURB_ACT_1_B1: 77.07
-  response: 7E80562117E1E1B
+    LEON_PQ35_TURB_ACT_1_B1: 0
+  response: 7E80562117E0000
 - expected_values:
     LEON_PQ35_TURB_ACT_1_B1: 79.23
   response: 7E80562117E1EF3
-- expected_values:
-    LEON_PQ35_TURB_ACT_1_B1: 80.38
-  response: 7E80562117E1F66
-- expected_values:
-    LEON_PQ35_TURB_ACT_1_B1: 81.49
-  response: 7E80562117E1FD5
-- expected_values:
-    LEON_PQ35_TURB_ACT_1_B1: 81.54
-  response: 7E80562117E1FDA
 - expected_values:
     LEON_PQ35_TURB_ACT_1_B1: 81.92
   response: 7E80562117E2000

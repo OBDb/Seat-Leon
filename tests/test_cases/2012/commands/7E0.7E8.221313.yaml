@@ -4,20 +4,8 @@ test_cases:
     LEON_MQB_EGR_VALVE_2_B1_FLOW: 0
   response: '7E8056213130000'
 - expected_values:
-    LEON_MQB_EGR_VALVE_2_B1_FLOW: 11.3
-  response: '7E8056213130071'
-- expected_values:
-    LEON_MQB_EGR_VALVE_2_B1_FLOW: 16.2
-  response: 7E80562131300A2
-- expected_values:
-    LEON_MQB_EGR_VALVE_2_B1_FLOW: 22.6
-  response: 7E80562131300E2
-- expected_values:
     LEON_MQB_EGR_VALVE_2_B1_FLOW: 24.9
   response: 7E80562131300F9
 - expected_values:
-    LEON_MQB_EGR_VALVE_2_B1_FLOW: 29.3
-  response: '7E8056213130125'
-- expected_values:
-    LEON_MQB_EGR_VALVE_2_B1_FLOW: 53.2
-  response: '7E8056213130214'
+    LEON_MQB_EGR_VALVE_2_B1_FLOW: 51.5
+  response: '7E8056213130203'

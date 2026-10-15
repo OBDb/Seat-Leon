@@ -6,3 +6,27 @@ test_cases:
 - expected_values:
     LEON_ODO_MILEAGE_HR: 182365.469
   response: 77E076222B80ADEAD1D
+- expected_values:
+    LEON_ODO_MILEAGE_HR: 182365.545
+  response: 77E076222B80ADEAD69
+- expected_values:
+    LEON_ODO_MILEAGE_HR: 182370.545
+  response: 77E076222B80ADEC0F1
+- expected_values:
+    LEON_ODO_MILEAGE_HR: 182374.382
+  response: 77E076222B80ADECFEE
+- expected_values:
+    LEON_ODO_MILEAGE_HR: 182376.965
+  response: 77E076222B80ADEDA05
+- expected_values:
+    LEON_ODO_MILEAGE_HR: 182381.312
+  response: 77E076222B80ADEEB00
+- expected_values:
+    LEON_ODO_MILEAGE_HR: 182384.032
+  response: 77E076222B80ADEF5A0
+- expected_values:
+    LEON_ODO_MILEAGE_HR: 182384.114
+  response: 77E076222B80ADEF5F2
+- expected_values:
+    LEON_ODO_MILEAGE_HR: 182389.189
+  response: 77E076222B80ADF09C5

@@ -4,23 +4,8 @@ test_cases:
     LEON_PARTICLE_FLT_FUEL: 13.82
   response: 7E80562115A0566
 - expected_values:
-    LEON_PARTICLE_FLT_FUEL: 14.04
-  response: 7E80562115A057C
+    LEON_PARTICLE_FLT_FUEL: 15.33
+  response: 7E80562115A05FD
 - expected_values:
-    LEON_PARTICLE_FLT_FUEL: 14.06
-  response: 7E80562115A057E
-- expected_values:
-    LEON_PARTICLE_FLT_FUEL: 14.14
-  response: 7E80562115A0586
-- expected_values:
-    LEON_PARTICLE_FLT_FUEL: 14.16
-  response: 7E80562115A0588
-- expected_values:
-    LEON_PARTICLE_FLT_FUEL: 14.18
-  response: 7E80562115A058A
-- expected_values:
-    LEON_PARTICLE_FLT_FUEL: 14.22
-  response: 7E80562115A058E
-- expected_values:
-    LEON_PARTICLE_FLT_FUEL: 14.25
-  response: 7E80562115A0591
+    LEON_PARTICLE_FLT_FUEL: 15.37
+  response: 7E80562115A0601

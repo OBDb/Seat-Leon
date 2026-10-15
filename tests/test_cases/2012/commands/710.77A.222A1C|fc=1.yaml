@@ -4,8 +4,29 @@ test_cases:
     LEON_GEN_CURRENT: 9
   response: 77A05622A1C0000
 - expected_values:
+    LEON_GEN_CURRENT: 25.2
+  response: 77A05622A1C00A2
+- expected_values:
+    LEON_GEN_CURRENT: 27.4
+  response: 77A05622A1C00B8
+- expected_values:
+    LEON_GEN_CURRENT: 27.7
+  response: 77A05622A1C00BB
+- expected_values:
+    LEON_GEN_CURRENT: 28
+  response: 77A05622A1C00BE
+- expected_values:
     LEON_GEN_CURRENT: 29
   response: 77A05622A1C00C8
 - expected_values:
     LEON_GEN_CURRENT: 30.3
   response: 77A05622A1C00D5
+- expected_values:
+    LEON_GEN_CURRENT: 36.2
+  response: 77A05622A1C0110
+- expected_values:
+    LEON_GEN_CURRENT: 38.3
+  response: 77A05622A1C0125
+- expected_values:
+    LEON_GEN_CURRENT: 41.2
+  response: 77A05622A1C0142

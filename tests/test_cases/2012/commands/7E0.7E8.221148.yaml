@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.221148
 test_cases:
 - expected_values:
-    LEON_PQ35_FUEL_METER: 29.54
-  response: 7E8056211480B8A
+    LEON_PQ35_FUEL_METER: 29.26
+  response: 7E8056211480B6E
 - expected_values:
-    LEON_PQ35_FUEL_METER: 29.89
-  response: 7E8056211480BAD
+    LEON_PQ35_FUEL_METER: 38.4
+  response: 7E8056211480F00
 - expected_values:
-    LEON_PQ35_FUEL_METER: 33.5
-  response: 7E8056211480D16
+    LEON_PQ35_FUEL_METER: 40.94
+  response: 7E8056211480FFE
 - expected_values:
-    LEON_PQ35_FUEL_METER: 36.35
-  response: 7E8056211480E33
-- expected_values:
-    LEON_PQ35_FUEL_METER: 36.49
-  response: 7E8056211480E41
-- expected_values:
-    LEON_PQ35_FUEL_METER: 38.34
-  response: 7E8056211480EFA
-- expected_values:
-    LEON_PQ35_FUEL_METER: 39.49
-  response: 7E8056211480F6D
-- expected_values:
-    LEON_PQ35_FUEL_METER: 43.25
-  response: 7E80562114810E5
+    LEON_PQ35_FUEL_METER: 49.25
+  response: 7E805621148133D

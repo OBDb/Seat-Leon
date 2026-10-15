@@ -1,6 +1,48 @@
 command_id: 713.77D.221803|fc=1
 test_cases:
 - expected_values:
+    LEON_RR_VSS_V2: 0
+  response: |-
+    77D100E621803000080
+    77D210000FFFEFFFEFF
+    77D22FEAAAAAAAAAAAA
+- expected_values:
+    LEON_RR_VSS_V2: 1.4
+  response: |-
+    77D100E621803000E80
+    77D210000FFFEFFFEFF
+    77D22FEAAAAAAAAAAAA
+- expected_values:
+    LEON_RR_VSS_V2: 7.5
+  response: |-
+    77D100E621803004B80
+    77D2100000000000000
+    77D2200AAAAAAAAAAAA
+- expected_values:
+    LEON_RR_VSS_V2: 15.6
+  response: |-
+    77D100E621803009C80
+    77D2100000000000000
+    77D2200AAAAAAAAAAAA
+- expected_values:
+    LEON_RR_VSS_V2: 19
+  response: |-
+    77D100E62180300BE80
+    77D2100000000000000
+    77D2200AAAAAAAAAAAA
+- expected_values:
+    LEON_RR_VSS_V2: 50.3
+  response: |-
+    77D100E62180301F780
+    77D2100000000000000
+    77D2200AAAAAAAAAAAA
+- expected_values:
+    LEON_RR_VSS_V2: 56.1
+  response: |-
+    77D100E621803023180
+    77D2100000000000000
+    77D2200AAAAAAAAAAAA
+- expected_values:
     LEON_RR_VSS_V2: 58.7
   response: |-
     77D100E621803024B80
@@ -10,5 +52,11 @@ test_cases:
     LEON_RR_VSS_V2: 77.7
   response: |-
     77D100E621803030980
+    77D2100000000000000
+    77D2200AAAAAAAAAAAA
+- expected_values:
+    LEON_RR_VSS_V2: 83
+  response: |-
+    77D100E621803033E80
     77D2100000000000000
     77D2200AAAAAAAAAAAA

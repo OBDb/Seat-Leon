@@ -1,8 +1,26 @@
 command_id: 7E0.7E8.22123F|din=03
 test_cases:
 - expected_values:
+    LEON_PQ35_OIL_DYN_AVG: 1.22
+  response: 7E80562123F0131
+- expected_values:
+    LEON_PQ35_OIL_DYN_AVG: 1.24
+  response: 7E80562123F0136
+- expected_values:
+    LEON_PQ35_OIL_DYN_AVG: 1.256
+  response: 7E80562123F013A
+- expected_values:
+    LEON_PQ35_OIL_DYN_AVG: 1.328
+  response: 7E80562123F014C
+- expected_values:
+    LEON_PQ35_OIL_DYN_AVG: 1.456
+  response: 7E80562123F016C
+- expected_values:
     LEON_PQ35_OIL_DYN_AVG: 2
   response: 7E80562123F01F4
+- expected_values:
+    LEON_PQ35_OIL_DYN_AVG: 2.096
+  response: 7E80562123F020C
 - expected_values:
     LEON_PQ35_OIL_DYN_AVG: 2.608
   response: 7E80562123F028C

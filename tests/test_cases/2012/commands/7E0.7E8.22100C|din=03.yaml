@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22100C|din=03
 test_cases:
 - expected_values:
+    LEON_PQ35_FUEL_LVL_2: 32
+  response: 7E80562100C0C80
+- expected_values:
     LEON_PQ35_FUEL_LVL_2: 33
   response: 7E80562100C0CE4

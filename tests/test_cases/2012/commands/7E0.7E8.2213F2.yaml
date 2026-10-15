@@ -5,22 +5,4 @@ test_cases:
   response: 7E8076213F200074930
 - expected_values:
     LEON_IGA_CYL_KNK_0: -48
-  response: 7E8076213F20007493B
-- expected_values:
-    LEON_IGA_CYL_KNK_0: -48
-  response: 7E8076213F200074940
-- expected_values:
-    LEON_IGA_CYL_KNK_0: -48
-  response: 7E8076213F200074948
-- expected_values:
-    LEON_IGA_CYL_KNK_0: -48
-  response: 7E8076213F20007494D
-- expected_values:
-    LEON_IGA_CYL_KNK_0: -48
-  response: 7E8076213F200074950
-- expected_values:
-    LEON_IGA_CYL_KNK_0: -48
-  response: 7E8076213F200074955
-- expected_values:
-    LEON_IGA_CYL_KNK_0: -48
-  response: 7E8076213F200074956
+  response: 7E8076213F2000749A6

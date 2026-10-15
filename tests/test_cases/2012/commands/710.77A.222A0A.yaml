@@ -6,3 +6,21 @@ test_cases:
 - expected_values:
     LEON_MQB_BAT_SEN_T: 22
   response: 77A04622A0A3E
+- expected_values:
+    LEON_MQB_BAT_SEN_T: 25
+  response: 77A04622A0A41
+- expected_values:
+    LEON_MQB_BAT_SEN_T: 26
+  response: 77A04622A0A42
+- expected_values:
+    LEON_MQB_BAT_SEN_T: 27
+  response: 77A04622A0A43
+- expected_values:
+    LEON_MQB_BAT_SEN_T: 31
+  response: 77A04622A0A47
+- expected_values:
+    LEON_MQB_BAT_SEN_T: 33
+  response: 77A04622A0A49
+- expected_values:
+    LEON_MQB_BAT_SEN_T: 35
+  response: 77A04622A0A4B

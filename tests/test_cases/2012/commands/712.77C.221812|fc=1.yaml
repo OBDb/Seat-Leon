@@ -4,5 +4,29 @@ test_cases:
     LEON_MQB_SWA: 7.185
   response: 77C06621812003901
 - expected_values:
+    LEON_MQB_SWA: 30.685
+  response: 77C0662181200F501
+- expected_values:
+    LEON_MQB_SWA: 157.185
+  response: 77C0662181204E901
+- expected_values:
+    LEON_MQB_SWA: -423.315
+  response: 77C06621812F2C501
+- expected_values:
+    LEON_MQB_SWA: -9.815
+  response: 77C06621812FFB101
+- expected_values:
+    LEON_MQB_SWA: -8.69
+  response: 77C06621812FFBA01
+- expected_values:
+    LEON_MQB_SWA: -8.065
+  response: 77C06621812FFBF01
+- expected_values:
+    LEON_MQB_SWA: -7.94
+  response: 77C06621812FFC001
+- expected_values:
+    LEON_MQB_SWA: -3.315
+  response: 77C06621812FFE501
+- expected_values:
     LEON_MQB_SWA: -3.065
   response: 77C06621812FFE701

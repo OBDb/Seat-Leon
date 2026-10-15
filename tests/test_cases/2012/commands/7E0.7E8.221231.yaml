@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221231
 test_cases:
 - expected_values:
+    LEON_MIN_OIL_LEVEL: 0.14
+  response: '7E8056212310023'
+- expected_values:
     LEON_MIN_OIL_LEVEL: 0.156
   response: '7E8056212310027'

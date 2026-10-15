@@ -4,17 +4,5 @@ test_cases:
     LEON_CLR_DIST: 21535
   response: 7E80562F431541F
 - expected_values:
-    LEON_CLR_DIST: 21538
-  response: 7E80562F4315422
-- expected_values:
-    LEON_CLR_DIST: 21539
-  response: 7E80562F4315423
-- expected_values:
-    LEON_CLR_DIST: 21540
-  response: 7E80562F4315424
-- expected_values:
-    LEON_CLR_DIST: 21541
-  response: 7E80562F4315425
-- expected_values:
-    LEON_CLR_DIST: 21542
-  response: 7E80562F4315426
+    LEON_CLR_DIST: 21565
+  response: 7E80562F431543D

@@ -1,6 +1,27 @@
 command_id: 746.7B0.222613|fc=1
 test_cases:
 - expected_values:
+    LEON_CABIN_T: 23.2
+  response: 7B00562261300E8
+- expected_values:
+    LEON_CABIN_T: 23.4
+  response: 7B00562261300EA
+- expected_values:
+    LEON_CABIN_T: 24
+  response: 7B00562261300F0
+- expected_values:
+    LEON_CABIN_T: 25
+  response: 7B00562261300FA
+- expected_values:
+    LEON_CABIN_T: 25.4
+  response: 7B00562261300FE
+- expected_values:
+    LEON_CABIN_T: 25.7
+  response: 7B0056226130101
+- expected_values:
+    LEON_CABIN_T: 25.8
+  response: 7B0056226130102
+- expected_values:
     LEON_CABIN_T: 26.2
   response: 7B0056226130106
 - expected_values:

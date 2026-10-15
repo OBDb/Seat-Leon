@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.22106B
 test_cases:
 - expected_values:
-    LEON_PQ35_LIM_TRQ: 93
-  response: 7E80562106B03A2
+    LEON_PQ35_LIM_TRQ: 0
+  response: 7E80562106B0000
 - expected_values:
-    LEON_PQ35_LIM_TRQ: 129.5
-  response: 7E80562106B050F
+    LEON_PQ35_LIM_TRQ: 178.6
+  response: 7E80562106B06FA
 - expected_values:
-    LEON_PQ35_LIM_TRQ: 140
-  response: 7E80562106B0578
-- expected_values:
-    LEON_PQ35_LIM_TRQ: 148.7
-  response: 7E80562106B05CF
-- expected_values:
-    LEON_PQ35_LIM_TRQ: 151.1
-  response: 7E80562106B05E7
-- expected_values:
-    LEON_PQ35_LIM_TRQ: 205.1
-  response: 7E80562106B0803
-- expected_values:
-    LEON_PQ35_LIM_TRQ: 209.8
-  response: 7E80562106B0832
-- expected_values:
-    LEON_PQ35_LIM_TRQ: 218.8
-  response: 7E80562106B088C
+    LEON_PQ35_LIM_TRQ: 246.3
+  response: 7E80562106B099F

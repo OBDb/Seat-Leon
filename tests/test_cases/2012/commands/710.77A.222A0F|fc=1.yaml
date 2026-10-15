@@ -4,5 +4,14 @@ test_cases:
     LEON_USE_BAT_CHG: 22
   response: 77A04622A0F16
 - expected_values:
+    LEON_USE_BAT_CHG: 23
+  response: 77A04622A0F17
+- expected_values:
     LEON_USE_BAT_CHG: 24
   response: 77A04622A0F18
+- expected_values:
+    LEON_USE_BAT_CHG: 25
+  response: 77A04622A0F19
+- expected_values:
+    LEON_USE_BAT_CHG: 26
+  response: 77A04622A0F1A

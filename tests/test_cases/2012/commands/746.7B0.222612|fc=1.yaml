@@ -1,8 +1,29 @@
 command_id: 746.7B0.222612|fc=1
 test_cases:
 - expected_values:
+    LEON_CLIMATE_T_AFTER_EVAP: 17.33333
+  response: 7B00462261234
+- expected_values:
     LEON_CLIMATE_T_AFTER_EVAP: 17.66667
   response: 7B00462261235
 - expected_values:
+    LEON_CLIMATE_T_AFTER_EVAP: 18
+  response: 7B00462261236
+- expected_values:
+    LEON_CLIMATE_T_AFTER_EVAP: 18.33333
+  response: 7B00462261237
+- expected_values:
     LEON_CLIMATE_T_AFTER_EVAP: 19
   response: 7B00462261239
+- expected_values:
+    LEON_CLIMATE_T_AFTER_EVAP: 20
+  response: 7B0046226123C
+- expected_values:
+    LEON_CLIMATE_T_AFTER_EVAP: 20.66667
+  response: 7B0046226123E
+- expected_values:
+    LEON_CLIMATE_T_AFTER_EVAP: 24
+  response: 7B00462261248
+- expected_values:
+    LEON_CLIMATE_T_AFTER_EVAP: 25.33333
+  response: 7B0046226124C

@@ -1,8 +1,29 @@
 command_id: 746.7B0.22260C|fc=1
 test_cases:
 - expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 20.66667
+  response: 7B00462260C3E
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 21.33333
+  response: 7B00462260C40
+- expected_values:
     LEON_CLIMATE_FR_L_DEFL_T: 21.66667
   response: 7B00462260C41
 - expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 22.66667
+  response: 7B00462260C44
+- expected_values:
     LEON_CLIMATE_FR_L_DEFL_T: 23
   response: 7B00462260C45
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 23.66667
+  response: 7B00462260C47
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 24.66667
+  response: 7B00462260C4A
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 25.66667
+  response: 7B00462260C4D
+- expected_values:
+    LEON_CLIMATE_FR_L_DEFL_T: 26.33333
+  response: 7B00462260C4F
