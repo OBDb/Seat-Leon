@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2216A9|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_ODO_2: 182359
+  response: 7E8076216A90002C857
+- expected_values:
+    LEON_PQ35_ODO_2: 182365
+  response: 7E8076216A90002C85D

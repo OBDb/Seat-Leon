@@ -1,0 +1,14 @@
+command_id: 713.77D.221800|fc=1
+test_cases:
+- expected_values:
+    LEON_FL_VSS_V2: 58.7
+  response: |-
+    77D100E621800024B80
+    77D2100000000000000
+    77D2200AAAAAAAAAAAA
+- expected_values:
+    LEON_FL_VSS_V2: 78.9
+  response: |-
+    77D100E621800031580
+    77D2100000000000000
+    77D2200AAAAAAAAAAAA

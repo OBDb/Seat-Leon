@@ -1,0 +1,8 @@
+command_id: 712.77C.221812|fc=1
+test_cases:
+- expected_values:
+    LEON_MQB_SWA: 7.185
+  response: 77C06621812003901
+- expected_values:
+    LEON_MQB_SWA: -3.065
+  response: 77C06621812FFE701

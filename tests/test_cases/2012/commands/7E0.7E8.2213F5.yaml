@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2213F5
+test_cases:
+- expected_values:
+    LEON_IGA_CYL_KNK_3: -48
+  response: 7E8076213F50000382A

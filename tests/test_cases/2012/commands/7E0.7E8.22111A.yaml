@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22111A
+test_cases:
+- expected_values:
+    LEON_PQ35_FUEL_FLOW: 0
+  response: 7E80562111A0000
+- expected_values:
+    LEON_PQ35_FUEL_FLOW: 0.69
+  response: 7E80562111A0045
+- expected_values:
+    LEON_PQ35_FUEL_FLOW: 0.71
+  response: 7E80562111A0047
+- expected_values:
+    LEON_PQ35_FUEL_FLOW: 3.87
+  response: 7E80562111A0183
+- expected_values:
+    LEON_PQ35_FUEL_FLOW: 5.76
+  response: 7E80562111A0240
+- expected_values:
+    LEON_PQ35_FUEL_FLOW: 8.96
+  response: 7E80562111A0380
+- expected_values:
+    LEON_PQ35_FUEL_FLOW: 16.53
+  response: 7E80562111A0675
+- expected_values:
+    LEON_PQ35_FUEL_FLOW: 21.3
+  response: 7E80562111A0852

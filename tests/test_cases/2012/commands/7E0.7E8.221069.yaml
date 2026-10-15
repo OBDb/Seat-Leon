@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221069
+test_cases:
+- expected_values:
+    LEON_PQ35_ENG_START_QTY: 20.4
+  response: 7E80562106907F8

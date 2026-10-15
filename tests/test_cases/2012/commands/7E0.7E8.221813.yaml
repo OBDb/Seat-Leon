@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221813
+test_cases:
+- expected_values:
+    LEON_MQB_EGR_VALVE_1_B1_MASS_I_SPEC: 0
+  response: '7E8056218130000'

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2211BD
+test_cases:
+- expected_values:
+    LEON_PQ35_OIL_LVL_CRIT: 26.708
+  response: 7E8056211BD1A15
+- expected_values:
+    LEON_PQ35_OIL_LVL_CRIT: 27.264
+  response: 7E8056211BD1AA0
+- expected_values:
+    LEON_PQ35_OIL_LVL_CRIT: 27.88
+  response: 7E8056211BD1B3A
+- expected_values:
+    LEON_PQ35_OIL_LVL_CRIT: 27.92
+  response: 7E8056211BD1B44
+- expected_values:
+    LEON_PQ35_OIL_LVL_CRIT: 28.492
+  response: 7E8056211BD1BD3
+- expected_values:
+    LEON_PQ35_OIL_LVL_CRIT: 28.808
+  response: 7E8056211BD1C22
+- expected_values:
+    LEON_PQ35_OIL_LVL_CRIT: 28.828
+  response: 7E8056211BD1C27

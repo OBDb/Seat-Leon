@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221026
+test_cases:
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 301
+  response: 7E8056210260BC2
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 371.5
+  response: 7E8056210260E83
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 374
+  response: 7E8056210260E9C
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 381.1
+  response: 7E8056210260EE3
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 517.1
+  response: '7E8056210261433'
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 540.7
+  response: 7E805621026151F
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 556.9
+  response: 7E80562102615C1
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 559
+  response: 7E80562102615D6

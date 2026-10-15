@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    LEON_RPM: 901
+  response: 7E80562F40C0E14
+- expected_values:
+    LEON_RPM: 1171
+  response: 7E80562F40C124C
+- expected_values:
+    LEON_RPM: 1317
+  response: 7E80562F40C1494
+- expected_values:
+    LEON_RPM: 1367
+  response: 7E80562F40C155C
+- expected_values:
+    LEON_RPM: 1445
+  response: 7E80562F40C1694
+- expected_values:
+    LEON_RPM: 1477
+  response: 7E80562F40C1714
+- expected_values:
+    LEON_RPM: 1527
+  response: 7E80562F40C17DC
+- expected_values:
+    LEON_RPM: 1554.5
+  response: 7E80562F40C184A

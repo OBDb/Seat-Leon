@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210DD
+test_cases:
+- expected_values:
+    LEON_PQ35_INJ_3_RAIL_P_3: -0.0028
+  response: 7E8056210DDFFC8

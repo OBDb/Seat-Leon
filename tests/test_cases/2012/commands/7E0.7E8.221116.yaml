@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221116
+test_cases:
+- expected_values:
+    LEON_PQ35_COOL_FAN_1_DUTY: 10
+  response: 7E80562111603E8

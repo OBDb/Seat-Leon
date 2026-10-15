@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22105E|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_BAT_V_2: 14.62
+  response: 7E80562105E02DB
+- expected_values:
+    LEON_PQ35_BAT_V_2: 14.64
+  response: 7E80562105E02DC

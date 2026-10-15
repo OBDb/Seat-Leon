@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    LEON_RUNTM: 287
+  response: 7E80562F41F011F
+- expected_values:
+    LEON_RUNTM: 442
+  response: 7E80562F41F01BA
+- expected_values:
+    LEON_RUNTM: 494
+  response: 7E80562F41F01EE
+- expected_values:
+    LEON_RUNTM: 546
+  response: 7E80562F41F0222
+- expected_values:
+    LEON_RUNTM: 569
+  response: 7E80562F41F0239
+- expected_values:
+    LEON_RUNTM: 628
+  response: 7E80562F41F0274
+- expected_values:
+    LEON_RUNTM: 710
+  response: 7E80562F41F02C6
+- expected_values:
+    LEON_RUNTM: 758
+  response: 7E80562F41F02F6

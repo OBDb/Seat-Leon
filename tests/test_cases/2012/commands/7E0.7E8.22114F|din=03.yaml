@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22114F|din=03
+test_cases:
+- expected_values:
+    LEON_MIS_1: 1688
+  response: 7E80562114F0698
+- expected_values:
+    LEON_MIS_1: 1707
+  response: 7E80562114F06AB

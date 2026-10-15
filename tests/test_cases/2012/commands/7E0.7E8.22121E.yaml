@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22121E
+test_cases:
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 220400
+  response: 7E80562121E089C
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 329700
+  response: 7E80562121E0CE1
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 351200
+  response: 7E80562121E0DB8
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 490800
+  response: 7E80562121E132C
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 842400
+  response: 7E80562121E20E8
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 853200
+  response: 7E80562121E2154
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 880000
+  response: 7E80562121E2260
+- expected_values:
+    LEON_SPEC_VALUE_RAIL_P: 1763500
+  response: 7E80562121E44E3

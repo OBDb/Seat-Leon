@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221187
+test_cases:
+- expected_values:
+    LEON_ACCELERATION: 0.17
+  response: 7E80562118700AA
+- expected_values:
+    LEON_ACCELERATION: 0.263
+  response: '7E8056211870107'
+- expected_values:
+    LEON_ACCELERATION: 0.688
+  response: 7E80562118702B0
+- expected_values:
+    LEON_ACCELERATION: 0.706
+  response: 7E80562118702C2
+- expected_values:
+    LEON_ACCELERATION: -0.538
+  response: 7E805621187FDE6
+- expected_values:
+    LEON_ACCELERATION: -0.208
+  response: 7E805621187FF30
+- expected_values:
+    LEON_ACCELERATION: -0.045
+  response: 7E805621187FFD3
+- expected_values:
+    LEON_ACCELERATION: -0.011
+  response: 7E805621187FFF5

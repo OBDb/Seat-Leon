@@ -1,0 +1,12 @@
+command_id: 7E0.7E8.22F469|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F46938FF00
+    7E821004F4F80555555
+- expected_values:
+    LEON_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F46938FF00
+    7E8210052517F555555

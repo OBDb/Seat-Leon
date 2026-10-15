@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22102E
+test_cases:
+- expected_values:
+    LEON_PQ35_ACCEL_PED_2: 366.4
+  response: 7E80562102E0728
+- expected_values:
+    LEON_PQ35_ACCEL_PED_2: 801.4
+  response: 7E80562102E0FA7
+- expected_values:
+    LEON_PQ35_ACCEL_PED_2: 953
+  response: 7E80562102E129D
+- expected_values:
+    LEON_PQ35_ACCEL_PED_2: 1031
+  response: 7E80562102E1423

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22113D|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_O2_SEN_1_LAMBDA: 41.16
+  response: 7E80562113D1014
+- expected_values:
+    LEON_PQ35_O2_SEN_1_LAMBDA: 43.11
+  response: 7E80562113D10D7

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221301
+test_cases:
+- expected_values:
+    LEON_PQ35_LIM_SMOKE: 87.1
+  response: '7E8056213010367'
+- expected_values:
+    LEON_PQ35_LIM_SMOKE: 95
+  response: 7E80562130103B6
+- expected_values:
+    LEON_PQ35_LIM_SMOKE: 105.8
+  response: '7E8056213010422'
+- expected_values:
+    LEON_PQ35_LIM_SMOKE: 152
+  response: 7E80562130105F0
+- expected_values:
+    LEON_PQ35_LIM_SMOKE: 154.5
+  response: '7E8056213010609'
+- expected_values:
+    LEON_PQ35_LIM_SMOKE: 156.4
+  response: 7E805621301061C
+- expected_values:
+    LEON_PQ35_LIM_SMOKE: 172.8
+  response: 7E80562130106C0
+- expected_values:
+    LEON_PQ35_LIM_SMOKE: 200.8
+  response: 7E80562130107D8

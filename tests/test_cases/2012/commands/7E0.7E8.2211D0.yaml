@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2211D0
+test_cases:
+- expected_values:
+    LEON_TCO_1_ST: -27
+  response: 7E8056211D00DD7
+- expected_values:
+    LEON_TCO_1_ST: -27
+  response: 7E8056211D00DEF
+- expected_values:
+    LEON_TCO_1_ST: -26
+  response: 7E8056211D00E7E
+- expected_values:
+    LEON_TCO_1_ST: -21
+  response: 7E8056211D0139E
+- expected_values:
+    LEON_TCO_1_ST: -20
+  response: 7E8056211D01471
+- expected_values:
+    LEON_TCO_1_ST: -19
+  response: 7E8056211D0154F
+- expected_values:
+    LEON_TCO_1_ST: -13
+  response: 7E8056211D01BCB

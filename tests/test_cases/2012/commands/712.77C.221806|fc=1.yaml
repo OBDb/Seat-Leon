@@ -1,0 +1,8 @@
+command_id: 712.77C.221806|fc=1
+test_cases:
+- expected_values:
+    LEON_STEER_WHL_TQ_SENS_2: 1.16754
+  response: 77C0662180600FC00
+- expected_values:
+    LEON_STEER_WHL_TQ_SENS_2: 9.47848
+  response: 77C06621806085F00

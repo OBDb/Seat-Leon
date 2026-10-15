@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22105C|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_GEN_LOAD: 29.01
+  response: 7E80562105C0B55

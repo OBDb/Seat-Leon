@@ -1,0 +1,5 @@
+command_id: 710.77A.222A0E
+test_cases:
+- expected_values:
+    LEON_BAT_INT_R: 6.8
+  response: 77A04622A0E22

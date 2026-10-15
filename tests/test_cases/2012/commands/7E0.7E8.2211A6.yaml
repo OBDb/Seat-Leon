@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211A6
+test_cases:
+- expected_values:
+    LEON_PQ35_LIM_ACCEL_PED: 0
+  response: 7E8056211A60000
+- expected_values:
+    LEON_PQ35_LIM_ACCEL_PED: 6.7
+  response: 7E8056211A60043
+- expected_values:
+    LEON_PQ35_LIM_ACCEL_PED: 82.2
+  response: 7E8056211A60336
+- expected_values:
+    LEON_PQ35_LIM_ACCEL_PED: 88.1
+  response: 7E8056211A60371
+- expected_values:
+    LEON_PQ35_LIM_ACCEL_PED: 153.9
+  response: 7E8056211A60603

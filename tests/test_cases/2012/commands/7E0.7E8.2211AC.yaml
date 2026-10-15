@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2211AC
+test_cases:
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 6286
+  response: 7E8056211ACF58C
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 6329.2
+  response: 7E8056211ACF73C
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 6390.9
+  response: 7E8056211ACF9A5
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 6393.2
+  response: 7E8056211ACF9BC
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 6433.2
+  response: 7E8056211ACFB4C
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 6447.9
+  response: 7E8056211ACFBDF
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 6497.9
+  response: 7E8056211ACFDD3
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 6515.6
+  response: 7E8056211ACFE84

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221057
+test_cases:
+- expected_values:
+    LEON_PQ35_CHG_P: 5.257
+  response: '7E8056210571489'
+- expected_values:
+    LEON_PQ35_CHG_P: 5.399
+  response: '7E8056210571517'
+- expected_values:
+    LEON_PQ35_CHG_P: 5.872
+  response: 7E80562105716F0
+- expected_values:
+    LEON_PQ35_CHG_P: 6.008
+  response: '7E8056210571778'
+- expected_values:
+    LEON_PQ35_CHG_P: 6.018
+  response: '7E8056210571782'
+- expected_values:
+    LEON_PQ35_CHG_P: 6.155
+  response: 7E805621057180B
+- expected_values:
+    LEON_PQ35_CHG_P: 6.99
+  response: 7E8056210571B4E
+- expected_values:
+    LEON_PQ35_CHG_P: 7.918
+  response: 7E8056210571EEE

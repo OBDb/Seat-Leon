@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22178C|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_OIL_ASH_RESIDUE: 49.3
+  response: 7E80562178C01ED

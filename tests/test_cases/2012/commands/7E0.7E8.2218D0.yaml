@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2218D0
+test_cases:
+- expected_values:
+    LEON_PQ35_BRAKE_P: 16.38
+  response: 7E8056218D00666

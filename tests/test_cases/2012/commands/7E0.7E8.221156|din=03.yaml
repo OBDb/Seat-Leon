@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221156|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_DIST_LAST_REGEN: 214.86
+  response: 7E8076211560003474C
+- expected_values:
+    LEON_PQ35_DIST_LAST_REGEN: 220.75
+  response: 7E80762115600035E4E

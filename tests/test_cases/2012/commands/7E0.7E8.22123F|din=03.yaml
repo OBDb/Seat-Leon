@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22123F|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_OIL_DYN_AVG: 2
+  response: 7E80562123F01F4
+- expected_values:
+    LEON_PQ35_OIL_DYN_AVG: 2.608
+  response: 7E80562123F028C
