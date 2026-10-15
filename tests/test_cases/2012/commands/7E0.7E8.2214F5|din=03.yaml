@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2214F5|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_DIFF_P: 18
+  response: 7E8056214F50012
+- expected_values:
+    LEON_PQ35_DIFF_P: 22
+  response: 7E8056214F50016

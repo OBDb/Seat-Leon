@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211C4
+test_cases:
+- expected_values:
+    LEON_OIL_MAX: 19.276
+  response: 7E8056211C412D3

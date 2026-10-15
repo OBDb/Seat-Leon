@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22111F
+test_cases:
+- expected_values:
+    LEON_PREHEAT_TIME: 0
+  response: 7E80562111F0000

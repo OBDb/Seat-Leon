@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211C5
+test_cases:
+- expected_values:
+    LEON_OIL_MIN: 261.696
+  response: 7E8056211C5FF90

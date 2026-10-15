@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2211AD
+test_cases:
+- expected_values:
+    LEON_MAF_CMD: 344.5
+  response: 7E8056211AD0D75
+- expected_values:
+    LEON_MAF_CMD: 583.4
+  response: 7E8056211AD16CA
+- expected_values:
+    LEON_MAF_CMD: 889.5
+  response: 7E8056211AD22BF
+- expected_values:
+    LEON_MAF_CMD: 910.4
+  response: 7E8056211AD2390
+- expected_values:
+    LEON_MAF_CMD: 911.4
+  response: 7E8056211AD239A
+- expected_values:
+    LEON_MAF_CMD: 948.1
+  response: 7E8056211AD2509
+- expected_values:
+    LEON_MAF_CMD: 981.8
+  response: 7E8056211AD265A
+- expected_values:
+    LEON_MAF_CMD: 1226.7
+  response: 7E8056211AD2FEB

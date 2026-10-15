@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221814
+test_cases:
+- expected_values:
+    LEON_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 0
+  response: '7E8056218140000'
+- expected_values:
+    LEON_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 4
+  response: '7E8056218140028'
+- expected_values:
+    LEON_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 15.5
+  response: 7E805621814009B
+- expected_values:
+    LEON_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 17.2
+  response: 7E80562181400AC
+- expected_values:
+    LEON_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 22.8
+  response: 7E80562181400E4
+- expected_values:
+    LEON_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 37.5
+  response: '7E8056218140177'
+- expected_values:
+    LEON_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 47.6
+  response: 7E80562181401DC
+- expected_values:
+    LEON_MQB_EGR_VALVE_2_B1_MASS_I_SPEC: 61.7
+  response: '7E8056218140269'

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221149
+test_cases:
+- expected_values:
+    LEON_PQ35_BOOST_P_CMD: 1077
+  response: '7E8056211490435'
+- expected_values:
+    LEON_PQ35_BOOST_P_CMD: 1090
+  response: '7E8056211490442'
+- expected_values:
+    LEON_PQ35_BOOST_P_CMD: 1120
+  response: '7E8056211490460'
+- expected_values:
+    LEON_PQ35_BOOST_P_CMD: 1147
+  response: 7E805621149047B
+- expected_values:
+    LEON_PQ35_BOOST_P_CMD: 1221
+  response: 7E80562114904C5
+- expected_values:
+    LEON_PQ35_BOOST_P_CMD: 1305
+  response: '7E8056211490519'
+- expected_values:
+    LEON_PQ35_BOOST_P_CMD: 1544
+  response: '7E8056211490608'

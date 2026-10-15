@@ -1,0 +1,11 @@
+command_id: 710.77A.222A0C|fc=1
+test_cases:
+- expected_values:
+    LEON_BAT_SOC: 61
+  response: 77A04622A0C3D
+- expected_values:
+    LEON_BAT_SOC: 64
+  response: 77A04622A0C40
+- expected_values:
+    LEON_BAT_SOC: 65
+  response: 77A04622A0C41

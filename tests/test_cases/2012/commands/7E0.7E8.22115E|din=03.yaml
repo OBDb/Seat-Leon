@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22115E|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_TIME_LAST_REGEN: 1.750927152259903e-06
+  response: 7E80762115E000044DA
+- expected_values:
+    LEON_PQ35_TIME_LAST_REGEN: 1.7940397350399324e-06
+  response: 7E80762115E0000468C

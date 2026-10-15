@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2214D0
+test_cases:
+- expected_values:
+    LEON_PQ35_PRE_INJ_1_DURATION: 0
+  response: 7E8056214D00000
+- expected_values:
+    LEON_PQ35_PRE_INJ_1_DURATION: 0.1472
+  response: 7E8056214D00170
+- expected_values:
+    LEON_PQ35_PRE_INJ_1_DURATION: 0.1496
+  response: 7E8056214D00176
+- expected_values:
+    LEON_PQ35_PRE_INJ_1_DURATION: 0.152
+  response: 7E8056214D0017C
+- expected_values:
+    LEON_PQ35_PRE_INJ_1_DURATION: 0.1676
+  response: 7E8056214D001A3
+- expected_values:
+    LEON_PQ35_PRE_INJ_1_DURATION: 0.29
+  response: 7E8056214D002D5

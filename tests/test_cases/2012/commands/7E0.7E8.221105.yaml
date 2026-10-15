@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221105
+test_cases:
+- expected_values:
+    LEON_PQ35_INJ_DEV_CYL_2: 0.06
+  response: '7E8056211050006'
+- expected_values:
+    LEON_PQ35_INJ_DEV_CYL_2: 0.07
+  response: '7E8056211050007'
+- expected_values:
+    LEON_PQ35_INJ_DEV_CYL_2: 0.32
+  response: '7E8056211050020'
+- expected_values:
+    LEON_PQ35_INJ_DEV_CYL_2: 2
+  response: 7E80562110500C8
+- expected_values:
+    LEON_PQ35_INJ_DEV_CYL_2: -0.47
+  response: 7E805621105FFD1
+- expected_values:
+    LEON_PQ35_INJ_DEV_CYL_2: -0.2
+  response: 7E805621105FFEC
+- expected_values:
+    LEON_PQ35_INJ_DEV_CYL_2: -0.12
+  response: 7E805621105FFF4
+- expected_values:
+    LEON_PQ35_INJ_DEV_CYL_2: -0.1
+  response: 7E805621105FFF6

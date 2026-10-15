@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211B9
+test_cases:
+- expected_values:
+    LEON_OIL_P_VLV_SWITCH: 8
+  response: 7E8046211B908
+- expected_values:
+    LEON_OIL_P_VLV_SWITCH: 24
+  response: 7E8046211B918
+- expected_values:
+    LEON_OIL_P_VLV_SWITCH: 28
+  response: 7E8046211B91C
+- expected_values:
+    LEON_OIL_P_VLV_SWITCH: 56
+  response: 7E8046211B938

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211F1
+test_cases:
+- expected_values:
+    LEON_PQ35_TRANS_IN_SPD: 10000
+  response: 7E8056211F14E20

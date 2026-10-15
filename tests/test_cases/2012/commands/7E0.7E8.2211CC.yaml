@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2211CC
+test_cases:
+- expected_values:
+    LEON_BOOST_REGULATOR_FEEDBACK: 24.69
+  response: 7E8056211CC09A5
+- expected_values:
+    LEON_BOOST_REGULATOR_FEEDBACK: 47.07
+  response: 7E8056211CC1263
+- expected_values:
+    LEON_BOOST_REGULATOR_FEEDBACK: 58.44
+  response: 7E8056211CC16D4
+- expected_values:
+    LEON_BOOST_REGULATOR_FEEDBACK: 74.31
+  response: 7E8056211CC1D07
+- expected_values:
+    LEON_BOOST_REGULATOR_FEEDBACK: 76.68
+  response: 7E8056211CC1DF4
+- expected_values:
+    LEON_BOOST_REGULATOR_FEEDBACK: 81.53
+  response: 7E8056211CC1FD9
+- expected_values:
+    LEON_BOOST_REGULATOR_FEEDBACK: 81.91
+  response: 7E8056211CC1FFF
+- expected_values:
+    LEON_BOOST_REGULATOR_FEEDBACK: 82.02
+  response: 7E8056211CC200A

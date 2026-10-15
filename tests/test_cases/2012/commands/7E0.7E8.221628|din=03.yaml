@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221628|din=03
+test_cases:
+- expected_values:
+    LEON_PQ35_INTERCOOLER_AIR_OUTPUT_T: 23.5
+  response: 7E8056216280B96
+- expected_values:
+    LEON_PQ35_INTERCOOLER_AIR_OUTPUT_T: 25
+  response: 7E8056216280BA5

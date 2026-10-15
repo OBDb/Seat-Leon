@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 0
+  response: '7E8056211390000'
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 5.69
+  response: '7E8056211390239'
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 5.94
+  response: '7E8056211390252'
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 6.38
+  response: 7E805621139027E
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 20.15
+  response: 7E80562113907DF
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 44.33
+  response: '7E8056211391151'

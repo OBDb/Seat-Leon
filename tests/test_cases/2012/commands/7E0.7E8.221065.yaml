@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221065
+test_cases:
+- expected_values:
+    LEON_CYL_HEAD_T: 384.56
+  response: '7E8056210651254'
+- expected_values:
+    LEON_CYL_HEAD_T: 393.2
+  response: '7E8056210651284'
+- expected_values:
+    LEON_CYL_HEAD_T: 402.02
+  response: 7E80562106512B5
+- expected_values:
+    LEON_CYL_HEAD_T: 406.52
+  response: 7E80562106512CE
+- expected_values:
+    LEON_CYL_HEAD_T: 415.16
+  response: 7E80562106512FE
+- expected_values:
+    LEON_CYL_HEAD_T: 423.98
+  response: 7E805621065132F
+- expected_values:
+    LEON_CYL_HEAD_T: 547.28
+  response: 7E80562106515DC

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210C2
+test_cases:
+- expected_values:
+    LEON_PQ35_EGR_DUTY: 0
+  response: 7E8056210C20000
