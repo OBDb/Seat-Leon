@@ -3,7 +3,32 @@ test_cases:
 - expected_values:
     LEON_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
+    77D100C621810000000
+    77D217FFF7FFFFFFFAA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
     77D100C621810000032
+    77D217FFF7FFFFFFFAA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C621810000172
+    77D217FFF7FFFFFFFAA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C621810000258
+    77D217FFF7FFFFFFFAA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C621810000294
+    77D217FFF7FFFFFFFAA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181000FFEC
     77D217FFF7FFFFFFFAA
 - expected_values:
     LEON_HYD_BRAKE_BOOST_ACTIVE: 0

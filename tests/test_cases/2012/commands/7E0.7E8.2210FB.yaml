@@ -7,20 +7,5 @@ test_cases:
     LEON_PQ35_EXH_GAS_T_1: 161
   response: 7E8056210FB10F5
 - expected_values:
-    LEON_PQ35_EXH_GAS_T_1: 189.6
-  response: 7E8056210FB1213
-- expected_values:
-    LEON_PQ35_EXH_GAS_T_1: 199.8
-  response: 7E8056210FB1279
-- expected_values:
-    LEON_PQ35_EXH_GAS_T_1: 242.5
-  response: 7E8056210FB1424
-- expected_values:
-    LEON_PQ35_EXH_GAS_T_1: 333.8
-  response: 7E8056210FB17B5
-- expected_values:
-    LEON_PQ35_EXH_GAS_T_1: 452
-  response: 7E8056210FB1C53
-- expected_values:
     LEON_PQ35_EXH_GAS_T_1: 496.1
   response: 7E8056210FB1E0C

@@ -4,17 +4,8 @@ test_cases:
     LEON_PQ35_PRE_INJ_1_DURATION: 0
   response: 7E8056214D00000
 - expected_values:
-    LEON_PQ35_PRE_INJ_1_DURATION: 0.1472
-  response: 7E8056214D00170
+    LEON_PQ35_PRE_INJ_1_DURATION: 0.3044
+  response: 7E8056214D002F9
 - expected_values:
-    LEON_PQ35_PRE_INJ_1_DURATION: 0.1496
-  response: 7E8056214D00176
-- expected_values:
-    LEON_PQ35_PRE_INJ_1_DURATION: 0.152
-  response: 7E8056214D0017C
-- expected_values:
-    LEON_PQ35_PRE_INJ_1_DURATION: 0.1676
-  response: 7E8056214D001A3
-- expected_values:
-    LEON_PQ35_PRE_INJ_1_DURATION: 0.29
-  response: 7E8056214D002D5
+    LEON_PQ35_PRE_INJ_1_DURATION: 0.33
+  response: 7E8056214D00339

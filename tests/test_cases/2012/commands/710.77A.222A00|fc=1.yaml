@@ -4,5 +4,14 @@ test_cases:
     LEON_MQB_GEN_TRG_V: 10.6
   response: 77A04622A0000
 - expected_values:
+    LEON_MQB_GEN_TRG_V: 14.5
+  response: 77A04622A0027
+- expected_values:
+    LEON_MQB_GEN_TRG_V: 14.6
+  response: 77A04622A0028
+- expected_values:
     LEON_MQB_GEN_TRG_V: 14.7
   response: 77A04622A0029
+- expected_values:
+    LEON_MQB_GEN_TRG_V: 14.8
+  response: 77A04622A002A

@@ -1,5 +1,14 @@
 command_id: 7E0.7E8.2212FE
 test_cases:
 - expected_values:
+    LEON_PQ35_CAMS_ADAPT_PHASE_1: 0.08
+  response: 7E8056212FE0004
+- expected_values:
+    LEON_PQ35_CAMS_ADAPT_PHASE_1: 0.12
+  response: 7E8056212FE0006
+- expected_values:
+    LEON_PQ35_CAMS_ADAPT_PHASE_1: 0.24
+  response: 7E8056212FE000C
+- expected_values:
     LEON_PQ35_CAMS_ADAPT_PHASE_1: 0.88
   response: 7E8056212FE002C

@@ -4,5 +4,23 @@ test_cases:
     LEON_A_C_COMPRESSOR_TORQUE: 0
   response: 7E80562101A0000
 - expected_values:
+    LEON_A_C_COMPRESSOR_TORQUE: 2.5
+  response: 7E80562101A0019
+- expected_values:
+    LEON_A_C_COMPRESSOR_TORQUE: 8.3
+  response: 7E80562101A0053
+- expected_values:
+    LEON_A_C_COMPRESSOR_TORQUE: 23
+  response: 7E80562101A00E6
+- expected_values:
     LEON_A_C_COMPRESSOR_TORQUE: -48.8
   response: 7E80562101AFE18
+- expected_values:
+    LEON_A_C_COMPRESSOR_TORQUE: -42.7
+  response: 7E80562101AFE55
+- expected_values:
+    LEON_A_C_COMPRESSOR_TORQUE: -21.5
+  response: 7E80562101AFF29
+- expected_values:
+    LEON_A_C_COMPRESSOR_TORQUE: -18
+  response: 7E80562101AFF4C

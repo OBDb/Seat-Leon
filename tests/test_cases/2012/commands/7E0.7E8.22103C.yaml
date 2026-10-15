@@ -4,23 +4,11 @@ test_cases:
     LEON_MQB_INT_MAN_P: 980
   response: 7E80562103C03D4
 - expected_values:
-    LEON_MQB_INT_MAN_P: 1075
-  response: 7E80562103C0433
-- expected_values:
-    LEON_MQB_INT_MAN_P: 1170
-  response: 7E80562103C0492
-- expected_values:
-    LEON_MQB_INT_MAN_P: 1188
-  response: 7E80562103C04A4
-- expected_values:
     LEON_MQB_INT_MAN_P: 1275
   response: 7E80562103C04FB
 - expected_values:
     LEON_MQB_INT_MAN_P: 1283
   response: 7E80562103C0503
-- expected_values:
-    LEON_MQB_INT_MAN_P: 1423
-  response: 7E80562103C058F
 - expected_values:
     LEON_MQB_INT_MAN_P: 2099
   response: 7E80562103C0833

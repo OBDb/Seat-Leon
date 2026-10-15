@@ -4,5 +4,17 @@ test_cases:
     LEON_OIL_LEVEL_LAST: 0.024
   response: 7E8056215B80006
 - expected_values:
+    LEON_OIL_LEVEL_LAST: 0.028
+  response: 7E8056215B80007
+- expected_values:
+    LEON_OIL_LEVEL_LAST: 0.032
+  response: 7E8056215B80008
+- expected_values:
+    LEON_OIL_LEVEL_LAST: 0.048
+  response: 7E8056215B8000C
+- expected_values:
     LEON_OIL_LEVEL_LAST: 0.052
   response: 7E8056215B8000D
+- expected_values:
+    LEON_OIL_LEVEL_LAST: 262
+  response: 7E8056215B8FFFF

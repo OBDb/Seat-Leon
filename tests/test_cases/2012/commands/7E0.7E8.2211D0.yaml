@@ -5,19 +5,10 @@ test_cases:
   response: 7E8056211D00DD7
 - expected_values:
     LEON_TCO_1_ST: -27
-  response: 7E8056211D00DEF
+  response: 7E8056211D00DF4
 - expected_values:
-    LEON_TCO_1_ST: -26
-  response: 7E8056211D00E7E
+    LEON_TCO_1_ST: -24
+  response: 7E8056211D01006
 - expected_values:
-    LEON_TCO_1_ST: -21
-  response: 7E8056211D0139E
-- expected_values:
-    LEON_TCO_1_ST: -20
-  response: 7E8056211D01471
-- expected_values:
-    LEON_TCO_1_ST: -19
-  response: 7E8056211D0154F
-- expected_values:
-    LEON_TCO_1_ST: -13
-  response: 7E8056211D01BCB
+    LEON_TCO_1_ST: 34
+  response: 7E8056211D04ABE

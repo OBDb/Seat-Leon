@@ -4,23 +4,8 @@ test_cases:
     LEON_PQ35_OIL_T_2: 66.7
   response: 7E8056211BE0D46
 - expected_values:
+    LEON_PQ35_OIL_T_2: 83.3
+  response: 7E8056211BE0DEC
+- expected_values:
     LEON_PQ35_OIL_T_2: 85.8
   response: 7E8056211BE0E05
-- expected_values:
-    LEON_PQ35_OIL_T_2: 88.8
-  response: 7E8056211BE0E23
-- expected_values:
-    LEON_PQ35_OIL_T_2: 92.6
-  response: 7E8056211BE0E49
-- expected_values:
-    LEON_PQ35_OIL_T_2: 93.6
-  response: 7E8056211BE0E53
-- expected_values:
-    LEON_PQ35_OIL_T_2: 94.9
-  response: 7E8056211BE0E60
-- expected_values:
-    LEON_PQ35_OIL_T_2: 97.1
-  response: 7E8056211BE0E76
-- expected_values:
-    LEON_PQ35_OIL_T_2: 97.3
-  response: 7E8056211BE0E78

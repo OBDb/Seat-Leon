@@ -4,14 +4,11 @@ test_cases:
     LEON_PQ35_ACCEL_PED_1: 752.4
   response: 7E8056212210EB2
 - expected_values:
-    LEON_PQ35_ACCEL_PED_1: 1246
-  response: '7E8056212211856'
+    LEON_PQ35_ACCEL_PED_1: 1280.4
+  response: '7E8056212211902'
 - expected_values:
-    LEON_PQ35_ACCEL_PED_1: 1793.6
-  response: '7E8056212212308'
+    LEON_PQ35_ACCEL_PED_1: 2815.2
+  response: 7E80562122136FC
 - expected_values:
-    LEON_PQ35_ACCEL_PED_1: 1964.6
-  response: 7E805621221265F
-- expected_values:
-    LEON_PQ35_ACCEL_PED_1: 2477.8
-  response: '7E8056212213065'
+    LEON_PQ35_ACCEL_PED_1: 2859
+  response: 7E80562122137D7

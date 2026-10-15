@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.22133B
 test_cases:
 - expected_values:
-    LEON_PQ35_CAMS_SPD: 540.6
-  response: 7E80562133B070A
+    LEON_PQ35_CAMS_SPD: 0
+  response: 7E80562133B0000
 - expected_values:
-    LEON_PQ35_CAMS_SPD: 542.4
-  response: 7E80562133B0710
+    LEON_PQ35_CAMS_SPD: 460.5
+  response: 7E80562133B05FF
 - expected_values:
-    LEON_PQ35_CAMS_SPD: 825.6
-  response: 7E80562133B0AC0
-- expected_values:
-    LEON_PQ35_CAMS_SPD: 833.1
-  response: 7E80562133B0AD9
-- expected_values:
-    LEON_PQ35_CAMS_SPD: 855.3
-  response: 7E80562133B0B23
-- expected_values:
-    LEON_PQ35_CAMS_SPD: 885.9
-  response: 7E80562133B0B89
-- expected_values:
-    LEON_PQ35_CAMS_SPD: 935.1
-  response: 7E80562133B0C2D
-- expected_values:
-    LEON_PQ35_CAMS_SPD: 1068.3
-  response: 7E80562133B0DE9
+    LEON_PQ35_CAMS_SPD: 1104.9
+  response: 7E80562133B0E63

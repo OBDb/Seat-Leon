@@ -4,5 +4,20 @@ test_cases:
     LEON_PQ35_INTERCOOLER_AIR_OUTPUT_T: 23.5
   response: 7E8056216280B96
 - expected_values:
+    LEON_PQ35_INTERCOOLER_AIR_OUTPUT_T: 24.2
+  response: 7E8056216280B9D
+- expected_values:
+    LEON_PQ35_INTERCOOLER_AIR_OUTPUT_T: 24.7
+  response: 7E8056216280BA2
+- expected_values:
     LEON_PQ35_INTERCOOLER_AIR_OUTPUT_T: 25
   response: 7E8056216280BA5
+- expected_values:
+    LEON_PQ35_INTERCOOLER_AIR_OUTPUT_T: 26.9
+  response: 7E8056216280BB8
+- expected_values:
+    LEON_PQ35_INTERCOOLER_AIR_OUTPUT_T: 28.8
+  response: 7E8056216280BCB
+- expected_values:
+    LEON_PQ35_INTERCOOLER_AIR_OUTPUT_T: 38.7
+  response: 7E8056216280C2E

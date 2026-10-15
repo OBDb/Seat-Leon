@@ -6,3 +6,21 @@ test_cases:
 - expected_values:
     LEON_MIS_1: 1707
   response: 7E80562114F06AB
+- expected_values:
+    LEON_MIS_1: 1715
+  response: 7E80562114F06B3
+- expected_values:
+    LEON_MIS_1: 1737
+  response: 7E80562114F06C9
+- expected_values:
+    LEON_MIS_1: 1747
+  response: 7E80562114F06D3
+- expected_values:
+    LEON_MIS_1: 1761
+  response: 7E80562114F06E1
+- expected_values:
+    LEON_MIS_1: 1784
+  response: 7E80562114F06F8
+- expected_values:
+    LEON_MIS_1: 1794
+  response: 7E80562114F0702

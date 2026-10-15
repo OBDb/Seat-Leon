@@ -4,23 +4,5 @@ test_cases:
     LEON_PQ35_INJ_DEV_CYL_3: 0
   response: '7E8056211000000'
 - expected_values:
-    LEON_PQ35_INJ_DEV_CYL_3: 0.05
-  response: '7E8056211000005'
-- expected_values:
-    LEON_PQ35_INJ_DEV_CYL_3: 0.12
-  response: 7E805621100000C
-- expected_values:
-    LEON_PQ35_INJ_DEV_CYL_3: 0.17
-  response: '7E8056211000011'
-- expected_values:
-    LEON_PQ35_INJ_DEV_CYL_3: 0.29
-  response: 7E805621100001D
-- expected_values:
-    LEON_PQ35_INJ_DEV_CYL_3: 0.32
-  response: '7E8056211000020'
-- expected_values:
-    LEON_PQ35_INJ_DEV_CYL_3: 0.36
-  response: '7E8056211000024'
-- expected_values:
-    LEON_PQ35_INJ_DEV_CYL_3: 0.45
-  response: 7E805621100002D
+    LEON_PQ35_INJ_DEV_CYL_3: -0.03
+  response: 7E805621100FFFD

@@ -4,8 +4,8 @@ test_cases:
     LEON_BAT_V_2A07: 12.366
   response: 77A05622A0720AE
 - expected_values:
-    LEON_BAT_V_2A07: 14.556
-  response: 77A05622A07293C
+    LEON_BAT_V_2A07: 14.494
+  response: 77A05622A0728FE
 - expected_values:
-    LEON_BAT_V_2A07: 14.56
-  response: 77A05622A072940
+    LEON_BAT_V_2A07: 14.503
+  response: 77A05622A072907

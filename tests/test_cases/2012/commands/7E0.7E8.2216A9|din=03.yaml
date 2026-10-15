@@ -6,3 +6,21 @@ test_cases:
 - expected_values:
     LEON_PQ35_ODO_2: 182365
   response: 7E8076216A90002C85D
+- expected_values:
+    LEON_PQ35_ODO_2: 182366
+  response: 7E8076216A90002C85E
+- expected_values:
+    LEON_PQ35_ODO_2: 182372
+  response: 7E8076216A90002C864
+- expected_values:
+    LEON_PQ35_ODO_2: 182375
+  response: 7E8076216A90002C867
+- expected_values:
+    LEON_PQ35_ODO_2: 182377
+  response: 7E8076216A90002C869
+- expected_values:
+    LEON_PQ35_ODO_2: 182383
+  response: 7E8076216A90002C86F
+- expected_values:
+    LEON_PQ35_ODO_2: 182385
+  response: 7E8076216A90002C871

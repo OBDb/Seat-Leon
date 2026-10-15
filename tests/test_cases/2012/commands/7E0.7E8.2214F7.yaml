@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.2214F7
 test_cases:
 - expected_values:
-    LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 165.6
-  response: 7E8056214F71123
+    LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 0
+  response: 7E8056214F70AAB
 - expected_values:
-    LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 182.7
-  response: 7E8056214F711CE
-- expected_values:
-    LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 183.6
-  response: 7E8056214F711D7
-- expected_values:
-    LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 203.4
-  response: 7E8056214F7129D
-- expected_values:
-    LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 257.9
-  response: 7E8056214F714BE
+    LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 189.3
+  response: 7E8056214F71210
 - expected_values:
     LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 264.3
   response: 7E8056214F714FE
-- expected_values:
-    LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 270.8
-  response: 7E8056214F7153F
 - expected_values:
     LEON_PQ35_EXHAUST_GAS_T_SENSOR_2: 389.5
   response: 7E8056214F719E2

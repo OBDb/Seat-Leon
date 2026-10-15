@@ -7,5 +7,17 @@ test_cases:
     LEON_PQ35_POST_INJ_1_START: -8.98
   response: 7E8056211F4FE3F
 - expected_values:
+    LEON_PQ35_POST_INJ_1_START: -8.42
+  response: 7E8056211F4FE5B
+- expected_values:
     LEON_PQ35_POST_INJ_1_START: -8.3
   response: 7E8056211F4FE61
+- expected_values:
+    LEON_PQ35_POST_INJ_1_START: -8.02
+  response: 7E8056211F4FE6F
+- expected_values:
+    LEON_PQ35_POST_INJ_1_START: -7.98
+  response: 7E8056211F4FE71
+- expected_values:
+    LEON_PQ35_POST_INJ_1_START: -7.62
+  response: 7E8056211F4FE83

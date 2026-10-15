@@ -4,8 +4,23 @@ test_cases:
     LEON_BAT_SOC: 61
   response: 77A04622A0C3D
 - expected_values:
+    LEON_BAT_SOC: 62
+  response: 77A04622A0C3E
+- expected_values:
+    LEON_BAT_SOC: 63
+  response: 77A04622A0C3F
+- expected_values:
     LEON_BAT_SOC: 64
   response: 77A04622A0C40
 - expected_values:
     LEON_BAT_SOC: 65
   response: 77A04622A0C41
+- expected_values:
+    LEON_BAT_SOC: 66
+  response: 77A04622A0C42
+- expected_values:
+    LEON_BAT_SOC: 68
+  response: 77A04622A0C44
+- expected_values:
+    LEON_BAT_SOC: 70
+  response: 77A04622A0C46
