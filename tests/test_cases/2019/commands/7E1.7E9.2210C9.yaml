@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_CLUTCH_1_SUCCESSFUL_ADAPTS_COUNTER: 2528
   response: 7E9056210C9E009
+- expected_values:
+    LEON_PQ35_CLUTCH_1_SUCCESSFUL_ADAPTS_COUNTER: 2536
+  response: 7E9056210C9E809

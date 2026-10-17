@@ -4,8 +4,17 @@ test_cases:
     LEON_OIL_CRIT: 4.7344
   response: 7E8056211BB2E3C
 - expected_values:
+    LEON_OIL_CRIT: 4.7736
+  response: 7E8056211BB2E9E
+- expected_values:
     LEON_OIL_CRIT: 4.8272
   response: 7E8056211BB2F24
+- expected_values:
+    LEON_OIL_CRIT: 4.8332
+  response: 7E8056211BB2F33
+- expected_values:
+    LEON_OIL_CRIT: 4.8604
+  response: 7E8056211BB2F77
 - expected_values:
     LEON_OIL_CRIT: 4.8812
   response: 7E8056211BB2FAB

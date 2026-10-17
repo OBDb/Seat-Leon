@@ -10,8 +10,14 @@ test_cases:
     LEON_LATERAL_ACCEL: 0.05
   response: '7E8056216440005'
 - expected_values:
+    LEON_LATERAL_ACCEL: 0.08
+  response: '7E8056216440008'
+- expected_values:
     LEON_LATERAL_ACCEL: -0.06
   response: 7E805621644FFFA
 - expected_values:
     LEON_LATERAL_ACCEL: -0.05
   response: 7E805621644FFFB
+- expected_values:
+    LEON_LATERAL_ACCEL: -0.01
+  response: 7E805621644FFFF

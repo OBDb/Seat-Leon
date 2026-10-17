@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_CAMSHAFT_VSS: 742.25
   response: 7E8056211240B99
+- expected_values:
+    LEON_CAMSHAFT_VSS: 834
+  response: 7E8056211240D08

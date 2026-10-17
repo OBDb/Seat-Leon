@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221511
 test_cases:
 - expected_values:
+    LEON_ECT_MAX: 98.25
+  response: 7E804621511C3
+- expected_values:
     LEON_ECT_MAX: 101.25
   response: 7E804621511C7

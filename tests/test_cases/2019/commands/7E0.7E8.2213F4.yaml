@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     LEON_IGA_CYL_KNK_2: -0.375
   response: 7E8056213F47F77
+- expected_values:
+    LEON_IGA_CYL_KNK_2: -0.375
+  response: 7E8056213F47F8A

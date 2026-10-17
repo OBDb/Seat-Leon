@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_TCM_DRIVER_DEMAND_TORQUE: 47
   response: 7E90562100BAC03
+- expected_values:
+    LEON_MQB_TCM_DRIVER_DEMAND_TORQUE: -13
+  response: 7E90562100BFCFE

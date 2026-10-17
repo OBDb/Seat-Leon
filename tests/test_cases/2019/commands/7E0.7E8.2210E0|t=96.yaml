@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_ODO_7E0: 104354
   response: 7E8076210E0000197A2
+- expected_values:
+    LEON_ODO_7E0: 104373
+  response: 7E8076210E0000197B5

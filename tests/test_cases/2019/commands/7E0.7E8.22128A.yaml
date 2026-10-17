@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     LEON_FUEL_T: 72
   response: 7E80462128AA0
+- expected_values:
+    LEON_FUEL_T: 73.5
+  response: 7E80462128AA2
+- expected_values:
+    LEON_FUEL_T: 75
+  response: 7E80462128AA4
+- expected_values:
+    LEON_FUEL_T: 75.75
+  response: 7E80462128AA5

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_INJ_2_RAIL_P_1: 0.00015
   response: 7E8056210D30003
+- expected_values:
+    LEON_PQ35_INJ_2_RAIL_P_1: 0.0002
+  response: 7E8056210D30004

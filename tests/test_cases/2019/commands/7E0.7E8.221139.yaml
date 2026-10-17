@@ -18,3 +18,12 @@ test_cases:
 - expected_values:
     LEON_MEAN_INJ_QUANTITY: 173.06
   response: 7E805621139439A
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 174.23
+  response: 7E805621139440F
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 181.57
+  response: 7E80562113946ED
+- expected_values:
+    LEON_MEAN_INJ_QUANTITY: 204.8
+  response: '7E8056211395000'

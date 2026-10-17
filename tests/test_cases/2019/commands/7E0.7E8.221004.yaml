@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221004
 test_cases:
 - expected_values:
+    LEON_AAT_V2: 0
+  response: '7E8056210040000'
+- expected_values:
     LEON_AAT_V2: 0.90625
   response: '7E8056210040074'
 - expected_values:
@@ -16,5 +19,11 @@ test_cases:
     LEON_AAT_V2: 1.3125
   response: 7E80562100400A8
 - expected_values:
+    LEON_AAT_V2: 2.25
+  response: '7E8056210040120'
+- expected_values:
     LEON_AAT_V2: 2.82812
   response: 7E805621004016A
+- expected_values:
+    LEON_AAT_V2: -1.19531
+  response: 7E805621004FF67

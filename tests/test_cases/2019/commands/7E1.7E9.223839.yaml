@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: 16.55
   response: 7E9056238394B01
+- expected_values:
+    LEON_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: -59.95
+  response: 7E90562383951FB

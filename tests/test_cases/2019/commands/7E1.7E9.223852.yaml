@@ -2,4 +2,7 @@ command_id: 7E1.7E9.223852
 test_cases:
 - expected_values:
     LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: 7E905623852ACFC
+- expected_values:
+    LEON_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
   response: 7E905623852C3FF

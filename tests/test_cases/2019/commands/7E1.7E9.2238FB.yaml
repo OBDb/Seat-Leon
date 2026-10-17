@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_DQ200_CLUTCH_2_ADAPT_BASIC_CHARS_POINT_1_POS: 12.25
   response: 7E9056238FBC904
+- expected_values:
+    LEON_MQB_DQ200_CLUTCH_2_ADAPT_BASIC_CHARS_POINT_1_POS: 12.37
+  response: 7E9056238FBD504

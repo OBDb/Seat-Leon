@@ -1,6 +1,18 @@
 command_id: 7E0.7E8.2216C5
 test_cases:
 - expected_values:
+    LEON_THROTTLE_REGULATOR: 11.17188
+  response: 7E8056216C50596
+- expected_values:
+    LEON_THROTTLE_REGULATOR: 23.95312
+  response: 7E8056216C50BFA
+- expected_values:
+    LEON_THROTTLE_REGULATOR: 26
+  response: 7E8056216C50D00
+- expected_values:
+    LEON_THROTTLE_REGULATOR: 37.01562
+  response: 7E8056216C51282
+- expected_values:
     LEON_THROTTLE_REGULATOR: 42.66406
   response: 7E8056216C51555
 - expected_values:

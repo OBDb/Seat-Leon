@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.223841
 test_cases:
 - expected_values:
+    LEON_MQB_TCM_ODO: 103619.8
+  response: 7E907623841A6CF0F00
+- expected_values:
     LEON_MQB_TCM_ODO: 103600.9
   response: 7E907623841E9CE0F00

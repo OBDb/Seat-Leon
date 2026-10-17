@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_SHORT_TERM_FUEL_TRIM_1: 0
   response: 7E80462F40680
+- expected_values:
+    LEON_SHORT_TERM_FUEL_TRIM_1: 2.34375
+  response: 7E80462F40683

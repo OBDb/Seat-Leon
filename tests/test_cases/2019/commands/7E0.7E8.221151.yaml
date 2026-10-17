@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MISFIRES__CYL__4: 24466
   response: 7E8056211515F92
+- expected_values:
+    LEON_MISFIRES__CYL__4: 24469
+  response: 7E8056211515F95

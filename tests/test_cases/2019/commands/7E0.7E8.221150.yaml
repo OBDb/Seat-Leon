@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     LEON_MISFIRES_C3_ECM: 33481
   response: 7E80562115082C9
+- expected_values:
+    LEON_MISFIRES_C3_ECM: 33482
+  response: 7E80562115082CA
+- expected_values:
+    LEON_MISFIRES_C3_ECM: 33483
+  response: 7E80562115082CB

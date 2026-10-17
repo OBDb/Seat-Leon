@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G3: -8.53
   response: 7E905621086ABFC
+- expected_values:
+    LEON_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G3: -8.52
+  response: 7E905621086ACFC

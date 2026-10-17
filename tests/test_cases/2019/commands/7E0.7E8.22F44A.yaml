@@ -4,6 +4,9 @@ test_cases:
     LEON_ACCEL_PEDAL_POS_2: 14.90196
   response: 7E80462F44A26
 - expected_values:
+    LEON_ACCEL_PEDAL_POS_2: 23.13725
+  response: 7E80462F44A3B
+- expected_values:
     LEON_ACCEL_PEDAL_POS_2: 24.31373
   response: 7E80462F44A3E
 - expected_values:

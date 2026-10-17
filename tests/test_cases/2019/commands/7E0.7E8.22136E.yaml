@@ -7,11 +7,23 @@ test_cases:
     LEON_CAM_ADJ_INT_BANK_1_ACT: 21.688
   response: 7E80562136E0A97
 - expected_values:
+    LEON_CAM_ADJ_INT_BANK_1_ACT: 22.528
+  response: 7E80562136E0B00
+- expected_values:
+    LEON_CAM_ADJ_INT_BANK_1_ACT: 25.784
+  response: 7E80562136E0C97
+- expected_values:
     LEON_CAM_ADJ_INT_BANK_1_ACT: -23.672
   response: 7E80562136EF471
 - expected_values:
     LEON_CAM_ADJ_INT_BANK_1_ACT: -23.352
   response: 7E80562136EF499
 - expected_values:
+    LEON_CAM_ADJ_INT_BANK_1_ACT: -10.44
+  response: 7E80562136EFAE7
+- expected_values:
     LEON_CAM_ADJ_INT_BANK_1_ACT: -5.912
   response: 7E80562136EFD1D
+- expected_values:
+    LEON_CAM_ADJ_INT_BANK_1_ACT: -1.416
+  response: 7E80562136EFF4F

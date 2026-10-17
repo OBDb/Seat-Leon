@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G6: -1.83
   response: 7E9056210AD49FF
+- expected_values:
+    LEON_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G6: -1.79
+  response: 7E9056210AD4DFF

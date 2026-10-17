@@ -7,8 +7,17 @@ test_cases:
     LEON_MAP_RAW: 257.96875
   response: 7E8056211DC0CE6
 - expected_values:
+    LEON_MAP_RAW: 286.01562
+  response: 7E8056211DC0E4D
+- expected_values:
+    LEON_MAP_RAW: 795
+  response: 7E8056211DC27C0
+- expected_values:
     LEON_MAP_RAW: 825.3125
   response: 7E8056211DC2944
+- expected_values:
+    LEON_MAP_RAW: 969.0625
+  response: 7E8056211DC3074
 - expected_values:
     LEON_MAP_RAW: 977.89062
   response: 7E8056211DC30E5

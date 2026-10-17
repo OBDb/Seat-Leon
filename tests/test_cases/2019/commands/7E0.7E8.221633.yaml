@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221633
 test_cases:
 - expected_values:
+    LEON_LONGITUDINAL_ACCEL: 0.052
+  response: '7E8056216330034'
+- expected_values:
     LEON_LONGITUDINAL_ACCEL: 0.111
   response: 7E805621633006F
 - expected_values:
@@ -10,8 +13,14 @@ test_cases:
     LEON_LONGITUDINAL_ACCEL: 0.333
   response: 7E805621633014D
 - expected_values:
+    LEON_LONGITUDINAL_ACCEL: 0.338
+  response: '7E8056216330152'
+- expected_values:
     LEON_LONGITUDINAL_ACCEL: 0.674
   response: 7E80562163302A2
 - expected_values:
     LEON_LONGITUDINAL_ACCEL: 1.103
   response: 7E805621633044F
+- expected_values:
+    LEON_LONGITUDINAL_ACCEL: -0.085
+  response: 7E805621633FFAB

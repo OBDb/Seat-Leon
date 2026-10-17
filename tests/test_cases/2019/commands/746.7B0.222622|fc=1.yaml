@@ -1,5 +1,8 @@
 command_id: 746.7B0.222622|fc=1
 test_cases:
 - expected_values:
+    LEON_CLIMATE_FR_L_T_FLP_ACT_VALUE: 0
+  response: 7B006622622001700
+- expected_values:
     LEON_CLIMATE_FR_L_T_FLP_ACT_VALUE: 8
   response: 7B006622622002910

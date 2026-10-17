@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_EXH_CAM_ADPT_BIAS: 5.66903
   response: 7E80562174A0102
+- expected_values:
+    LEON_EXH_CAM_ADPT_BIAS: 6.04258
+  response: 7E80562174A0113

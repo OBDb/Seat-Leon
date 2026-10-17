@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MIS_1: 33018
   response: 7E80562114F80FA
+- expected_values:
+    LEON_MIS_1: 33021
+  response: 7E80562114F80FD

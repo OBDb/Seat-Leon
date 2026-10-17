@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.221017
 test_cases:
 - expected_values:
+    LEON_PQ35_ROAD_RESISTANCE: -2.218
+  response: '7E90462101776'
+- expected_values:
     LEON_PQ35_ROAD_RESISTANCE: 2.762
   response: 7E9046210178A

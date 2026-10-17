@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22174B
 test_cases:
 - expected_values:
+    LEON_INT_CAM_ADPT_BIAS: 7.91028
+  response: 7E80562174B0168
+- expected_values:
+    LEON_INT_CAM_ADPT_BIAS: 7.95423
+  response: 7E80562174B016A
+- expected_values:
     LEON_INT_CAM_ADPT_BIAS: 8.83315
   response: 7E80562174B0192
 - expected_values:

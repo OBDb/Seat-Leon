@@ -2,6 +2,15 @@ command_id: 713.77D.22180C|fc=1
 test_cases:
 - expected_values:
     LEON_EDL_ACTIVE: 0
+    LEON_EDL_FR_L_BRAKE_T: 94.5
+    LEON_EDL_FR_R_BRAKE_T: 94
+    LEON_EDL_RR_L_BRAKE_T: 61
+    LEON_EDL_RR_R_BRAKE_T: 60.5
+  response: |-
+    77D100C62180CBC00BD
+    77D2100BC007A0079AA
+- expected_values:
+    LEON_EDL_ACTIVE: 0
     LEON_EDL_FR_L_BRAKE_T: 164
     LEON_EDL_FR_R_BRAKE_T: 164
     LEON_EDL_RR_L_BRAKE_T: 64.5

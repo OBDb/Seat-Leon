@@ -10,8 +10,17 @@ test_cases:
     LEON_REL_LOAD: 24.14352
   response: '7E8056212160406'
 - expected_values:
+    LEON_REL_LOAD: 26.15938
+  response: 7E805621216045C
+- expected_values:
     LEON_REL_LOAD: 48.7324
   response: 7E805621216081F
 - expected_values:
+    LEON_REL_LOAD: 54.80344
+  response: '7E8056212160922'
+- expected_values:
     LEON_REL_LOAD: 73.69633
   response: 7E8056212160C48
+- expected_values:
+    LEON_REL_LOAD: 74.63394
+  response: 7E8056212160C70

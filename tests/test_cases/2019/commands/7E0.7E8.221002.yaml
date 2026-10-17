@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221002
 test_cases:
 - expected_values:
+    LEON_AC_COMP_T: 0
+  response: '7E8056210020000'
+- expected_values:
     LEON_AC_COMP_T: 3
   response: 7E805621002001E
 - expected_values:

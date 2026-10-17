@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_TQ_LOSS_ADPT_IDLE: -3.2
   response: 7E805621225FFE0
+- expected_values:
+    LEON_TQ_LOSS_ADPT_IDLE: -2.8
+  response: 7E805621225FFE4

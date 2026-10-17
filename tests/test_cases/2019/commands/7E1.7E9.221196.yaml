@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_TCM_HYBRID_T: 61746
   response: 7E907621196F1321731
+- expected_values:
+    LEON_MQB_TCM_HYBRID_T: 62002
+  response: 7E907621196F2321831

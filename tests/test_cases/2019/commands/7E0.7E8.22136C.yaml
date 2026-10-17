@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22136C
 test_cases:
 - expected_values:
+    LEON_CAM_ADJ_EXH_BANK_1_ACT: -23.064
+  response: 7E80562136CF4BD
+- expected_values:
+    LEON_CAM_ADJ_EXH_BANK_1_ACT: -22.968
+  response: 7E80562136CF4C9
+- expected_values:
     LEON_CAM_ADJ_EXH_BANK_1_ACT: -15.728
   response: 7E80562136CF852
 - expected_values:
@@ -12,6 +18,9 @@ test_cases:
 - expected_values:
     LEON_CAM_ADJ_EXH_BANK_1_ACT: -6.864
   response: 7E80562136CFCA6
+- expected_values:
+    LEON_CAM_ADJ_EXH_BANK_1_ACT: -3.984
+  response: 7E80562136CFE0E
 - expected_values:
     LEON_CAM_ADJ_EXH_BANK_1_ACT: -3.28
   response: 7E80562136CFE66

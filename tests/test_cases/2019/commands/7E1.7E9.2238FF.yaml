@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_DQ200_CLUTCH_1_ADAPT_CLUTCH_END_POS_CLOSED: 26.38
   response: 7E9056238FF4E0A
+- expected_values:
+    LEON_MQB_DQ200_CLUTCH_1_ADAPT_CLUTCH_END_POS_CLOSED: 26.58
+  response: 7E9056238FF620A

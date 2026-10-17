@@ -1,6 +1,9 @@
 command_id: 710.77A.222A00|fc=1
 test_cases:
 - expected_values:
+    LEON_MQB_GEN_TRG_V: 14.1
+  response: 77A04622A0023
+- expected_values:
     LEON_MQB_GEN_TRG_V: 14.6
   response: 77A04622A0028
 - expected_values:

@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.22106A
 test_cases:
 - expected_values:
+    LEON_RESERVE_TQ: 26112
+  response: 7E90562106A6600
+- expected_values:
     LEON_RESERVE_TQ: 26368
   response: 7E90562106A6700

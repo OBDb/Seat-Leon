@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_ACCEL_PED_1: -15.4
   response: 7E805621221FFB3
+- expected_values:
+    LEON_PQ35_ACCEL_PED_1: -5.6
+  response: 7E805621221FFE4

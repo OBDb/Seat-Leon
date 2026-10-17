@@ -1,17 +1,26 @@
 command_id: 7E0.7E8.2211F0
 test_cases:
 - expected_values:
+    LEON_BOOST_P_ACT: 965.85938
+  response: 7E8056211F0304B
+- expected_values:
     LEON_BOOST_P_ACT: 975.54688
   response: 7E8056211F030C7
 - expected_values:
     LEON_BOOST_P_ACT: 976.32812
   response: 7E8056211F030D1
 - expected_values:
+    LEON_BOOST_P_ACT: 981.32812
+  response: 7E8056211F03111
+- expected_values:
     LEON_BOOST_P_ACT: 981.95312
   response: 7E8056211F03119
 - expected_values:
     LEON_BOOST_P_ACT: 982.57812
   response: 7E8056211F03121
+- expected_values:
+    LEON_BOOST_P_ACT: 1069.29688
+  response: 7E8056211F03577
 - expected_values:
     LEON_BOOST_P_ACT: 1158.04688
   response: 7E8056211F039E7
