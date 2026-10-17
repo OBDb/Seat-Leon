@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221059
+test_cases:
+- expected_values:
+    LEON_ACCEL_PEDAL_TQ_LIM: 0
+  response: '7E8056210590000'
+- expected_values:
+    LEON_ACCEL_PEDAL_TQ_LIM: 10.6
+  response: 7E805621059006A
+- expected_values:
+    LEON_ACCEL_PEDAL_TQ_LIM: 116.6
+  response: 7E805621059048E

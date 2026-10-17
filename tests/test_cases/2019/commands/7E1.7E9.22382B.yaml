@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22382B
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 1052
+  response: 7E90562382B1829

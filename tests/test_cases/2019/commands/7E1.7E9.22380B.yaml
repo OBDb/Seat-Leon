@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22380B
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_OUTPUT_SPD_7E1_380B: 385
+  response: 7E90562380B8101

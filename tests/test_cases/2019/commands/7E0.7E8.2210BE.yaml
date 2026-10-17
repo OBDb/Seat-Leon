@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210BE
+test_cases:
+- expected_values:
+    LEON_REQ_TQ_AMOUNT: 5.1
+  response: 7E8056210BE0033
+- expected_values:
+    LEON_REQ_TQ_AMOUNT: 5.3
+  response: 7E8056210BE0035
+- expected_values:
+    LEON_REQ_TQ_AMOUNT: 5.7
+  response: 7E8056210BE0039
+- expected_values:
+    LEON_REQ_TQ_AMOUNT: 6
+  response: 7E8056210BE003C

@@ -1,0 +1,5 @@
+command_id: 746.7B0.222611|fc=1,din=03
+test_cases:
+- expected_values:
+    LEON_CLIMATE_LEG_DEFL_T: 20.66667
+  response: 7B0046226113E

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221011
+test_cases:
+- expected_values:
+    LEON_ADAPTIVE_MODE: 206
+  response: 7E905621011CE03

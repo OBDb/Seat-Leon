@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2212B0|fc=1,c=17
+test_cases:
+- expected_values:
+    LEON_ACCELERATION_29BIT: -0.061
+  response: 7E8056212B0FFC3

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211D1
+test_cases:
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 5998
+  response: 7E8056211D1176E
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7013
+  response: 7E8056211D11B65
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7219
+  response: 7E8056211D11C33
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7730
+  response: 7E8056211D11E32
+- expected_values:
+    LEON_BRAKE_BOOSTER_RAW_P: 7731
+  response: 7E8056211D11E33

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22102A
+test_cases:
+- expected_values:
+    LEON_CLU_CENTER_CENTRAL_T: 114
+  response: 7E90562102A7200

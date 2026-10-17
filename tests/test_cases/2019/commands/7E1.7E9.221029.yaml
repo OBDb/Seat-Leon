@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221029
+test_cases:
+- expected_values:
+    LEON_CURRENT_N371_P_CTRL_6: 6093
+  response: 7E905621029EE02

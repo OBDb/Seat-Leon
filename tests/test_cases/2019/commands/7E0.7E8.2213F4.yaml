@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2213F4
+test_cases:
+- expected_values:
+    LEON_IGA_CYL_KNK_2: -1.5
+  response: 7E8056213F47C94
+- expected_values:
+    LEON_IGA_CYL_KNK_2: -0.375
+  response: 7E8056213F47F6E
+- expected_values:
+    LEON_IGA_CYL_KNK_2: -0.375
+  response: 7E8056213F47F71
+- expected_values:
+    LEON_IGA_CYL_KNK_2: -0.375
+  response: 7E8056213F47F73
+- expected_values:
+    LEON_IGA_CYL_KNK_2: -0.375
+  response: 7E8056213F47F77

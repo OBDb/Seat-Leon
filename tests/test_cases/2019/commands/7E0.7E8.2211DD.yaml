@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211DD
+test_cases:
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 229.29688
+  response: 7E8056211DD0B77
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 239.92188
+  response: 7E8056211DD0BFF
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 726.95312
+  response: 7E8056211DD2459
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 737.1875
+  response: 7E8056211DD24DC
+- expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 1941.64062
+  response: 7E8056211DD6115

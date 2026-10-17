@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    LEON_VPWR: 12.816
+  response: 7E80562F4423210
+- expected_values:
+    LEON_VPWR: 12.863
+  response: 7E80562F442323F
+- expected_values:
+    LEON_VPWR: 13.193
+  response: 7E80562F4423389
+- expected_values:
+    LEON_VPWR: 13.923
+  response: 7E80562F4423663
+- expected_values:
+    LEON_VPWR: 14.63
+  response: 7E80562F4423926

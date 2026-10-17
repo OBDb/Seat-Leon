@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2238B2
+test_cases:
+- expected_values:
+    LEON_PQ35_CENTRIFUGAL_OIL_T: 72
+  response: 7E9056238B24800

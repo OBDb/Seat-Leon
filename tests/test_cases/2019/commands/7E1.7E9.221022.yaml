@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221022
+test_cases:
+- expected_values:
+    LEON_TCM_TQ_LOSSES: 17989
+  response: |-
+    7E9101162102246454A
+    7E921524D524645462E
+    7E92230333900AAAAAA

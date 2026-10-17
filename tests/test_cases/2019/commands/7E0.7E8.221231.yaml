@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221231
+test_cases:
+- expected_values:
+    LEON_MIN_OIL_LEVEL: 13.108
+  response: 7E8056212310CCD

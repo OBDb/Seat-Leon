@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22128C
+test_cases:
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.1848
+  response: 7E80762128C000001CE
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.238
+  response: 7E80762128C00000253
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.2576
+  response: 7E80762128C00000284
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.3088
+  response: 7E80762128C00000304
+- expected_values:
+    LEON_AVG_INJ_TIME: 0.4276
+  response: 7E80762128C0000042D

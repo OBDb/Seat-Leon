@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22121C
+test_cases:
+- expected_values:
+    LEON_AIR_FILLING: 13.00809
+  response: 7E80562121C022B
+- expected_values:
+    LEON_AIR_FILLING: 14.01592
+  response: 7E80562121C0256
+- expected_values:
+    LEON_AIR_FILLING: 37.94612
+  response: 7E80562121C0653
+- expected_values:
+    LEON_AIR_FILLING: 42.07121
+  response: 7E80562121C0703
+- expected_values:
+    LEON_AIR_FILLING: 100
+  response: 7E80562121C1A5B

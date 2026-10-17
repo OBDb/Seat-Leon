@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22103B
+test_cases:
+- expected_values:
+    LEON_TIME_SINCE_RESET: 360
+  response: 7E90562103B0C00

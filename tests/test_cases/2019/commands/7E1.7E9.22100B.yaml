@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22100B
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_DRIVER_DEMAND_TORQUE: 47
+  response: 7E90562100BAC03

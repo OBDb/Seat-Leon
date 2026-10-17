@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    LEON_PQ35_OIL_T_2: -272.6
+  response: 7E8056211BE0005

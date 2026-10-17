@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221062
+test_cases:
+- expected_values:
+    LEON_PQ35_CLUTCH_1_FRICTION_VALUE_CORRECTION_FACTOR: 99.90618
+  response: 7E905621062FF03

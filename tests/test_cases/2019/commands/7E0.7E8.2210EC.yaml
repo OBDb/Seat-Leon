@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2210EC
+test_cases:
+- expected_values:
+    LEON_VLV_TIM_DIFF_ACT_SET: -6.14062
+  response: 7E8056210ECFE77
+- expected_values:
+    LEON_VLV_TIM_DIFF_ACT_SET: -5.35938
+  response: 7E8056210ECFEA9
+- expected_values:
+    LEON_VLV_TIM_DIFF_ACT_SET: -0.5625
+  response: 7E8056210ECFFDC
+- expected_values:
+    LEON_VLV_TIM_DIFF_ACT_SET: -0.375
+  response: 7E8056210ECFFE8
+- expected_values:
+    LEON_VLV_TIM_DIFF_ACT_SET: -0.125
+  response: 7E8056210ECFFF8

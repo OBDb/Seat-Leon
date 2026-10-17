@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211E0
+test_cases:
+- expected_values:
+    LEON_CMD_CRANK_TQ: 24.4
+  response: 7E8056211E000F4
+- expected_values:
+    LEON_CMD_CRANK_TQ: 65.4
+  response: 7E8056211E0028E
+- expected_values:
+    LEON_CMD_CRANK_TQ: 141.9
+  response: 7E8056211E0058B
+- expected_values:
+    LEON_CMD_CRANK_TQ: -6.4
+  response: 7E8056211E0FFC0
+- expected_values:
+    LEON_CMD_CRANK_TQ: -6.2
+  response: 7E8056211E0FFC2

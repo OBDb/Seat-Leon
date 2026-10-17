@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2216ED
+test_cases:
+- expected_values:
+    LEON_CHG_P_REGULATOR_HI: 564.4
+  response: 7E8056216ED0B06
+- expected_values:
+    LEON_CHG_P_REGULATOR_HI: 575.4
+  response: 7E8056216ED0B3D
+- expected_values:
+    LEON_CHG_P_REGULATOR_HI: 578.8
+  response: 7E8056216ED0B4E
+- expected_values:
+    LEON_CHG_P_REGULATOR_HI: 579
+  response: 7E8056216ED0B4F
