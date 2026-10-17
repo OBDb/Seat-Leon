@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22101A
+test_cases:
+- expected_values:
+    LEON_PQ35_ODO_3: 104354
+  response: 7E90762101AA2970100

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F44A
+test_cases:
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_2: 14.90196
+  response: 7E80462F44A26
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_2: 24.31373
+  response: 7E80462F44A3E
+- expected_values:
+    LEON_ACCEL_PEDAL_POS_2: 46.66667
+  response: 7E80462F44A77

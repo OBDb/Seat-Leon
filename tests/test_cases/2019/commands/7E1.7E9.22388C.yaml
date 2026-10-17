@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22388C
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_IGNITION_CYCLES: 907
+  response: 7E90562388C8B03

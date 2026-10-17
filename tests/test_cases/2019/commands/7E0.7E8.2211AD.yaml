@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211AD
+test_cases:
+- expected_values:
+    LEON_MAF_CMD: 9
+  response: 7E8056211AD005A
+- expected_values:
+    LEON_MAF_CMD: 10.9
+  response: 7E8056211AD006D
+- expected_values:
+    LEON_MAF_CMD: 29.1
+  response: 7E8056211AD0123
+- expected_values:
+    LEON_MAF_CMD: 42
+  response: 7E8056211AD01A4
+- expected_values:
+    LEON_MAF_CMD: 73.4
+  response: 7E8056211AD02DE

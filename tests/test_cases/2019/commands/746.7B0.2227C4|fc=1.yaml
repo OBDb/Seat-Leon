@@ -1,0 +1,8 @@
+command_id: 746.7B0.2227C4|fc=1
+test_cases:
+- expected_values:
+    LEON_CABIN_HUMIDITY: 44
+    LEON_WINDSHIELD_T: 31.472
+  response: |-
+    7B010086227C47A2671
+    7B021EC58AAAAAAAAAA

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2215B7
+test_cases:
+- expected_values:
+    LEON_ENG_OIL_SUMP_T: 206.18
+  response: 7E8056215B70E75
+- expected_values:
+    LEON_ENG_OIL_SUMP_T: 206.72
+  response: 7E8056215B70E78
+- expected_values:
+    LEON_ENG_OIL_SUMP_T: 208.52
+  response: 7E8056215B70E82

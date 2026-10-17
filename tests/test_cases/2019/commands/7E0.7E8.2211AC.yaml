@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211AC
+test_cases:
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 4.6
+  response: 7E8056211AC002E
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 5.5
+  response: 7E8056211AC0037
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 13.1
+  response: 7E8056211AC0083
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 37.2
+  response: 7E8056211AC0174
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 40.3
+  response: 7E8056211AC0193

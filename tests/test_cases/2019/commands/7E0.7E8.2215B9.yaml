@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2215B9
+test_cases:
+- expected_values:
+    LEON_OIL_LEVEL_AVG: 14.952
+  response: 7E8056215B90E9A
+- expected_values:
+    LEON_OIL_LEVEL_AVG: 14.956
+  response: 7E8056215B90E9B
+- expected_values:
+    LEON_OIL_LEVEL_AVG: 14.98
+  response: 7E8056215B90EA1
+- expected_values:
+    LEON_OIL_LEVEL_AVG: 14.996
+  response: 7E8056215B90EA5

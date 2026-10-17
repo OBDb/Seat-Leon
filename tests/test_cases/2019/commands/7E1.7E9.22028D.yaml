@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22028D
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_ECU_T: 78
+  response: 7E90562028D4E00

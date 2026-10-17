@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211A4
+test_cases:
+- expected_values:
+    LEON_FUEL_PMP_CMD_DUTY: 36.13118
+  response: 7E8056211A45C7F
+- expected_values:
+    LEON_FUEL_PMP_CMD_DUTY: 37.15809
+  response: 7E8056211A45F20
+- expected_values:
+    LEON_FUEL_PMP_CMD_DUTY: 39.16156
+  response: 7E8056211A46441
+- expected_values:
+    LEON_FUEL_PMP_CMD_DUTY: 39.68189
+  response: 7E8056211A46596
+- expected_values:
+    LEON_FUEL_PMP_CMD_DUTY: 41.35272
+  response: 7E8056211A469DD

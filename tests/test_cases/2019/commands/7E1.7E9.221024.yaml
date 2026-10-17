@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221024
+test_cases:
+- expected_values:
+    LEON_CURRENT_N215_P_CTRL_1: 0
+  response: '7E9056210240000'

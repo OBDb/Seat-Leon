@@ -1,0 +1,12 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C621810010014
+    77D21FD1C0000010EAA
+- expected_values:
+    LEON_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C621810010014
+    77D21FD650000022EAA

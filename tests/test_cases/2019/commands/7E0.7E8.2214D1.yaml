@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2214D1
+test_cases:
+- expected_values:
+    LEON_PQ35_PRE_INJ_2_DURATION: -8.09
+  response: 7E8056214D1B0FF

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22430E
+test_cases:
+- expected_values:
+    LEON_NUM_INJECTIONS: 56177
+  response: 7E80562430EDB71
+- expected_values:
+    LEON_NUM_INJECTIONS: 58508
+  response: 7E80562430EE48C
+- expected_values:
+    LEON_NUM_INJECTIONS: 60263
+  response: 7E80562430EEB67
+- expected_values:
+    LEON_NUM_INJECTIONS: 62198
+  response: 7E80562430EF2F6
+- expected_values:
+    LEON_NUM_INJECTIONS: 64174
+  response: 7E80562430EFAAE

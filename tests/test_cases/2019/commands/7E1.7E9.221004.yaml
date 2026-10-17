@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221004
+test_cases:
+- expected_values:
+    LEON_TIRE_RL_SPD_V3: 25.6
+  response: '7E9056210040100'

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22174A
+test_cases:
+- expected_values:
+    LEON_EXH_CAM_ADPT_BIAS: 5.60312
+  response: 7E80562174A00FF
+- expected_values:
+    LEON_EXH_CAM_ADPT_BIAS: 5.66903
+  response: 7E80562174A0102

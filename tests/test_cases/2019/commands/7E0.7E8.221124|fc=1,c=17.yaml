@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221124|fc=1,c=17
+test_cases:
+- expected_values:
+    LEON_CAMSHAFT_VSS: 742.25
+  response: 7E8056211240B99

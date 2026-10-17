@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221161|fc=1,c=17
+test_cases:
+- expected_values:
+    LEON_ENGINE_RPM_AT_IDLE_REQUIRED: 750
+  response: 7E80562116105DC

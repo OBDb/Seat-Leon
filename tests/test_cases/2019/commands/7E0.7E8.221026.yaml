@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221026
+test_cases:
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 0
+  response: '7E8056210260000'
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 82.3
+  response: '7E8056210260337'
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 111.7
+  response: 7E805621026045D
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 330.2
+  response: 7E8056210260CE6
+- expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 372.2
+  response: 7E8056210260E8A

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2216EE
+test_cases:
+- expected_values:
+    LEON_BOOST_P_ACTUATOR_CMD: 0
+  response: 7E8056216EE0000

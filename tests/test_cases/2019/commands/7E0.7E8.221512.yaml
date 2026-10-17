@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221512
+test_cases:
+- expected_values:
+    LEON_ECT_MIN: 90.75
+  response: 7E804621512B9
