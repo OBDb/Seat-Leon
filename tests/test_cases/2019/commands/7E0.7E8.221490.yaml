@@ -1,11 +1,17 @@
 command_id: 7E0.7E8.221490
 test_cases:
 - expected_values:
+    LEON_BRAKE_BOOSTER_LOW_P_ACT: 675.94615
+  response: '7E8056214904398'
+- expected_values:
     LEON_BRAKE_BOOSTER_LOW_P_ACT: 680.0087
   response: '7E8056214904400'
 - expected_values:
     LEON_BRAKE_BOOSTER_LOW_P_ACT: 692.00104
   response: '7E8056214904533'
+- expected_values:
+    LEON_BRAKE_BOOSTER_LOW_P_ACT: 695.94641
+  response: '7E8056214904598'
 - expected_values:
     LEON_BRAKE_BOOSTER_LOW_P_ACT: 720.00922
   response: '7E8056214904800'

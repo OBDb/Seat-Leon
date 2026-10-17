@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: 0.29
   response: 7E9056210AE1D00
+- expected_values:
+    LEON_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: 0.31
+  response: 7E9056210AE1F00

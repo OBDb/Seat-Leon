@@ -1,5 +1,8 @@
 command_id: 710.77A.222A0F|fc=1
 test_cases:
 - expected_values:
+    LEON_USE_BAT_CHG: 43
+  response: 77A04622A0F2B
+- expected_values:
     LEON_USE_BAT_CHG: 44
   response: 77A04622A0F2C

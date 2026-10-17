@@ -7,8 +7,17 @@ test_cases:
     LEON_ACCEL_PEDAL_SENS_1_V: 769
   response: 7E80562102A0F05
 - expected_values:
+    LEON_ACCEL_PEDAL_SENS_1_V: 774
+  response: 7E80562102A0F1E
+- expected_values:
     LEON_ACCEL_PEDAL_SENS_1_V: 839.8
   response: 7E80562102A1067
+- expected_values:
+    LEON_ACCEL_PEDAL_SENS_1_V: 1220.8
+  response: 7E80562102A17D8
+- expected_values:
+    LEON_ACCEL_PEDAL_SENS_1_V: 1565.2
+  response: 7E80562102A1E92
 - expected_values:
     LEON_ACCEL_PEDAL_SENS_1_V: 1833.8
   response: 7E80562102A23D1

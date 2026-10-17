@@ -1,11 +1,20 @@
 command_id: 7E0.7E8.22127D
 test_cases:
 - expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1_ON: 68.78045
+  response: 7E80562127D580A
+- expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1_ON: 71.86883
+  response: 7E80562127D5BFE
+- expected_values:
     LEON_VARIABLE_VLV_TIM_INT_1_ON: 75.2166
   response: 7E80562127D6047
 - expected_values:
     LEON_VARIABLE_VLV_TIM_INT_1_ON: 77.49016
   response: 7E80562127D6330
+- expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1_ON: 82.32719
+  response: 7E80562127D6961
 - expected_values:
     LEON_VARIABLE_VLV_TIM_INT_1_ON: 85.02189
   response: 7E80562127D6CD4

@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.221125
 test_cases:
 - expected_values:
+    LEON_CAM_ADPT_INT_BANK_1: 0
+  response: '7E8056211250000'
+- expected_values:
+    LEON_CAM_ADPT_INT_BANK_1: 0.3
+  response: 7E805621125000F
+- expected_values:
     LEON_CAM_ADPT_INT_BANK_1: 0.72
   response: '7E8056211250024'

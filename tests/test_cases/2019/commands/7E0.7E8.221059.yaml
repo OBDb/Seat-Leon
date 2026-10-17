@@ -7,5 +7,11 @@ test_cases:
     LEON_ACCEL_PEDAL_TQ_LIM: 10.6
   response: 7E805621059006A
 - expected_values:
+    LEON_ACCEL_PEDAL_TQ_LIM: 38.8
+  response: '7E8056210590184'
+- expected_values:
+    LEON_ACCEL_PEDAL_TQ_LIM: 103.6
+  response: 7E805621059040C
+- expected_values:
     LEON_ACCEL_PEDAL_TQ_LIM: 116.6
   response: 7E805621059048E

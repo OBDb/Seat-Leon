@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 1052
   response: 7E90562382B1829
+- expected_values:
+    LEON_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_ACTUAL: 754
+  response: 7E90562382B741D

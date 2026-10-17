@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_ANALYSIS_CLU_2_T_0: 315.1
   response: 7E90762107A8B3D6F20
+- expected_values:
+    LEON_ANALYSIS_CLU_2_T_0: 424.34
+  response: 7E90762107AE1527020

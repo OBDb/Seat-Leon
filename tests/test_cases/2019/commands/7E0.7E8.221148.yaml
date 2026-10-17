@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_FUEL_METER: 0
   response: '7E8056211480000'
+- expected_values:
+    LEON_PQ35_FUEL_METER: 0.01
+  response: '7E8056211480001'

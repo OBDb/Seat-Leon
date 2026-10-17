@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_2_DUTY_CYCLE_FACTOR_2: 54.93
   response: 7E90562383C7515
+- expected_values:
+    LEON_MQB_DQ200_ACTUAL_POS_CLUTCH_2_DUTY_CYCLE_FACTOR_2: 43.17
+  response: 7E90562383CDD10

@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     LEON_BOOST_P_ACTUATOR_CMD: 0
   response: 7E8056216EE0000
+- expected_values:
+    LEON_BOOST_P_ACTUATOR_CMD: 92.34458
+  response: 7E8056216EE1D8D
+- expected_values:
+    LEON_BOOST_P_ACTUATOR_CMD: 100
+  response: 7E8056216EE2CCD

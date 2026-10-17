@@ -4,6 +4,12 @@ test_cases:
     LEON_CHG_P_REGULATOR_LO: 3354.4
   response: 7E8056216EC4184
 - expected_values:
+    LEON_CHG_P_REGULATOR_LO: 3358
+  response: 7E8056216EC4196
+- expected_values:
+    LEON_CHG_P_REGULATOR_LO: 3360.4
+  response: 7E8056216EC41A2
+- expected_values:
     LEON_CHG_P_REGULATOR_LO: 3365.4
   response: 7E8056216EC41BB
 - expected_values:

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_ODO_MILEAGE_HR: 104356.001
   response: 77E076222B8063858A1
+- expected_values:
+    LEON_ODO_MILEAGE_HR: 104372.727
+  response: 77E076222B8063899F7

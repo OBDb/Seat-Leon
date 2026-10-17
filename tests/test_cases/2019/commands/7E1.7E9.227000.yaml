@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.227000
 test_cases:
 - expected_values:
+    LEON_MQB_DQ200_CLUTCH_1_ADAPT_BASIC_CHARS_POINT_2_POS: 16.65
+  response: '7E9056270008106'
+- expected_values:
     LEON_MQB_DQ200_CLUTCH_1_ADAPT_BASIC_CHARS_POINT_2_POS: 17.31
   response: 7E905627000C306

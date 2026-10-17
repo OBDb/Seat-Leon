@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_PQ35_CLUTCH_2_T: 102
   response: 7E90562102C6600
+- expected_values:
+    LEON_PQ35_CLUTCH_2_T: 108
+  response: 7E90562102C6C00

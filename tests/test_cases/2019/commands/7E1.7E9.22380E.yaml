@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_OUTPUT_SHAFT_1: 0
   response: 7E90562380E0000
+- expected_values:
+    LEON_MQB_OUTPUT_SHAFT_1: 151
+  response: 7E90562380E9700

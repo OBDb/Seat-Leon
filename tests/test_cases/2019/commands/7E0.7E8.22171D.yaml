@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_BASIC_CORR_FACTOR_2: 0.99952
   response: 7E80562171D1FFD
+- expected_values:
+    LEON_BASIC_CORR_FACTOR_2: 1.00026
+  response: 7E80562171D2003

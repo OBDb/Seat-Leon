@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_OUTSIDE_T_SYSTEM: 14.5
   response: 7B00462260A1D
+- expected_values:
+    LEON_OUTSIDE_T_SYSTEM: 16
+  response: 7B00462260A20

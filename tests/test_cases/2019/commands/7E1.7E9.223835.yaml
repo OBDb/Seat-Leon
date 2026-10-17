@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 324
   response: 7E905623835A80C
+- expected_values:
+    LEON_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 480
+  response: 7E905623835C012

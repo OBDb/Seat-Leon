@@ -7,8 +7,17 @@ test_cases:
     LEON_MAF_THROUGH_THROTTLE: 5.5
   response: 7E8056211AC0037
 - expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 5.9
+  response: 7E8056211AC003B
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 6.1
+  response: 7E8056211AC003D
+- expected_values:
     LEON_MAF_THROUGH_THROTTLE: 13.1
   response: 7E8056211AC0083
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 26.1
+  response: 7E8056211AC0105
 - expected_values:
     LEON_MAF_THROUGH_THROTTLE: 37.2
   response: 7E8056211AC0174

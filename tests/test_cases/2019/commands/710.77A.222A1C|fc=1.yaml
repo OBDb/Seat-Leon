@@ -4,5 +4,8 @@ test_cases:
     LEON_GEN_CURRENT: 30.3
   response: 77A05622A1C00D5
 - expected_values:
+    LEON_GEN_CURRENT: 34.5
+  response: 77A05622A1C00FF
+- expected_values:
     LEON_GEN_CURRENT: 39.7
   response: 77A05622A1C0133

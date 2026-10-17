@@ -1,5 +1,8 @@
 command_id: 746.7B0.22261E|fc=1
 test_cases:
 - expected_values:
+    LEON_MQB_RECIRC_FLAP_ACT: 89
+  response: 7B00662261E00593F
+- expected_values:
     LEON_MQB_RECIRC_FLAP_ACT: 91
   response: 7B00662261E005B41

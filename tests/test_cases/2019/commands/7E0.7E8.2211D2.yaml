@@ -13,5 +13,11 @@ test_cases:
     LEON_HIGH_P_CTRL_ADPT: 0.149
   response: 7E8056211D2012A
 - expected_values:
+    LEON_HIGH_P_CTRL_ADPT: 0.1525
+  response: 7E8056211D20131
+- expected_values:
+    LEON_HIGH_P_CTRL_ADPT: 0.1535
+  response: 7E8056211D20133
+- expected_values:
     LEON_HIGH_P_CTRL_ADPT: 0.1595
   response: 7E8056211D2013F

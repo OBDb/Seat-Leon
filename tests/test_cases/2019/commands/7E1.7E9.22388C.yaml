@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MQB_TCM_IGNITION_CYCLES: 907
   response: 7E90562388C8B03
+- expected_values:
+    LEON_MQB_TCM_IGNITION_CYCLES: 908
+  response: 7E90562388C8C03

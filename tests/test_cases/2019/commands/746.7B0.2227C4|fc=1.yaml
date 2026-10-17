@@ -6,3 +6,9 @@ test_cases:
   response: |-
     7B010086227C47A2671
     7B021EC58AAAAAAAAAA
+- expected_values:
+    LEON_CABIN_HUMIDITY: 51
+    LEON_WINDSHIELD_T: 33.776
+  response: |-
+    7B010086227C47E2601
+    7B021E466AAAAAAAAAA

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_AIR_LEAKAGE: 1.9
   response: 7E8056211B80013
+- expected_values:
+    LEON_AIR_LEAKAGE: 2
+  response: 7E8056211B80014

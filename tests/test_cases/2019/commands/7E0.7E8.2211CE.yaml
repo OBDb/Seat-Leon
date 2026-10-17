@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     LEON_LOW_FUEL_P_CMD: 322.8
   response: 7E8056211CE0C9C
+- expected_values:
+    LEON_LOW_FUEL_P_CMD: 335.7
+  response: 7E8056211CE0D1D
+- expected_values:
+    LEON_LOW_FUEL_P_CMD: 344.2
+  response: 7E8056211CE0D72

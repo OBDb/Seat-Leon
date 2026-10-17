@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_OUTSIDE_T: 15
   response: 77E0462220C82
+- expected_values:
+    LEON_OUTSIDE_T: 16
+  response: 77E0462220C84

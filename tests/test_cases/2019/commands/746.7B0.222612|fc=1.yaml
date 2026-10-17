@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_CLIMATE_T_AFTER_EVAP: 9
   response: 7B0046226121B
+- expected_values:
+    LEON_CLIMATE_T_AFTER_EVAP: 25
+  response: 7B0046226124B
