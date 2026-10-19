@@ -532,7 +532,7 @@
   "signals": [
     {"id": "LEON_PQ35_CAMS_START", "path": "Engine", "fmt": { "len": 16, "max": 6553.4, "min": -6553.6, "div": 5, "sign": true, "unit": "degrees" }, "name": "Camshaft start position"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "100C"}, "freq": 30, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "100C"}, "freq": 30, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_FUEL_LVL_2", "path": "Fuel", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "liters" }, "name": "Fuel level variant"}
   ]},
@@ -556,7 +556,7 @@
   "signals": [
     {"id": "LEON_A_C_COMPRESSOR_TORQUE", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "A/C compressor torque"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "dbg": true, "cmd": {"22": "101B"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "101B"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_GENERATOR_TORQUE_REQUEST", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Generator torque request"}
   ]},
@@ -616,7 +616,7 @@
   "signals": [
     {"id": "LEON_BRAKE_PEDAL_POS", "path": "Control", "fmt": { "len": 16, "max": 100, "mul": 12207, "div": 1000000, "unit": "percent" }, "name": "Brake pedal position"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "105E"}, "freq": 5, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "105E"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_BAT_V_2", "path": "Battery", "fmt": { "len": 16, "max": 1310.7, "div": 50, "unit": "volts" }, "name": "Battery voltage variant"}
   ]},
@@ -732,7 +732,7 @@
   "signals": [
     {"id": "LEON_PQ35_REG_FACTOR", "path": "Engine", "fmt": { "len": 16, "max": 3.276, "div": 10000, "sign": true, "unit": "percent" }, "name": "Regulation factor total"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "10E5"}, "freq": 1, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "10E5"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "LEON_IGNITION_TIMING_ANGLE_RETARD_C4", "path": "Engine", "fmt": { "len": 16, "max": 24575.25, "min": -24576, "mul": 75, "div": 100, "sign": true, "unit": "degrees" }, "name": "Ignition timing angle retard, cylinder 4"}
   ]},
