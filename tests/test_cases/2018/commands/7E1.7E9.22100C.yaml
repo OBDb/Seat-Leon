@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEON_MQB_TCM_ENGINE_TORQUE: 18
   response: 7E90562100C6801
+- expected_values:
+    LEON_MQB_TCM_ENGINE_TORQUE: 211
+  response: 7E90562100C7C10
