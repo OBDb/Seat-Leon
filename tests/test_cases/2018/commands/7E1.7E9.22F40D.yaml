@@ -1,5 +1,17 @@
 command_id: 7E1.7E9.22F40D
 test_cases:
 - expected_values:
+    LEON_VSS_7E1: 216
+  response: "22F40D\n7E9 05 62 F4 0D D8 09 "
+- expected_values:
+    LEON_VSS_7E1: 220
+  response: '7E9 05 62 F4 0D DC 14 '
+- expected_values:
+    LEON_VSS_7E1: 220
+  response: '7E9 05 62 F4 0D DC 23 '
+- expected_values:
+    LEON_VSS_7E1: 250
+  response: '7E9 05 62 F4 0D FA 1E '
+- expected_values:
     LEON_VSS_7E1: 0
   response: 7E90562F40D0000

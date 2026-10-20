@@ -536,7 +536,7 @@
   "signals": [
     {"id": "LEON_PQ35_FUEL_LVL_2", "path": "Fuel", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "liters" }, "name": "Fuel level variant"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "100D"}, "freq": 0.25, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "100D"}, "freq": 0.25, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_GEAR", "path": "Transmission", "fmt": { "len": 8, "max": 127, "min": -128, "sign": true, "unit": "scalar" }, "name": "Current gear"}
   ]},
@@ -564,7 +564,7 @@
   "signals": [
     {"id": "LEON_GENERATOR_LOAD_SIG", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Generator load signal"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1024"}, "freq": 1, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1024"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "LEON_MQB_AIR_MASS_1", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "mul": 1000, "div": 10000, "sign": true, "unit": "unknown" }, "name": "Air mass meter 1"}
   ]},
@@ -584,7 +584,7 @@
   "signals": [
     {"id": "LEON_PQ35_ACCEL_PED_2", "path": "Movement", "fmt": { "len": 16, "max": 6553.4, "min": -6553.6, "div": 5, "sign": true, "unit": "millivolts" }, "name": "Accelerator pedal sensor 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "103C"}, "freq": 1, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "103C"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "LEON_MQB_INT_MAN_P", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Intake manifold pressure calculated"}
   ]},
@@ -652,7 +652,7 @@
   "signals": [
     {"id": "LEON_INJ_SPD_INJ_1", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Injection speed injector 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10A6"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10A6"}, "freq": 0.25, "dbgfilter": { "to": 2016, "from": 2019 },
   "signals": [
     {"id": "LEON_INJ_SPD_INJ_2", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Injection speed injector 2"}
   ]},
@@ -720,7 +720,7 @@
   "signals": [
     {"id": "LEON_ODO_7E0", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E2"}, "freq": 3600, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E2"}, "freq": 3600, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_WEAR_IDX", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "meters" }, "name": "Wear index"}
   ]},
@@ -812,15 +812,15 @@
   "signals": [
     {"id": "LEON_PQ35_COMP_TEST_CYL_3", "path": "Engine", "fmt": { "len": 16, "max": 16383.5, "min": -16384, "div": 2, "sign": true, "unit": "rpm" }, "name": "Compression test cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "112C"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "112C"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2019 },
   "signals": [
     {"id": "LEON_ACT", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Turbine actuator 1 bank 1: activation"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "112D"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "112D"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2019 },
   "signals": [
     {"id": "LEON_SEG_AD_MMV_ER_1", "path": "Engine", "fmt": { "len": 16, "max": 7.8123, "min": -7.8125, "mul": 78123, "div": 327670000, "sign": true, "unit": "percent" }, "name": "SEG_AD_MMV_ER, 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "112E"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "112E"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2019 },
   "signals": [
     {"id": "LEON_SEG_AD_MMV_ER_2", "path": "Engine", "fmt": { "len": 16, "max": 7.8123, "min": -7.8125, "mul": 78123, "div": 327670000, "sign": true, "unit": "percent" }, "name": "SEG_AD_MMV_ER, 2"}
   ]},
@@ -1000,11 +1000,11 @@
   "signals": [
     {"id": "LEON_PSN_EDGE_REL_AD_CAM_2", "path": "Engine", "fmt": { "len": 16, "max": 2047.9375, "min": -2048, "div": 16, "sign": true, "unit": "degrees" }, "name": "PSN_EDGE_REL_AD_CAM_SAVE_EX_2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1186"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1186"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2019 },
   "signals": [
     {"id": "LEON_PSN_EDGE_REL_AD_CAM_SAVE_1", "path": "Engine", "fmt": { "len": 16, "max": 2047.9375, "min": -2048, "div": 16, "sign": true, "unit": "degrees" }, "name": "PSN_EDGE_REL_AD_CAM_SAVE_IN_1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1187"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1187"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2019 },
   "signals": [
     {"id": "LEON_ACCELERATION", "path": "Movement", "fmt": { "len": 16, "max": 32.767, "min": -32.768, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Acceleration"}
   ]},
@@ -1016,7 +1016,7 @@
   "signals": [
     {"id": "LEON_PQ35_CAMS_EDGE_POS_3", "path": "Engine", "fmt": { "len": 16, "max": 4063.937, "min": -32, "div": 16, "add": -32, "unit": "degrees" }, "name": "Intake camshaft signal edge position adapted edge 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "118B"}, "freq": 1, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "118B"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_CAMS_EDGE_POS_4", "path": "Engine", "fmt": { "len": 16, "max": 4063.937, "min": -32, "div": 16, "add": -32, "unit": "degrees" }, "name": "Intake camshaft signal edge position adapted edge 4"}
   ]},
@@ -1052,7 +1052,7 @@
   "signals": [
     {"id": "LEON_FUEL_PMP_CMD_DUTY", "path": "Fuel", "fmt": { "len": 16, "max": 99.998, "mul": 0.0015258743, "unit": "percent" }, "name": "Fuel pump, commanded duty"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11A6"}, "freq": 1, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11A6"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "LEON_PQ35_LIM_ACCEL_PED", "path": "Movement", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Accelerator pedal limit"}
   ]},
@@ -2429,7 +2429,7 @@
   "signals": [
     {"id": "LEON_ENG_PROTECTION_TQ", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Engine protection, torque limit"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "3804"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "3804"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "LEON_ACCEL_PEDAL_POS", "path": "Movement", "fmt": { "len": 16, "max": 100, "div": 100, "unit": "percent" }, "name": "Accelerator pedal position"}
   ]},

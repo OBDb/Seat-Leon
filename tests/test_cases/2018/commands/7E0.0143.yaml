@@ -12,6 +12,15 @@ test_cases:
     LOAD_ABS: 19.21569
   response: '7E8 04 41 43 00 31 '
 - expected_values:
+    LOAD_ABS: 57.64706
+  response: '7E8 04 41 43 00 93 '
+- expected_values:
+    LOAD_ABS: 62.35294
+  response: '7E8 04 41 43 00 9F '
+- expected_values:
+    LOAD_ABS: 109.80392
+  response: '7E8 04 41 43 01 18 '
+- expected_values:
     LOAD_ABS: 0
   response: '7E80441430000'
 - expected_values:
