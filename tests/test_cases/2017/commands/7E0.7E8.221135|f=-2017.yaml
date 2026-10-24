@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221135|f=-2017
+test_cases:
+- expected_values:
+    LEON_COOLANT_T_RAW: 64691
+  response: 7E805621135FCB3

@@ -1,5 +1,0 @@
-command_id: 7E0.7E8.221135
-test_cases:
-- expected_values:
-    LEON_COOLANT_T: 6196
-  response: 7E805621135FCB3
