@@ -1436,9 +1436,13 @@
   "signals": [
     {"id": "LEON_EXHAUST_GAS_T_AT_PROBE_BEFOR_PRECAT_MODEL_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -3549.9, "div": 10, "add": -273.1, "sign": true, "nullmin": -273.1, "unit": "celsius" }, "name": "Exhaust gas temperature before the front catalytic converter, model value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "13A0"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "13A0"}, "freq": 5, "filter": { "to": 2017 }, "dbgfilter": { "to": 2016 },
   "signals": [
-    {"id": "LEON_COOLANT_T_MODELED_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -3549.9, "div": 10, "add": -273.1, "sign": true, "unit": "celsius" }, "name": "Coolant temperature modeled value"}
+    {"id": "LEON_COOLANT_T_MODELED_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Coolant temperature modeled value, raw"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "13A0"}, "freq": 5, "filter": { "from": 2018 }, "dbgfilter": { "from": 2020 },
+  "signals": [
+    {"id": "LEON_COOLANT_T_MODELED_VALUE_RAW", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Coolant temperature modeled value, one byte, raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13A1"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -1770,7 +1774,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1626"}, "freq": 5, "dbgfilter": { "to": 2011, "from": 2013 },
   "signals": [
-    {"id": "LEON_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Radiator output coolant temp: actual"}
+    {"id": "LEON_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Radiator output coolant temperature actual, raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "1628"}, "freq": 5, "dbgfilter": { "to": 2011, "from": 2013 },
   "signals": [
@@ -2230,7 +2234,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "20A1"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "LEON_PQ35_CALCULATED_OIL_T", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Calculated oil temperature", "suggestedMetric": "engineOilTemperature"}
+    {"id": "LEON_PQ35_CALCULATED_OIL_T", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Calculated oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "20A2"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [

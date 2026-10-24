@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2220A1
 test_cases:
 - expected_values:
-    LEON_PQ35_CALCULATED_OIL_T: -40
+    LEON_PQ35_CALCULATED_OIL_T: 11
   response: 7E8056220A1006E
 - expected_values:
-    LEON_PQ35_CALCULATED_OIL_T: -39
+    LEON_PQ35_CALCULATED_OIL_T: 26
   response: 7E8056220A10104
 - expected_values:
-    LEON_PQ35_CALCULATED_OIL_T: -38
+    LEON_PQ35_CALCULATED_OIL_T: 75
   response: 7E8056220A102EE
 - expected_values:
-    LEON_PQ35_CALCULATED_OIL_T: -37
+    LEON_PQ35_CALCULATED_OIL_T: 79
   response: 7E8056220A10316
