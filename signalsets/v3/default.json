@@ -848,7 +848,11 @@
   "signals": [
     {"id": "LEON_SEG_AD_MMV_ER_MID_2", "path": "Engine", "fmt": { "len": 16, "max": 7.8123, "min": -7.8125, "mul": 78123, "div": 327670000, "sign": true, "unit": "percent" }, "name": "SEG_AD_MMV_ER_MID, 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 5, "filter": { "to": 2017 }, "dbgfilter": { "to": 2016 },
+  "signals": [
+    {"id": "LEON_COOLANT_T_RAW", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Coolant temperature at radiator outlet, raw"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 5, "filter": { "from": 2018 }, "dbgfilter": { "from": 2020 },
   "signals": [
     {"id": "LEON_COOLANT_T", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Coolant temperature at radiator outlet"}
   ]},
