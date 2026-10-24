@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2213A0|fc=1,c=17,f=2018-
+test_cases:
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 106
+  response: 7E8046213A06A
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 108
+  response: 7E8046213A06C
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 115
+  response: 7E8046213A073
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 119
+  response: 7E8046213A077
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 123
+  response: 7E8046213A07B
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 124
+  response: 7E8046213A07C
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 130
+  response: 7E8046213A082
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 131
+  response: 7E8046213A083
