@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.221196
 test_cases:
 - expected_values:
-    LEON_MQB_TCM_HYBRID_T: 61746
+    LEON_TCM_1196_RAW: 4046591793
   response: 7E907621196F1321731
 - expected_values:
-    LEON_MQB_TCM_HYBRID_T: 62002
+    LEON_TCM_1196_RAW: 4063369265
   response: 7E907621196F2321831
