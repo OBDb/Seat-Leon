@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22162D|f=2018-
+test_cases:
+- expected_values:
+    LEON_FUEL_T_RAW: 33554432
+  response: 7E80762162D02000000
