@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222998
+test_cases:
+- expected_values:
+    LEON_MANUAL_ENG_STARTS: 5456
+  response: '7E8056229981550'

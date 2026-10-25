@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2214CE
+test_cases:
+- expected_values:
+    LEON_PQ35_POST_INJ_3_ACTIVATION_DURATION: 1.4184
+  response: 7E8056214CE0DDA

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2214A1
+test_cases:
+- expected_values:
+    LEON_RATED_DRIVE_TQ: -451
+  response: 7E8076214A1FFFFEE62
