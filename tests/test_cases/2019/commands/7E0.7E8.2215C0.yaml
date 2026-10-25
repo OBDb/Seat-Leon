@@ -1,5 +1,14 @@
 command_id: 7E0.7E8.2215C0
 test_cases:
 - expected_values:
+    LEON_IAT_RAW: 10.1
+  response: 7E8056215C00B10
+- expected_values:
     LEON_IAT_RAW: 11
   response: 7E8056215C00B19
+- expected_values:
+    LEON_IAT_RAW: 11.1
+  response: 7E8056215C00B1A
+- expected_values:
+    LEON_IAT_RAW: 12.3
+  response: 7E8056215C00B26

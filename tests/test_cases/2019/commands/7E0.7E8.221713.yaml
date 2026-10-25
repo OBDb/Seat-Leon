@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     LEON_TOT_MASS_GASOLINE: 0
   response: '7E8056217130000'
+- expected_values:
+    LEON_TOT_MASS_GASOLINE: 0.57599
+  response: 7E805621713001B
+- expected_values:
+    LEON_TOT_MASS_GASOLINE: 0.85332
+  response: '7E8056217130028'
+- expected_values:
+    LEON_TOT_MASS_GASOLINE: 1.02398
+  response: '7E8056217130030'

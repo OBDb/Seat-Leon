@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221743
+test_cases:
+- expected_values:
+    LEON_INTEGRATED_MASS_AIR_SINCE: 0
+  response: '7E8056217430000'
+- expected_values:
+    LEON_INTEGRATED_MASS_AIR_SINCE: 701.87544
+  response: 7E80562174307B6
+- expected_values:
+    LEON_INTEGRATED_MASS_AIR_SINCE: 1419.03996
+  response: 7E8056217430F97
+- expected_values:
+    LEON_INTEGRATED_MASS_AIR_SINCE: 2321.8068
+  response: '7E8056217431982'
