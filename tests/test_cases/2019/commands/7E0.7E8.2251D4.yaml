@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     LEON_CYL_BLOCK_T_SENS: 11
   response: 7E8056251D40B19
+- expected_values:
+    LEON_CYL_BLOCK_T_SENS: 24.5
+  response: 7E8056251D40BA0
+- expected_values:
+    LEON_CYL_BLOCK_T_SENS: 41.3
+  response: 7E8056251D40C48
+- expected_values:
+    LEON_CYL_BLOCK_T_SENS: 59.6
+  response: 7E8056251D40CFF

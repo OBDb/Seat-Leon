@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22120F|fc=1,c=17
+test_cases:
+- expected_values:
+    LEON_KNOCK_SNS_C3_V_MS: 0.01087
+  response: 7E80762120F000037AA
