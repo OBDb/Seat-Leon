@@ -1,8 +1,8 @@
-command_id: 7E0.7E8.2211BE|f=2018-
+command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    LEON_OIL_T_2_RAW: -16
+    LEON_PQ35_OIL_T_2: null
   response: 7E8056211BEFFF0
 - expected_values:
-    LEON_OIL_T_2_RAW: -14
+    LEON_PQ35_OIL_T_2: null
   response: 7E8056211BEFFF2
