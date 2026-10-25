@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2258D1
+test_cases:
+- expected_values:
+    LEON_ENG_OIL_LEVEL: 2.66
+  response: |-
+    7E810116258D100012F
+    7E821D600012FC6010A
+    7E82200020007AAAAAA

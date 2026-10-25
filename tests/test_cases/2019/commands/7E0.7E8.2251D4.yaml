@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2251D4
+test_cases:
+- expected_values:
+    LEON_CYL_BLOCK_T_SENS: 11
+  response: 7E8056251D40B19

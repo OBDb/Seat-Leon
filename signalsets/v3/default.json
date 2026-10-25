@@ -688,7 +688,7 @@
   "signals": [
     {"id": "LEON_LAMBDA_ACT", "path": "Engine", "fmt": { "len": 16, "max": 7.9997, "min": -7.9999, "mul": 12207, "div": 50000000, "sign": true, "unit": "scalar" }, "name": "Lambda, actual value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10D6"}, "freq": 3600, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10D6"}, "freq": 3600, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018], "from": 2020 },
   "signals": [
     {"id": "LEON_PQ35_INJ_1_RAIL_P_2", "path": "Engine", "fmt": { "len": 16, "max": 1.63, "min": -1.6384, "div": 20000, "sign": true, "unit": "milliseconds" }, "name": "Injector 1 rail pressure calibration point 2"}
   ]},
@@ -984,7 +984,7 @@
   "signals": [
     {"id": "LEON_PQ35_FUEL_P_HIGH_CMD", "path": "Fuel", "fmt": { "len": 16, "max": 3276700, "min": -3276800, "mul": 100, "sign": true, "unit": "unknown" }, "name": "High pressure fuel pressure commanded"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1175"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1175"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "LEON_INTEGRATED_MASS_AIR", "path": "Engine", "fmt": { "len": 16, "max": 23301.6246, "mul": 8889, "div": 25000, "unit": "unknown" }, "name": "Integrated mass of air since engine start"}
   ]},
@@ -1204,7 +1204,7 @@
   "signals": [
     {"id": "LEON_PQ35_MAIN_INJ_START", "path": "Engine", "fmt": { "len": 16, "max": 655.34, "min": -655.36, "div": 50, "sign": true, "unit": "degrees" }, "name": "Main injection start position"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11F3"}, "freq": 1, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11F3"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018], "from": 2020 },
   "signals": [
     {"id": "LEON_PQ35_POST_INJ_2_START", "path": "Engine", "fmt": { "len": 16, "max": 655.34, "min": -655.36, "div": 50, "sign": true, "unit": "degrees" }, "name": "Post-injection 2 start position"}
   ]},
@@ -1592,7 +1592,7 @@
   "signals": [
     {"id": "LEON_INTAKE_AIR_T_IN_INTAKE_MANIFOLD", "path": "Engine", "fmt": { "len": 8, "max": 143.25, "min": -48, "mul": 0.75, "add": -48, "unit": "celsius" }, "name": "Intake air temperature in intake manifold"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "14A1"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14A1"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "LEON_RATED_DRIVE_TQ", "path": "Engine", "fmt": { "len": 32, "max": 214748364, "min": -214748364, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Rated drive torque"}
   ]},
@@ -1620,7 +1620,7 @@
   "signals": [
     {"id": "LEON_PQ35_POST_INJ_2_DURATION", "path": "Engine", "fmt": { "len": 16, "max": 13.1068, "min": -13.1072, "mul": 0.4, "div": 1000, "sign": true, "unit": "milliseconds" }, "name": "Post-injection 2 duration"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CE"}, "freq": 1, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CE"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018], "from": 2020 },
   "signals": [
     {"id": "LEON_PQ35_POST_INJ_3_ACTIVATION_DURATION", "path": "Engine", "fmt": { "len": 16, "max": 13.1068, "min": -13.1072, "mul": 0.4, "div": 1000, "sign": true, "unit": "milliseconds" }, "name": "Post-injection 3 activation duration"}
   ]},
@@ -1704,7 +1704,7 @@
   "signals": [
     {"id": "LEON_OIL_LEVEL_STATIC", "path": "Engine", "fmt": { "len": 16, "max": 262.14, "div": 250, "unit": "millimeters" }, "name": "Oil level, static measured"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "15AA"}, "freq": 0.25, "dbgfilter": { "to": 2011, "from": 2013 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "15AA"}, "freq": 0.25, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016, 2017, 2018], "from": 2020 },
   "signals": [
     {"id": "LEON_PQ35_SELECTED_GEAR", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Selected gear"}
   ]},
@@ -1724,7 +1724,7 @@
   "signals": [
     {"id": "LEON_OIL_P_SENS_PISTON", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Oil pressure sensor-piston cooling nozzle switch, status"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "15C0"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "15C0"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "LEON_IAT_RAW", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Intake air temperature raw value"}
   ]},
@@ -1876,7 +1876,7 @@
   "signals": [
     {"id": "LEON_RAT_EVAPORATED_FUEL_MAX", "path": "Fuel", "fmt": { "len": 8, "max": 1.992, "mul": 83, "div": 10625, "unit": "scalar" }, "name": "Ratio between evaporated fuel mass from engine oil and base fuel mass needed, maximum"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1713"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1713"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "LEON_TOT_MASS_GASOLINE", "path": "Engine", "fmt": { "len": 16, "max": 1398.0581, "mul": 0.021333, "unit": "unknown" }, "name": "Total mass of gasoline and ethyl alcohol in oil"}
   ]},
@@ -2385,7 +2385,7 @@
   "signals": [
     {"id": "LEON_EXH_GAS_T_SENS_1", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Exhaust gas temperature sensor 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2998"}, "freq": 3600, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2998"}, "freq": 3600, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "LEON_MANUAL_ENG_STARTS", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Manual engine starts counter"}
   ]},
@@ -2770,7 +2770,7 @@
   "signals": [
     {"id": "LEON_CHAIN_ELONGATION_INLET", "path": "Engine", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Chain elongation inlet, mileage at last adaptation"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "51D4"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "51D4"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "LEON_CYL_BLOCK_T_SENS", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -3549.9, "div": 10, "add": -273.1, "sign": true, "unit": "celsius" }, "name": "Cylinder block temperature sensor"}
   ]},
@@ -2806,7 +2806,7 @@
   "signals": [
     {"id": "LEON_SERVICE_LIM_7E0", "path": "Engine", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "unknown" }, "name": "Service limit"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "58D1"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "58D1"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "LEON_ENG_OIL_LEVEL", "path": "Engine", "fmt": {"bix": 64, "len": 16, "max": 100, "min": -327.68, "div": 100, "sign": true, "unit": "percent" }, "name": "Engine oil level current value"}
   ]},
