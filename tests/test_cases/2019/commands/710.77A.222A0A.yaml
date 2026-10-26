@@ -7,6 +7,9 @@ test_cases:
     LEON_MQB_BAT_SEN_T: 13
   response: 77A04622A0A35
 - expected_values:
+    LEON_MQB_BAT_SEN_T: 17
+  response: 77A04622A0A39
+- expected_values:
     LEON_MQB_BAT_SEN_T: 28
   response: 77A04622A0A44
 - expected_values:
