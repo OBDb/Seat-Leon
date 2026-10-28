@@ -10,14 +10,23 @@ test_cases:
     LEON_COOLANT_T_MODELED_VALUE_RAW: 117
   response: 7E8046213A075
 - expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 119
+  response: 7E8046213A077
+- expected_values:
     LEON_COOLANT_T_MODELED_VALUE_RAW: 121
   response: 7E8046213A079
 - expected_values:
     LEON_COOLANT_T_MODELED_VALUE_RAW: 124
   response: 7E8046213A07C
 - expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 125
+  response: 7E8046213A07D
+- expected_values:
     LEON_COOLANT_T_MODELED_VALUE_RAW: 130
   response: 7E8046213A082
 - expected_values:
     LEON_COOLANT_T_MODELED_VALUE_RAW: 133
   response: 7E8046213A085
+- expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 137
+  response: 7E8046213A089
