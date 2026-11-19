@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22118A
+test_cases:
+- expected_values:
+    LEON_PQ35_CAMS_EDGE_POS_3: 486.5625
+  response: 7E80562118A2069

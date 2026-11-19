@@ -16,6 +16,9 @@ test_cases:
     LEON_INT_MANIFOLD_P_CMD: 292.10938
   response: 7E8056211DD0E9B
 - expected_values:
+    LEON_INT_MANIFOLD_P_CMD: 719.14062
+  response: 7E8056211DD23F5
+- expected_values:
     LEON_INT_MANIFOLD_P_CMD: 726.95312
   response: 7E8056211DD2459
 - expected_values:

@@ -22,5 +22,8 @@ test_cases:
     LEON_AIR_FILLING: 42.07121
   response: 7E80562121C0703
 - expected_values:
+    LEON_AIR_FILLING: 52.40737
+  response: 7E80562121C08BC
+- expected_values:
     LEON_AIR_FILLING: 100
   response: 7E80562121C1A5B

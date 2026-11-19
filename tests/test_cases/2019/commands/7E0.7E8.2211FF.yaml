@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_EA888B_BOOST_P_CTRL_0: 11.24
   response: 7E8046211FF04
+- expected_values:
+    LEON_EA888B_BOOST_P_CTRL_0: -16.86
+  response: 7E8046211FFFA

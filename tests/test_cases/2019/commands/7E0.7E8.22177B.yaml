@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22177B
+test_cases:
+- expected_values:
+    LEON_LONG_TERM_FUEL_TRIM_PORT: 1.01514
+  response: 7E80562177B81F0
+- expected_values:
+    LEON_LONG_TERM_FUEL_TRIM_PORT: 1.03946
+  response: 7E80562177B850D
+- expected_values:
+    LEON_LONG_TERM_FUEL_TRIM_PORT: 1.03961
+  response: 7E80562177B8512

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_AUTOMATIC_ENG_STARTS: 2345
   response: '7E8056229990929'
+- expected_values:
+    LEON_AUTOMATIC_ENG_STARTS: 16409
+  response: '7E8056229994019'

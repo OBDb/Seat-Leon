@@ -4,6 +4,9 @@ test_cases:
     LEON_VARIABLE_VLV_TIM_INT_1: 0
   response: 7E80562127B0000
 - expected_values:
+    LEON_VARIABLE_VLV_TIM_INT_1: 39.64535
+  response: 7E80562127B32BF
+- expected_values:
     LEON_VARIABLE_VLV_TIM_INT_1: 72.29913
   response: 7E80562127B5C8B
 - expected_values:

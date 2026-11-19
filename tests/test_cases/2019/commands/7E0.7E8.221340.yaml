@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_TQ_INCREASE_REQ_ESP: -50000
   response: 7E807621340FFF85EE0
+- expected_values:
+    LEON_TQ_INCREASE_REQ_ESP: -6553.6
+  response: 7E807621340FFFF0000

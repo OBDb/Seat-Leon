@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2211D4
+test_cases:
+- expected_values:
+    LEON_TURBOCHARGER_INLET_P: 349.84375
+  response: 7E8056211D4117E
+- expected_values:
+    LEON_TURBOCHARGER_INLET_P: 364.60938
+  response: 7E8056211D4123B
+- expected_values:
+    LEON_TURBOCHARGER_INLET_P: 709.6875
+  response: 7E8056211D4237C
+- expected_values:
+    LEON_TURBOCHARGER_INLET_P: 843.04688
+  response: 7E8056211D42A27
+- expected_values:
+    LEON_TURBOCHARGER_INLET_P: 893.4375
+  response: 7E8056211D42CAC
+- expected_values:
+    LEON_TURBOCHARGER_INLET_P: 911.64062
+  response: 7E8056211D42D95

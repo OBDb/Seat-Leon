@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_VLV_LIFT_SYSTEM: 10
   response: 7E8046216BE0A
+- expected_values:
+    LEON_VLV_LIFT_SYSTEM: 15
+  response: 7E8046216BE0F

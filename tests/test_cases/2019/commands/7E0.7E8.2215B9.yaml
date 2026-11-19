@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2215B9
 test_cases:
 - expected_values:
+    LEON_OIL_LEVEL_AVG: 8.816
+  response: 7E8056215B9089C
+- expected_values:
     LEON_OIL_LEVEL_AVG: 13.18
   response: 7E8056215B90CDF
 - expected_values:

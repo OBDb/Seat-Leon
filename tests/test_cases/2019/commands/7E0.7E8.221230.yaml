@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_MAX_OIL_LEVEL: 15.676
   response: 7E8056212300F4F
+- expected_values:
+    LEON_MAX_OIL_LEVEL: 27.712
+  response: 7E8056212301B10

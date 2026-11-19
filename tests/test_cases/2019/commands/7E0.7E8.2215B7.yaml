@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2215B7
 test_cases:
 - expected_values:
+    LEON_ENG_OIL_SUMP_T: 196.1
+  response: 7E8056215B70E3D
+- expected_values:
     LEON_ENG_OIL_SUMP_T: 198.98
   response: 7E8056215B70E4D
 - expected_values:

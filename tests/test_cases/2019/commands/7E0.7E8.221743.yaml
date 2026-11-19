@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     LEON_INTEGRATED_MASS_AIR_SINCE: 2321.8068
   response: '7E8056217431982'
+- expected_values:
+    LEON_INTEGRATED_MASS_AIR_SINCE: 13995.55272
+  response: 7E80562174399C2

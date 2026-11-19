@@ -19,6 +19,9 @@ test_cases:
     LEON_CAM_ADJ_INT_BANK_1_ACT: -23.352
   response: 7E80562136EF499
 - expected_values:
+    LEON_CAM_ADJ_INT_BANK_1_ACT: -11.512
+  response: 7E80562136EFA61
+- expected_values:
     LEON_CAM_ADJ_INT_BANK_1_ACT: -10.44
   response: 7E80562136EFAE7
 - expected_values:

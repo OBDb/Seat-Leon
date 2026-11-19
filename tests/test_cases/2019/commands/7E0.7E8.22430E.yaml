@@ -4,6 +4,9 @@ test_cases:
     LEON_NUM_INJECTIONS: 0
   response: 7E80562430E0000
 - expected_values:
+    LEON_NUM_INJECTIONS: 3101
+  response: 7E80562430E0C1D
+- expected_values:
     LEON_NUM_INJECTIONS: 35506
   response: 7E80562430E8AB2
 - expected_values:

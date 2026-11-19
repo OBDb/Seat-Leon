@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2239A6
+test_cases:
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ADPT_HI: 690
+  response: 7E8056239A60D7A
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ADPT_HI: 706.8
+  response: 7E8056239A60DCE
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ADPT_HI: 728
+  response: 7E8056239A60E38
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ADPT_HI: 734.2
+  response: 7E8056239A60E57

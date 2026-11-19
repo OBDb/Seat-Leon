@@ -4,6 +4,9 @@ test_cases:
     LEON_THROTTLE_REGULATOR: 11.17188
   response: 7E8056216C50596
 - expected_values:
+    LEON_THROTTLE_REGULATOR: 15.0625
+  response: 7E8056216C50788
+- expected_values:
     LEON_THROTTLE_REGULATOR: 23.95312
   response: 7E8056216C50BFA
 - expected_values:

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221065
+test_cases:
+- expected_values:
+    LEON_CYL_HEAD_T: 178.46
+  response: 7E8056210650DDB
+- expected_values:
+    LEON_CYL_HEAD_T: 195.02
+  response: 7E8056210650E37
+- expected_values:
+    LEON_CYL_HEAD_T: 196.1
+  response: 7E8056210650E3D
+- expected_values:
+    LEON_CYL_HEAD_T: 198.98
+  response: 7E8056210650E4D
+- expected_values:
+    LEON_CYL_HEAD_T: 200.42
+  response: 7E8056210650E55

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221110
+test_cases:
+- expected_values:
+    LEON_PQ35_WORKING_HOURS: 3478.94935
+  response: '7E90762111043385325'
+- expected_values:
+    LEON_PQ35_WORKING_HOURS: 3478.88465
+  response: 7E907621110C50A5325

@@ -1,6 +1,9 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
+    LEON_OUTSIDE_T_SYSTEM: 6.5
+  response: 7B00462260A0D
+- expected_values:
     LEON_OUTSIDE_T_SYSTEM: 14.5
   response: 7B00462260A1D
 - expected_values:

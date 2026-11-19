@@ -19,6 +19,9 @@ test_cases:
     LEON_BOOST_P_ACT: 98.25781
   response: 7E8056211F03121
 - expected_values:
+    LEON_BOOST_P_ACT: 101.22656
+  response: 7E8056211F0329D
+- expected_values:
     LEON_BOOST_P_ACT: 106.92969
   response: 7E8056211F03577
 - expected_values:

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221780
+test_cases:
+- expected_values:
+    LEON_LONG_TERM_FUEL_TRIM_IDLE_PORT_INJ: 0.84375
+  response: '7E8056217800012'
+- expected_values:
+    LEON_LONG_TERM_FUEL_TRIM_IDLE_PORT_INJ: 3
+  response: '7E8056217800040'

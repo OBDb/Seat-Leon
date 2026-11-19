@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2215E7
+test_cases:
+- expected_values:
+    LEON_EFFECTIVE_INJ_DUR: 2.829
+  response: 7E8076215E700000B0D
+- expected_values:
+    LEON_EFFECTIVE_INJ_DUR: 2.958
+  response: 7E8076215E700000B8E
+- expected_values:
+    LEON_EFFECTIVE_INJ_DUR: 3.847
+  response: 7E8076215E700000F07
+- expected_values:
+    LEON_EFFECTIVE_INJ_DUR: 4.347
+  response: 7E8076215E7000010FB
+- expected_values:
+    LEON_EFFECTIVE_INJ_DUR: 6.938
+  response: 7E8076215E700001B1A
+- expected_values:
+    LEON_EFFECTIVE_INJ_DUR: 7.334
+  response: 7E8076215E700001CA6

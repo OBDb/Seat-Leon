@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_CLIMATE_FR_R_T_FLP_ACT_VALUE: 16.5
   response: 7B006622626003E21
+- expected_values:
+    LEON_CLIMATE_FR_R_T_FLP_ACT_VALUE: 25
+  response: 7B006622626004E32

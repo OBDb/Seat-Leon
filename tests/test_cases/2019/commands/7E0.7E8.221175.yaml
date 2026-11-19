@@ -7,6 +7,9 @@ test_cases:
     LEON_INTEGRATED_MASS_AIR: 561.07368
   response: 7E805621175062A
 - expected_values:
+    LEON_INTEGRATED_MASS_AIR: 1224.19308
+  response: 7E8056211750D73
+- expected_values:
     LEON_INTEGRATED_MASS_AIR: 1393.7952
   response: 7E8056211750F50
 - expected_values:

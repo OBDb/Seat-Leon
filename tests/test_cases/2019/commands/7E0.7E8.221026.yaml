@@ -16,6 +16,9 @@ test_cases:
     LEON_MQB_MAF_1_B1_RAW: 142.7
   response: '7E8056210260593'
 - expected_values:
+    LEON_MQB_MAF_1_B1_RAW: 312.6
+  response: 7E8056210260C36
+- expected_values:
     LEON_MQB_MAF_1_B1_RAW: 330.2
   response: 7E8056210260CE6
 - expected_values:

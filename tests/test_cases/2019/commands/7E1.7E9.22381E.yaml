@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22381E
+test_cases:
+- expected_values:
+    LEON_MQB_TCM_EOP_ACTUAL_I: 966
+  response: 7E90562381EBC25
+- expected_values:
+    LEON_MQB_TCM_EOP_ACTUAL_I: 941
+  response: 7E90562381EC224

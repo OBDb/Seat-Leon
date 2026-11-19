@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2211AB
+test_cases:
+- expected_values:
+    LEON_INT_MODEL_AIR_MASS: 12.6
+  response: 7E8056211AB007E
+- expected_values:
+    LEON_INT_MODEL_AIR_MASS: 15.1
+  response: 7E8056211AB0097
+- expected_values:
+    LEON_INT_MODEL_AIR_MASS: 46
+  response: 7E8056211AB01CC
+- expected_values:
+    LEON_INT_MODEL_AIR_MASS: 49.7
+  response: 7E8056211AB01F1
+- expected_values:
+    LEON_INT_MODEL_AIR_MASS: 62.1
+  response: 7E8056211AB026D
+- expected_values:
+    LEON_INT_MODEL_AIR_MASS: 94.4
+  response: 7E8056211AB03B0
