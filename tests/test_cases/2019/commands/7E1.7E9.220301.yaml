@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.220301
 test_cases:
 - expected_values:
+    LEON_CTRL_MODULE_T: -17
+  response: 7E905620301171E
+- expected_values:
     LEON_CTRL_MODULE_T: null
   response: 7E905620301FFFF
