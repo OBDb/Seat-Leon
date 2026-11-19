@@ -22,5 +22,8 @@ test_cases:
     LEON_MAF_CMD: 51.8
   response: 7E8056211AD0206
 - expected_values:
+    LEON_MAF_CMD: 61.3
+  response: 7E8056211AD0265
+- expected_values:
     LEON_MAF_CMD: 73.4
   response: 7E8056211AD02DE

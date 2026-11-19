@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2239FF
+test_cases:
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_TURBINE_INLET: 0
+  response: 7E8056239FF0000
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_TURBINE_INLET: -14.54
+  response: 7E8056239FFFA52
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_TURBINE_INLET: -14.49
+  response: 7E8056239FFFA57
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_TURBINE_INLET: -14.48
+  response: 7E8056239FFFA58
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_TURBINE_INLET: -14.47
+  response: 7E8056239FFFA59
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_TURBINE_INLET: -14.46
+  response: 7E8056239FFFA5A

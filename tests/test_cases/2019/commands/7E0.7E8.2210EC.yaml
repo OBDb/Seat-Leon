@@ -16,6 +16,9 @@ test_cases:
     LEON_VLV_TIM_DIFF_ACT_SET: -4.60938
   response: 7E8056210ECFED9
 - expected_values:
+    LEON_VLV_TIM_DIFF_ACT_SET: -2.03125
+  response: 7E8056210ECFF7E
+- expected_values:
     LEON_VLV_TIM_DIFF_ACT_SET: -0.5625
   response: 7E8056210ECFFDC
 - expected_values:

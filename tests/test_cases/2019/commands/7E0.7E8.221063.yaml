@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221063
+test_cases:
+- expected_values:
+    LEON_ENG_OUTLET_ECT_CALC: 81.1
+  response: 7E8056210630DD6
+- expected_values:
+    LEON_ENG_OUTLET_ECT_CALC: 81.6
+  response: 7E8056210630DDB
+- expected_values:
+    LEON_ENG_OUTLET_ECT_CALC: 90.8
+  response: 7E8056210630E37
+- expected_values:
+    LEON_ENG_OUTLET_ECT_CALC: 90.9
+  response: 7E8056210630E38
+- expected_values:
+    LEON_ENG_OUTLET_ECT_CALC: 91.7
+  response: 7E8056210630E40
+- expected_values:
+    LEON_ENG_OUTLET_ECT_CALC: 91.8
+  response: 7E8056210630E41
+- expected_values:
+    LEON_ENG_OUTLET_ECT_CALC: 93.1
+  response: 7E8056210630E4E

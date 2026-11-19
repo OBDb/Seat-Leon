@@ -4,5 +4,8 @@ test_cases:
     LEON_CLIMATE_LEG_DEFL_T: 20.66667
   response: 7B0046226113E
 - expected_values:
+    LEON_CLIMATE_LEG_DEFL_T: 24.33333
+  response: 7B00462261149
+- expected_values:
     LEON_CLIMATE_LEG_DEFL_T: 27.66667
   response: 7B00462261153

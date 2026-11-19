@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22180A
+test_cases:
+- expected_values:
+    LEON_FUEL_RATE_DIFF_INJ: 0.23437
+  response: 7E80562180A003C
+- expected_values:
+    LEON_FUEL_RATE_DIFF_INJ: 0.25781
+  response: 7E80562180A0042
+- expected_values:
+    LEON_FUEL_RATE_DIFF_INJ: 0.27734
+  response: 7E80562180A0047
+- expected_values:
+    LEON_FUEL_RATE_DIFF_INJ: 0.36718
+  response: 7E80562180A005E
+- expected_values:
+    LEON_FUEL_RATE_DIFF_INJ: 0.43749
+  response: 7E80562180A0070
+- expected_values:
+    LEON_FUEL_RATE_DIFF_INJ: 0.44531
+  response: 7E80562180A0072

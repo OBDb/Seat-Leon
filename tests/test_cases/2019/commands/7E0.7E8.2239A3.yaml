@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2239A3
+test_cases:
+- expected_values:
+    LEON_CHG_P_ACTUATOR_SPEC: 122.88
+  response: 7E8056239A33000

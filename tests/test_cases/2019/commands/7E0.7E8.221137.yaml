@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221137
+test_cases:
+- expected_values:
+    LEON_FUEL_PART_EVAP: 0
+  response: '7E80462113700'
+- expected_values:
+    LEON_FUEL_PART_EVAP: 0.01562
+  response: '7E80462113702'
+- expected_values:
+    LEON_FUEL_PART_EVAP: 0.03905
+  response: '7E80462113705'
+- expected_values:
+    LEON_FUEL_PART_EVAP: -0.00781
+  response: 7E804621137FF

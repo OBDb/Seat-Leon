@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2215CD
 test_cases:
 - expected_values:
+    LEON_ECT_RADIATOR_OUTLET_V_1: 16
+  response: 7E8056215CD0B4B
+- expected_values:
     LEON_ECT_RADIATOR_OUTLET_V_1: 27.8
   response: 7E8056215CD0BC1
 - expected_values:

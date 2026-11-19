@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.224417
+test_cases:
+- expected_values:
+    LEON_THERMOSTAT_CMD: 28.83293
+  response: 7E805624417093A
+- expected_values:
+    LEON_THERMOSTAT_CMD: 30.30998
+  response: 7E80562441709B3
+- expected_values:
+    LEON_THERMOSTAT_CMD: 30.90812
+  response: 7E80562441709E4
+- expected_values:
+    LEON_THERMOSTAT_CMD: 45.43445
+  response: 7E8056244170E8A

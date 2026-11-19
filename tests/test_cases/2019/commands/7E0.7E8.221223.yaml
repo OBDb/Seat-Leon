@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_TQ_LOSS_ADPT_AC_COMP_7E0: -6.2
   response: 7E805621223FFC2
+- expected_values:
+    LEON_TQ_LOSS_ADPT_AC_COMP_7E0: -5.3
+  response: 7E805621223FFCB

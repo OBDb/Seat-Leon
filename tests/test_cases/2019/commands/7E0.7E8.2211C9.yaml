@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211C9
+test_cases:
+- expected_values:
+    LEON_FUEL_PMP_ADPT: 44.8
+  response: 7E8056211C901C0
+- expected_values:
+    LEON_FUEL_PMP_ADPT: 45.8
+  response: 7E8056211C901CA
+- expected_values:
+    LEON_FUEL_PMP_ADPT: 45.9
+  response: 7E8056211C901CB
+- expected_values:
+    LEON_FUEL_PMP_ADPT: 48
+  response: 7E8056211C901E0

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221151
 test_cases:
 - expected_values:
+    LEON_MISFIRES__CYL__4: 10429
+  response: 7E80562115128BD
+- expected_values:
     LEON_MISFIRES__CYL__4: 24466
   response: 7E8056211515F92
 - expected_values:

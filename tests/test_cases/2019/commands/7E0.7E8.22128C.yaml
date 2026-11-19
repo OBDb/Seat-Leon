@@ -25,5 +25,8 @@ test_cases:
     LEON_AVG_INJ_TIME: 0.4276
   response: 7E80762128C0000042D
 - expected_values:
+    LEON_AVG_INJ_TIME: 0.4664
+  response: 7E80762128C0000048E
+- expected_values:
     LEON_AVG_INJ_TIME: 0.896
   response: 7E80762128C000008C0

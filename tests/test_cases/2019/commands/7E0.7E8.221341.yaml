@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221341
 test_cases:
 - expected_values:
+    LEON_PQ35_CAMS_END: 0
+  response: '7E8056213410000'
+- expected_values:
     LEON_PQ35_CAMS_END: 17.8
   response: '7E8056213410059'
 - expected_values:

@@ -1,6 +1,9 @@
 command_id: 746.7B0.222605|fc=1
 test_cases:
 - expected_values:
+    LEON_CLIMATE_REFRIG_P: 6.4
+  response: 7B00462260520
+- expected_values:
     LEON_CLIMATE_REFRIG_P: 6.6
   response: 7B00462260521
 - expected_values:

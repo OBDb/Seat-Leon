@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2239FB
+test_cases:
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_TGT: 99.98779
+  response: 7E8056239FB1FFF

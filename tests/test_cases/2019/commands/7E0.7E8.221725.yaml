@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     LEON_EARLY_IGN_CNT_CYL_2: 0
   response: '7E8056217250000'
+- expected_values:
+    LEON_EARLY_IGN_CNT_CYL_2: 21
+  response: '7E8056217250015'

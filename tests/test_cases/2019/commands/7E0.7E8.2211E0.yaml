@@ -7,6 +7,9 @@ test_cases:
     LEON_CMD_CRANK_TQ: 24.4
   response: 7E8056211E000F4
 - expected_values:
+    LEON_CMD_CRANK_TQ: 53.6
+  response: 7E8056211E00218
+- expected_values:
     LEON_CMD_CRANK_TQ: 65.4
   response: 7E8056211E0028E
 - expected_values:

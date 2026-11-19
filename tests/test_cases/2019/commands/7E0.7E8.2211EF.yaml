@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2211EF
+test_cases:
+- expected_values:
+    LEON_P_BEFORE_THROTTLE: 987.81214
+  response: 7E8056211EF62C8
+- expected_values:
+    LEON_P_BEFORE_THROTTLE: 991.17151
+  response: 7E8056211EF631E
+- expected_values:
+    LEON_P_BEFORE_THROTTLE: 994.21839
+  response: 7E8056211EF636C
+- expected_values:
+    LEON_P_BEFORE_THROTTLE: 1052.73399
+  response: 7E8056211EF6946
+- expected_values:
+    LEON_P_BEFORE_THROTTLE: 1086.48398
+  response: 7E8056211EF6CA6
+- expected_values:
+    LEON_P_BEFORE_THROTTLE: 1132.81209
+  response: 7E8056211EF7148

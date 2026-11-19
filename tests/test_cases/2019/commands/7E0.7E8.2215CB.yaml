@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2215CB
+test_cases:
+- expected_values:
+    LEON_RESULT_CRANKCASE: 8
+  response: 7E8056215CB0008
+- expected_values:
+    LEON_RESULT_CRANKCASE: 11
+  response: 7E8056215CB000B

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2239FC
+test_cases:
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_ACT: 83.91113
+  response: 7E8056239FC1ADA
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_ACT: 98.76709
+  response: 7E8056239FC1F9B
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_ACT: 98.9502
+  response: 7E8056239FC1FAA
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_ACT: 99.38965
+  response: 7E8056239FC1FCE
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_ACT: 99.70703
+  response: 7E8056239FC1FE8
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_ACT: 100
+  response: 7E8056239FC2035

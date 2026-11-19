@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEON_GEN_CURRENT: 39.7
   response: 77A05622A1C0133
+- expected_values:
+    LEON_GEN_CURRENT: 59.5
+  response: 77A05622A1C01F9

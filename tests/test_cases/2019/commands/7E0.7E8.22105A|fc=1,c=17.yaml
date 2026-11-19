@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22105A|fc=1,c=17
+test_cases:
+- expected_values:
+    LEON_BATTERY_V: 14440
+  response: 7E80562105A02D2
+- expected_values:
+    LEON_BATTERY_V: 14500
+  response: 7E80562105A02D5
+- expected_values:
+    LEON_BATTERY_V: 14540
+  response: 7E80562105A02D7

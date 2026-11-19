@@ -1,0 +1,6 @@
+command_id: 7E1.7E9.221118
+test_cases:
+- expected_values:
+    LEON_PQ35_CLUTCH_1_MAXIMUM_T: 357
+    LEON_PQ35_CLUTCH_2_MAXIMUM_T: 226
+  response: 7E9076211186501E200

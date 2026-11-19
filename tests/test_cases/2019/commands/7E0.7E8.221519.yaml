@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221519
+test_cases:
+- expected_values:
+    LEON_FUEL_CONS_ACT_DRIVE: 0.42
+  response: 7E805621519002A
+- expected_values:
+    LEON_FUEL_CONS_ACT_DRIVE: 1.15
+  response: '7E8056215190073'
+- expected_values:
+    LEON_FUEL_CONS_ACT_DRIVE: 1.18
+  response: '7E8056215190076'
+- expected_values:
+    LEON_FUEL_CONS_ACT_DRIVE: 1.2
+  response: '7E8056215190078'
+- expected_values:
+    LEON_FUEL_CONS_ACT_DRIVE: 1.32
+  response: '7E8056215190084'
+- expected_values:
+    LEON_FUEL_CONS_ACT_DRIVE: 1.37
+  response: '7E8056215190089'

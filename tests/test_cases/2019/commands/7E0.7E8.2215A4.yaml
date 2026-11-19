@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2215A4
 test_cases:
 - expected_values:
+    LEON_OIL_LEVEL_STATIC: 0
+  response: 7E8056215A40000
+- expected_values:
     LEON_OIL_LEVEL_STATIC: 76.516
   response: 7E8056215A44AB9

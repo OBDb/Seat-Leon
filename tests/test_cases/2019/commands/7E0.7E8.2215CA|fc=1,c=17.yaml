@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2215CA|fc=1,c=17
+test_cases:
+- expected_values:
+    LEON_GENERATOR_LOAD_NORMALIZED_VALUE: 29
+  response: 7E8056215CA0B54
+- expected_values:
+    LEON_GENERATOR_LOAD_NORMALIZED_VALUE: 32.21
+  response: 7E8056215CA0C95
+- expected_values:
+    LEON_GENERATOR_LOAD_NORMALIZED_VALUE: 45.1
+  response: 7E8056215CA119E

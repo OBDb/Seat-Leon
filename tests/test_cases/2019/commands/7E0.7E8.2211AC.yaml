@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     LEON_MAF_THROUGH_THROTTLE: 40.3
   response: 7E8056211AC0193
+- expected_values:
+    LEON_MAF_THROUGH_THROTTLE: 60.2
+  response: 7E8056211AC025A

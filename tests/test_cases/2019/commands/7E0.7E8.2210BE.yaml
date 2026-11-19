@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     LEON_REQ_TQ_AMOUNT: 6
   response: 7E8056210BE003C
+- expected_values:
+    LEON_REQ_TQ_AMOUNT: 8.1
+  response: 7E8056210BE0051

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221385
+test_cases:
+- expected_values:
+    LEON_CAM_POS_DEV_BASE_POS: -0.04395
+  response: 7E805621385FFFE

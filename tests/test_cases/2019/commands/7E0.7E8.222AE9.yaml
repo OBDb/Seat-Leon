@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.222AE9
+test_cases:
+- expected_values:
+    LEON_EXH_GAS_T_CALC_AFTER: 339.806
+  response: 7E805622AE96626
+- expected_values:
+    LEON_EXH_GAS_T_CALC_AFTER: 365.40248
+  response: 7E805622AE96A6A
+- expected_values:
+    LEON_EXH_GAS_T_CALC_AFTER: 374.21592
+  response: 7E805622AE96BE2
+- expected_values:
+    LEON_EXH_GAS_T_CALC_AFTER: 399.32016
+  response: 7E805622AE97011
+- expected_values:
+    LEON_EXH_GAS_T_CALC_AFTER: 514.83248
+  response: 7E805622AE98351
+- expected_values:
+    LEON_EXH_GAS_T_CALC_AFTER: 534.33456
+  response: 7E805622AE98691

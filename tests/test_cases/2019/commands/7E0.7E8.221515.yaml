@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221515
+test_cases:
+- expected_values:
+    LEON_CAT_T_CALC: 330
+  response: 7E8046215154C
+- expected_values:
+    LEON_CAT_T_CALC: 350
+  response: '7E80462151550'
+- expected_values:
+    LEON_CAT_T_CALC: 395
+  response: '7E80462151559'
+- expected_values:
+    LEON_CAT_T_CALC: 400
+  response: 7E8046215155A
+- expected_values:
+    LEON_CAT_T_CALC: 515
+  response: '7E80462151571'
+- expected_values:
+    LEON_CAT_T_CALC: 545
+  response: '7E80462151577'
