@@ -7,6 +7,9 @@ test_cases:
     LEON_BYPASS_VLV_HIGH_P: 0.50049
   response: 7E8056239FD0029
 - expected_values:
+    LEON_BYPASS_VLV_HIGH_P: 1.01318
+  response: 7E8056239FD0053
+- expected_values:
     LEON_BYPASS_VLV_HIGH_P: -1.06201
   response: 7E8056239FDFFA9
 - expected_values:

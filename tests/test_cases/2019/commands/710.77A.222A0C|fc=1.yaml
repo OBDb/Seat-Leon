@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     LEON_BAT_SOC: 75
   response: 77A04622A0C4B
+- expected_values:
+    LEON_BAT_SOC: 77
+  response: 77A04622A0C4D

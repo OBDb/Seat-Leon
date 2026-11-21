@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2214F8
 test_cases:
 - expected_values:
+    LEON_AAT_V1: 28.88
+  response: 7E8056214F80A9C
+- expected_values:
     LEON_AAT_V1: 42.38
   response: 7E8056214F80AE7
 - expected_values:

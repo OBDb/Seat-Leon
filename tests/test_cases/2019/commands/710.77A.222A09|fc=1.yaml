@@ -1,6 +1,15 @@
 command_id: 710.77A.222A09|fc=1
 test_cases:
 - expected_values:
+    LEON_BAT_I: 0.825
+  response: 77A07622A0900000339
+- expected_values:
+    LEON_BAT_I: 0.857
+  response: 77A07622A0900000359
+- expected_values:
+    LEON_BAT_I: 0.918
+  response: 77A07622A0900000396
+- expected_values:
     LEON_BAT_I: 1.014
   response: 77A07622A09000003F6
 - expected_values:

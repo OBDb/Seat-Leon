@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     LEON_BATTERY_V: 14540
   response: 7E80562105A02D7
+- expected_values:
+    LEON_BATTERY_V: 14620
+  response: 7E80562105A02DB
+- expected_values:
+    LEON_BATTERY_V: 14640
+  response: 7E80562105A02DC

@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22180A
 test_cases:
 - expected_values:
+    LEON_FUEL_RATE_DIFF_INJ: 0
+  response: 7E80562180A0000
+- expected_values:
+    LEON_FUEL_RATE_DIFF_INJ: 0.15234
+  response: 7E80562180A0027
+- expected_values:
     LEON_FUEL_RATE_DIFF_INJ: 0.23437
   response: 7E80562180A003C
 - expected_values:

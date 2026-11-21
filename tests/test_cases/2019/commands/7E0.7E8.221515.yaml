@@ -4,6 +4,12 @@ test_cases:
     LEON_CAT_T_CALC: 330
   response: 7E8046215154C
 - expected_values:
+    LEON_CAT_T_CALC: 335
+  response: 7E8046215154D
+- expected_values:
+    LEON_CAT_T_CALC: 340
+  response: 7E8046215154E
+- expected_values:
     LEON_CAT_T_CALC: 350
   response: '7E80462151550'
 - expected_values:

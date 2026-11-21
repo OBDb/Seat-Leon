@@ -4,6 +4,9 @@ test_cases:
     LEON_CLR_DIST: 907
   response: 7E80562F431038B
 - expected_values:
+    LEON_CLR_DIST: 934
+  response: 7E80562F43103A6
+- expected_values:
     LEON_CLR_DIST: 5265
   response: 7E80562F4311491
 - expected_values:

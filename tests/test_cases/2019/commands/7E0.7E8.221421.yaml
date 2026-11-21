@@ -1,17 +1,11 @@
 command_id: 7E0.7E8.221421
 test_cases:
 - expected_values:
+    LEON_EXH_T_BEFORE_CAT: 357.5
+  response: 7E80562142118A2
+- expected_values:
     LEON_EXH_T_BEFORE_CAT: 390.5
   response: 7E80562142119EC
-- expected_values:
-    LEON_EXH_T_BEFORE_CAT: 452.5
-  response: 7E8056214211C58
-- expected_values:
-    LEON_EXH_T_BEFORE_CAT: 465.2
-  response: 7E8056214211CD7
-- expected_values:
-    LEON_EXH_T_BEFORE_CAT: 501.3
-  response: 7E8056214211E40
 - expected_values:
     LEON_EXH_T_BEFORE_CAT: 549.7
   response: '7E8056214212024'

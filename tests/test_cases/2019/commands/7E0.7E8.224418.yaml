@@ -12,3 +12,15 @@ test_cases:
 - expected_values:
     LEON_THERMOSTAT_ACT: 45.97156
   response: 7E8056244180EB6
+- expected_values:
+    LEON_THERMOSTAT_ACT: 48.20544
+  response: 7E8056244180F6D
+- expected_values:
+    LEON_THERMOSTAT_ACT: 48.22986
+  response: 7E8056244180F6F
+- expected_values:
+    LEON_THERMOSTAT_ACT: 60.64438
+  response: '7E8056244181368'
+- expected_values:
+    LEON_THERMOSTAT_ACT: 61.69418
+  response: 7E80562441813BE

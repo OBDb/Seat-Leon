@@ -12,3 +12,18 @@ test_cases:
 - expected_values:
     LEON_FUEL_PMP_ADPT: 48
   response: 7E8056211C901E0
+- expected_values:
+    LEON_FUEL_PMP_ADPT: 50.8
+  response: 7E8056211C901FC
+- expected_values:
+    LEON_FUEL_PMP_ADPT: 52
+  response: 7E8056211C90208
+- expected_values:
+    LEON_FUEL_PMP_ADPT: 53.4
+  response: 7E8056211C90216
+- expected_values:
+    LEON_FUEL_PMP_ADPT: 54
+  response: 7E8056211C9021C
+- expected_values:
+    LEON_FUEL_PMP_ADPT: 54.4
+  response: 7E8056211C90220

@@ -27,3 +27,12 @@ test_cases:
   response: |-
     77D100C62180CBC018C
     77D21018C00B200B2AA
+- expected_values:
+    LEON_EDL_ACTIVE: 0
+    LEON_EDL_FR_L_BRAKE_T: -1.5
+    LEON_EDL_FR_R_BRAKE_T: -1.5
+    LEON_EDL_RR_L_BRAKE_T: -1.5
+    LEON_EDL_RR_R_BRAKE_T: -1.5
+  response: |-
+    77D100C62180CBDFFFD
+    77D21FFFDFFFDFFFDAA

@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22177E
 test_cases:
 - expected_values:
+    LEON_LONG_TERM_FUEL_TRIM_IDLE: -0.70312
+  response: 7E80562177EFFF1
+- expected_values:
     LEON_LONG_TERM_FUEL_TRIM_IDLE: -0.375
   response: 7E80562177EFFF8
