@@ -7,6 +7,9 @@ test_cases:
     LEON_BYPASS_VLV_HIGH_P_TURBINE: 1.06201
   response: 7E8056239FE0057
 - expected_values:
+    LEON_BYPASS_VLV_HIGH_P_TURBINE: -1.01318
+  response: 7E8056239FEFFAD
+- expected_values:
     LEON_BYPASS_VLV_HIGH_P_TURBINE: -0.50049
   response: 7E8056239FEFFD7
 - expected_values:

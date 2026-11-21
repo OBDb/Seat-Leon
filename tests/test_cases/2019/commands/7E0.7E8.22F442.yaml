@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     LEON_VPWR: 14.63
   response: 7E80562F4423926
+- expected_values:
+    LEON_VPWR: 14.68
+  response: 7E80562F4423958

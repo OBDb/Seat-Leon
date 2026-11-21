@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LEON_GENERATOR_LOAD_NORMALIZED_VALUE: 45.1
   response: 7E8056215CA119E
+- expected_values:
+    LEON_GENERATOR_LOAD_NORMALIZED_VALUE: 57.98
+  response: 7E8056215CA16A6

@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22149E|fc=1,c=17
 test_cases:
 - expected_values:
+    LEON_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 6
+  response: 7E80462149E48
+- expected_values:
+    LEON_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 7.5
+  response: 7E80462149E4A
+- expected_values:
     LEON_INTAKE_AIR_T_IN_INTAKE_MANIFOLD: 12.75
   response: 7E80462149E51
 - expected_values:

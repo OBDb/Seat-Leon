@@ -10,5 +10,11 @@ test_cases:
     LEON_FUEL_PART_EVAP: 0.03905
   response: '7E80462113705'
 - expected_values:
+    LEON_FUEL_PART_EVAP: -0.03905
+  response: 7E804621137FB
+- expected_values:
+    LEON_FUEL_PART_EVAP: -0.03124
+  response: 7E804621137FC
+- expected_values:
     LEON_FUEL_PART_EVAP: -0.00781
   response: 7E804621137FF

@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     LEON_BRAKE_BOOSTER_LOW_P_ACT: 735.98598
   response: '7E8056214904999'
+- expected_values:
+    LEON_BRAKE_BOOSTER_LOW_P_ACT: 968.99678
+  response: 7E80562149060E6

@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     LEON_MQB_TCM_EOP_ACTUAL_I: 941
   response: 7E90562381EC224
+- expected_values:
+    LEON_MQB_TCM_EOP_ACTUAL_I: 1200
+  response: 7E90562381EE02E
+- expected_values:
+    LEON_MQB_TCM_EOP_ACTUAL_I: 970
+  response: 7E90562381EE425

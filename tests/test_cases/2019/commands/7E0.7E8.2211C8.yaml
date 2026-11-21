@@ -1,8 +1,20 @@
 command_id: 7E0.7E8.2211C8
 test_cases:
 - expected_values:
+    LEON_LOW_FUEL_P_ACT: 499.9
+  response: 7E8056211C81387
+- expected_values:
+    LEON_LOW_FUEL_P_ACT: 500.7
+  response: 7E8056211C8138F
+- expected_values:
+    LEON_LOW_FUEL_P_ACT: 501.3
+  response: 7E8056211C81395
+- expected_values:
     LEON_LOW_FUEL_P_ACT: 501.4
   response: 7E8056211C81396
+- expected_values:
+    LEON_LOW_FUEL_P_ACT: 502.8
+  response: 7E8056211C813A4
 - expected_values:
     LEON_LOW_FUEL_P_ACT: 600.4
   response: 7E8056211C81774

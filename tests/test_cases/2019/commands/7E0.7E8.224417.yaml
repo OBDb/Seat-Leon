@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     LEON_THERMOSTAT_CMD: 45.43445
   response: 7E8056244170E8A
+- expected_values:
+    LEON_THERMOSTAT_CMD: 47.75378
+  response: 7E8056244170F48
+- expected_values:
+    LEON_THERMOSTAT_CMD: 48.04675
+  response: 7E8056244170F60
+- expected_values:
+    LEON_THERMOSTAT_CMD: 61.95052
+  response: 7E80562441713D3

@@ -4,6 +4,12 @@ test_cases:
     LEON_CRANKSHAFT_VSS: 801.5
   response: 7E8056216F30643
 - expected_values:
+    LEON_CRANKSHAFT_VSS: 805
+  response: 7E8056216F3064A
+- expected_values:
+    LEON_CRANKSHAFT_VSS: 1086
+  response: 7E8056216F3087C
+- expected_values:
     LEON_CRANKSHAFT_VSS: 1545.5
   response: 7E8056216F30C13
 - expected_values:

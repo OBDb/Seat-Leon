@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     LEON_CHG_P_ACTUATOR_ADPT_HI: 734.2
   response: 7E8056239A60E57
+- expected_values:
+    LEON_CHG_P_ACTUATOR_ADPT_HI: 748.8
+  response: 7E8056239A60EA0

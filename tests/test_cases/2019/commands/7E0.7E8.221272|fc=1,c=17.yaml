@@ -1,11 +1,17 @@
 command_id: 7E0.7E8.221272|fc=1,c=17
 test_cases:
 - expected_values:
+    LEON_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 337.1
+  response: 7E80562127217D6
+- expected_values:
     LEON_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 386.3
   response: 7E80562127219C2
 - expected_values:
     LEON_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 394.2
   response: 7E8056212721A11
+- expected_values:
+    LEON_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 409.4
+  response: 7E8056212721AA9
 - expected_values:
     LEON_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: 506.6
   response: 7E8056212721E75

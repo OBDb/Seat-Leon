@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     LEON_AMBIENT_AIR_P: 988.299
   response: 7E80562150962FD
+- expected_values:
+    LEON_AMBIENT_AIR_P: 1012.362
+  response: '7E8056215096566'
+- expected_values:
+    LEON_AMBIENT_AIR_P: 1012.557
+  response: 7E805621509656B

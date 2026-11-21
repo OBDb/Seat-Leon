@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2239FC
 test_cases:
 - expected_values:
+    LEON_BYPASS_VLV_HIGH_P_ACT: 72.19238
+  response: 7E8056239FC171A
+- expected_values:
     LEON_BYPASS_VLV_HIGH_P_ACT: 83.91113
   response: 7E8056239FC1ADA
+- expected_values:
+    LEON_BYPASS_VLV_HIGH_P_ACT: 98.74268
+  response: 7E8056239FC1F99
 - expected_values:
     LEON_BYPASS_VLV_HIGH_P_ACT: 98.76709
   response: 7E8056239FC1F9B

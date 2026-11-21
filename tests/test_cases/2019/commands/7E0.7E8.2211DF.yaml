@@ -1,11 +1,17 @@
 command_id: 7E0.7E8.2211DF
 test_cases:
 - expected_values:
+    LEON_POWERTRAIN_OVERALL: 1
+  response: 7E8056211DF0064
+- expected_values:
     LEON_POWERTRAIN_OVERALL: 2
   response: 7E8056211DF00C8
 - expected_values:
     LEON_POWERTRAIN_OVERALL: 2.9
   response: 7E8056211DF0122
+- expected_values:
+    LEON_POWERTRAIN_OVERALL: 5.5
+  response: 7E8056211DF0226
 - expected_values:
     LEON_POWERTRAIN_OVERALL: 14.2
   response: 7E8056211DF058C

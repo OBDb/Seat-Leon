@@ -4,5 +4,8 @@ test_cases:
     LEON_WARM_UPS: 38
   response: 7E80462F43026
 - expected_values:
+    LEON_WARM_UPS: 39
+  response: 7E80462F43027
+- expected_values:
     LEON_WARM_UPS: 255
   response: 7E80462F430FF

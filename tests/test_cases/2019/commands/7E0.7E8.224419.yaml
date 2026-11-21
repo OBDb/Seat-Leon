@@ -15,3 +15,18 @@ test_cases:
 - expected_values:
     LEON_ENG_T_MANAGEMENT: 9458
   response: 7E80562441924F2
+- expected_values:
+    LEON_ENG_T_MANAGEMENT: 9883
+  response: 7E805624419269B
+- expected_values:
+    LEON_ENG_T_MANAGEMENT: 9888
+  response: 7E80562441926A0
+- expected_values:
+    LEON_ENG_T_MANAGEMENT: 12463
+  response: 7E80562441930AF
+- expected_values:
+    LEON_ENG_T_MANAGEMENT: 12466
+  response: 7E80562441930B2
+- expected_values:
+    LEON_ENG_T_MANAGEMENT: 12467
+  response: 7E80562441930B3

@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.2238EB
 test_cases:
 - expected_values:
+    LEON_PQ35_CLUTCH_1_ACTUAL_P: 0.06
+  response: 7E9056238EB0600
+- expected_values:
+    LEON_PQ35_CLUTCH_1_ACTUAL_P: 3.19
+  response: 7E9056238EB3F01
+- expected_values:
     LEON_PQ35_CLUTCH_1_ACTUAL_P: 3.3
   response: 7E9056238EB4A01
 - expected_values:

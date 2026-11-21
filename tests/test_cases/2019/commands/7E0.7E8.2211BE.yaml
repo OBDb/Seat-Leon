@@ -14,6 +14,9 @@ test_cases:
   response: 7E8056211BE0040
 - expected_values:
     LEON_PQ35_OIL_T_2: null
+  response: 7E8056211BEFFF1
+- expected_values:
+    LEON_PQ35_OIL_T_2: null
   response: 7E8056211BEFFF7
 - expected_values:
     LEON_PQ35_OIL_T_2: null

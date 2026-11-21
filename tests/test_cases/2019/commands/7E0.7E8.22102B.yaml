@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22102B
 test_cases:
 - expected_values:
+    LEON_ACCEL_PEDAL_SENS_2_V: 364.8
+  response: 7E80562102B0720
+- expected_values:
     LEON_ACCEL_PEDAL_SENS_2_V: 379.6
   response: 7E80562102B076A
 - expected_values:
@@ -12,6 +15,9 @@ test_cases:
 - expected_values:
     LEON_ACCEL_PEDAL_SENS_2_V: 583.4
   response: 7E80562102B0B65
+- expected_values:
+    LEON_ACCEL_PEDAL_SENS_2_V: 800.8
+  response: 7E80562102B0FA4
 - expected_values:
     LEON_ACCEL_PEDAL_SENS_2_V: 804.4
   response: 7E80562102B0FB6
