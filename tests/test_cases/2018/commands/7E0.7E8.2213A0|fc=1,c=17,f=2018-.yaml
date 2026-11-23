@@ -10,6 +10,9 @@ test_cases:
     LEON_COOLANT_T_MODELED_VALUE_RAW: 115
   response: 7E8046213A073
 - expected_values:
+    LEON_COOLANT_T_MODELED_VALUE_RAW: 116
+  response: 7E8046213A074
+- expected_values:
     LEON_COOLANT_T_MODELED_VALUE_RAW: 119
   response: 7E8046213A077
 - expected_values:
