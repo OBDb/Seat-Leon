@@ -7,5 +7,5 @@ test_cases:
     LEON_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    LEON_VSS: 78
-  response: 7E80462F40D4E
+    LEON_VSS: 89
+  response: 7E80462F40D59

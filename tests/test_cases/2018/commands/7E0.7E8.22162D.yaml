@@ -2,4 +2,10 @@ command_id: 7E0.7E8.22162D
 test_cases:
 - expected_values:
     LEON_PQ35_FUEL_T: null
+  response: 7E80762162D00000000
+- expected_values:
+    LEON_PQ35_FUEL_T: null
+  response: 7E80762162D00000800
+- expected_values:
+    LEON_PQ35_FUEL_T: null
   response: 7E80762162D02000000
