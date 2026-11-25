@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     LEON_VSS_7E1: 0
   response: 7E90562F40D0000
+- expected_values:
+    LEON_VSS_7E1: 10
+  response: 7E90562F40D0A19
