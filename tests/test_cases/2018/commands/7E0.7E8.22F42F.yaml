@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
+    LEON_FLI_INPUT: 5.4902
+  response: 7E80462F42F0E
+- expected_values:
+    LEON_FLI_INPUT: 6.66667
+  response: 7E80462F42F11
+- expected_values:
     LEON_FLI_INPUT: 7.45098
   response: 7E80462F42F13
 - expected_values:
