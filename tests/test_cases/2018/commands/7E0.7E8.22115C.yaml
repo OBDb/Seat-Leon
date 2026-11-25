@@ -1,5 +1,10 @@
 command_id: 7E0.7E8.22115C
 test_cases:
 - expected_values:
+    LEON_PQ35_SRV_REGEN_STAT: 1
+  response: |-
+    22115C
+    7E80562115C010E
+- expected_values:
     LEON_PQ35_SRV_REGEN_STAT: 39
   response: 7E80562115C2710

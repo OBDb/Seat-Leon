@@ -2,6 +2,16 @@ command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
     LEON_PQ35_OIL_T_2: null
+  response: |-
+    2211BE
+    7E8056211BEFFDB
+- expected_values:
+    LEON_PQ35_OIL_T_2: null
+  response: |-
+    2211BE
+    7E8056211BEFFDC
+- expected_values:
+    LEON_PQ35_OIL_T_2: null
   response: 7E8056211BEFFC0
 - expected_values:
     LEON_PQ35_OIL_T_2: null
