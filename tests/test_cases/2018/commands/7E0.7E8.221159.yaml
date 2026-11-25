@@ -2,4 +2,9 @@ command_id: 7E0.7E8.221159
 test_cases:
 - expected_values:
     LEON_MAX_CHA_CUR_2: 0
+  response: |-
+    221159
+    7E8056211590000
+- expected_values:
+    LEON_MAX_CHA_CUR_2: 0
   response: '7E8056211590000'
